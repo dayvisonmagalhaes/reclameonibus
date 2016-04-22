@@ -84,7 +84,7 @@ public class TelaCadastro extends Activity implements OnClickListener {
 
             try {
                 // Locate the NodeList name
-                jsonarray = jsonobject.getJSONArray("a");
+                jsonarray = jsonobject.getJSONArray("ç");
                 for (int i = 0; i < jsonarray.length(); i++) {
                     jsonobject = jsonarray.getJSONObject(i);
 
