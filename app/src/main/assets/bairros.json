@@ -1,0 +1,555 @@
+{
+  "bairro":
+[
+{
+"nome": "Bairro"
+},
+{
+"nome": "Agua Santa"
+},
+{
+"nome": "Abolição"
+},
+{
+"nome": "Acari"
+}
+,
+{
+"nome": "Alto da Boa Vista"
+}
+,
+{
+"nome": "Anchieta"
+},
+{
+"nome": "Andarai"
+},
+{
+"nome": "Anil"
+},
+{
+"nome": "Bancarios"
+}
+,
+{
+"nome": "Bangu"
+}
+,
+{
+"nome": "Barra da Tijuca"
+},
+{
+"nome": "Barra de Guaratiba"
+},
+{
+"nome": "Barros Filho"
+},
+{
+"nome": "Benfica"
+}
+,
+{
+"nome": "Bento Ribeiro"
+}
+,
+{
+"nome": "Bonsucesso"
+},
+{
+"nome": "Botafogo"
+},
+{
+"nome": "Brnomez de Pina"
+},
+{
+"nome": "Cachambi"
+}
+,
+{
+"nome": "Cacuia"
+}
+,
+{
+"nome": "Caju"
+},
+{
+"nome": "Camorim"
+},
+{
+"nome": "Campinho"
+},
+{
+"nome": "Campo Grande"
+}
+,
+{
+"nome": "Campo dos Afonsos"
+}
+,
+{
+"nome": "Cascadura"
+},
+{
+"nome": "Catete"
+},
+{
+"nome": "Catumbi"
+},
+{
+"nome": "Cavalcanti"
+}
+,
+{
+"nome": "Centro"
+}
+,
+{
+"nome": "Cidade Nova"
+},
+{
+"nome": "Cidade Universitnomeria"
+},
+{
+"nome": "Cidade de Deus"
+},
+{
+"nome": "Cocotnome"
+}
+,
+{
+"nome": "Coelho Neto"
+}
+,
+{
+"nome": "Colnomegio"
+},
+{
+"nome": "Complexo do Alemnomeo"
+},
+{
+"nome": "Copacabana"
+},
+{
+"nome": "Cordovil"
+}
+,
+{
+"nome": "Cosme Velho"
+}
+,
+{
+"nome": "Cosmos"
+},
+{
+"nome": "Costa Barros"
+},
+{
+"nome": "Curicica"
+},
+{
+"nome": "Del Castilho"
+}
+,
+{
+"nome": "Deodoro"
+}
+,
+{
+"nome": "Encantado"
+},
+{
+"nome": "Engenheiro Leal"
+},
+{
+"nome": "Engenho Novo"
+},
+{
+"nome": "Engenho da Rainha"
+}
+,
+{
+"nome": "Engenho de Dentro"
+}
+,
+{
+"nome": "Estnomecio"
+},
+{
+"nome": "Flamengo"
+},
+{
+"nome": "Freguesia (Jacarepagunome)"
+},
+{
+"nome": "Freguesia (ilha)"
+}
+,
+{
+"nome": "Galenomeo"
+}
+,
+{
+"nome": "Gambnomea"
+},
+{
+"nome": "Gardnomenia Azul"
+},
+{
+"nome": "Gericinnome"
+},
+{
+"nome": "Glnomeria"
+}
+,
+{
+"nome": "Grajau"
+}
+,
+{
+"nome": "Grumari"
+},
+{
+"nome": "Guadalupe"
+},
+{
+"nome": "Guaratiba"
+},
+{
+"nome": "Gnomevea"
+}
+,
+{
+"nome": "Higiennomepolis"
+}
+,
+{
+"nome": "Honnomerio Gurgel"
+},
+{
+"nome": "Humaitnome"
+},
+{
+"nome": "Inhauma"
+},
+{
+"nome": "Inhoanomeba"
+}
+,
+{
+"nome": "Ipanema"
+}
+,
+{
+"nome": "Irajnome"
+},
+{
+"nome": "Itanhangnome"
+},
+{
+"nome": "Jacarepagua"
+},
+{
+"nome": "Jacarezinho"
+}
+,
+{
+"nome": "Jacarnome"
+}
+,
+{
+"nome": "Jardim America"
+},
+{
+"nome": "Jardim Botnomenico"
+},
+{
+"nome": "Jardim Carioca"
+},
+{
+"nome": "Jardim Guanabara"
+}
+,
+{
+"nome": "Jardim Sulacap"
+}
+,
+{
+"nome": "Jonome"
+},
+{
+"nome": "Lagoa"
+},
+{
+"nome": "Lapa"
+},
+{
+"nome": "Laranjeiras"
+}
+,
+{
+"nome": "Leblon"
+}
+,
+{
+"nome": "Leme"
+},
+{
+"nome": "Lins de Vasconcelos"
+},
+{
+"nome": "Madureira"
+},
+{
+"nome": "Magalhnomees Bastos"
+}
+,
+{
+"nome": "Mangueira"
+}
+,
+{
+"nome": "Manguinhos"
+},
+{
+"nome": "Maracannome"
+},
+{
+"nome": "Marechal Hermes"
+},
+{
+"nome": "Maria da Granomea"
+}
+,
+{
+"nome": "Marnome"
+}
+,
+{
+"nome": "Meier"
+},
+{
+"nome": "Monernome"
+},
+{
+"nome": "Olaria"
+},
+{
+"nome": "Oswaldo Cruz"
+}
+,
+{
+"nome": "Pacinomencia"
+}
+,
+{
+"nome": "Padre Miguel"
+},
+{
+"nome": "Paquetnome"
+},
+{
+"nome": "Parada de Lucas"
+},
+{
+"nome": "Parque Anchieta"
+}
+,
+{
+"nome": "Parque Colnomembia"
+}
+,
+{
+"nome": "Pavuna"
+},
+{
+"nome": "Pechincha"
+},
+{
+"nome": "Pedra de Guaratiba"
+},
+{
+"nome": "Penha"
+}
+,
+{
+"nome": "Penha Circular"
+}
+,
+{
+"nome": "Piedade"
+},
+{
+"nome": "Pilares"
+},
+{
+"nome": "Pitangueiras"
+},
+{
+"nome": "Portuguesa"
+}
+,
+{
+"nome": "Praia da Bandeira"
+}
+,
+{
+"nome": "Pranomea Seca"
+},
+{
+"nome": "Pranomea da Bandeira"
+},
+{
+"nome": "Quintino Bocaiuva"
+},
+{
+"nome": "Ramos"
+}
+,
+{
+"nome": "Realengo"
+}
+,
+{
+"nome": "Recreio dos Bandeirantes"
+},
+{
+"nome": "Riachuelo"
+},
+{
+"nome": "Ribeira"
+},
+{
+"nome": "Ricardo de Albuquerque"
+}
+,
+{
+"nome": "Rio Comprido"
+}
+,
+{
+"nome": "Rocha"
+},
+{
+"nome": "Rocha Miranda"
+},
+{
+"nome": "Rocinha"
+},
+{
+"nome": "Sampaio"
+}
+,
+{
+"nome": "Santa Cruz"
+}
+,
+{
+"nome": "Santa Teresa"
+},
+{
+"nome": "Santo Cristo"
+},
+{
+"nome": "Santnomessimo"
+},
+{
+"nome": "Sanomede"
+}
+,
+{
+"nome": "Senador Camarnome"
+}
+,
+{
+"nome": "Senador Vasconcelos"
+},
+{
+"nome": "Sepetiba"
+},
+{
+"nome": "Snomeo Conrado"
+},
+{
+"nome": "Snomeo Cristovnomeo"
+}
+,
+{
+"nome": "Snomeo Francisco Xavier"
+}
+,
+{
+"nome": "Tanque"
+},
+{
+"nome": "Taquara"
+},
+{
+"nome": "Taunome"
+},
+{
+"nome": "Tijuca"
+}
+,
+{
+"nome": "Todos os Santos"
+}
+,
+{
+"nome": "Tomnomes Coelho"
+},
+{
+"nome": "Turianomeu"
+},
+{
+"nome": "Urca"
+},
+{
+"nome": "Vargem Grande"
+}
+,
+{
+"nome": "Vargem Pequena"
+}
+,
+{
+"nome": "Vasco da Gama"
+},
+{
+"nome": "Vicente de Carvalho"
+},
+{
+"nome": "Vidigal"
+},
+{
+"nome": "Vignomerio Geral"
+}
+,
+{
+"nome": "Vila Isabel"
+}
+,
+{
+"nome": "Vila Cosmos"
+},
+{
+"nome": "Vila Militar"
+},
+{
+"nome": "Vila Valqueire"
+},
+{
+"nome": "Vila da Penha"
+}
+,
+{
+"nome": "Vista Alegre"
+}
+,
+{
+"nome": "Vnomez Lobo"
+},
+{
+"nome": "Zumbi"
+}
+]
+}

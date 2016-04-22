@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Reclame Ônibus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_confirmar">Confirmar</string>
+    <string name="title_activity_tela_apresentacao">Apresentacao</string>
+    <string name="title_activity_tela_filtro">Filtro</string>
+    <string name="title_activity_tela_cadastro">Cadastro</string>
+    <string name="title_activity_tela_reclamacao">Reclamação</string>
+
+
+    <string-array name="bairros">
+        <item>-- Selecione --</item>
+        <item>Abolição</item>
+        <item>Bangu</item>
+        <item>Botafogo</item>
+        <item>Campo Grande</item>
+        <item>Copacabana</item>
+        <item>Deodoro</item>
+        <item>Irajá</item>
+        <item>Leblon</item>
+        <item>Madureira</item>
+        <item>Maracanã</item>
+        <item>Méier</item>
+        <item>Osvaldo Cruz</item>
+        <item>Realengo</item>
+        <item>Tijuca</item>
+        <item>Vicente de Carvalho</item>
+    </string-array>
+
+    <string-array name="linhas">
+        <item>121 - Centro x Cascadura</item>
+        <item>135 - Botafogo x Engenho de Dentro</item>
+        <item>232 - Lins x Praça XV</item>
+        <item>235 - Lins x Central</item>
+        <item>245 - Grajaú x Pechincha</item>
+        <item>257 - Maracanã x Deodoro</item>
+        <item>310 - Rio Centro x Maracanã</item>
+        <item>318 - Barra da Tijuca x Rio Comprido</item>
+        <item>360 - Castelo x Recreio</item>
+        <item>398 - Praça Tirandentes x Bangu</item>
+        <item>455 - Vila Isabel x Central</item>
+        <item>460 - São Cristovão x Leblon</item>
+        <item>557 - Vila Isabel x Freguesia</item>
+        <item>606 - Engenho de Dentro x Rodoviária</item>
+        <item>771 - Coelho Neto x Campo Grande</item>
+        <item>794 - Guadalupe x Marechal Hermes</item>
+        <item>853 - Bangu x Barra da Tijuca</item>
+        <item>906 - Penha x Copacabana</item>
+    </string-array>
+
+    <string-array name="reclamacoes">
+        <item>Não parou no ponto</item>
+        <item>Escassez de ônibus</item>
+        <item>Comportamento indevido do motorista</item>
+        <item>Má conservação do ônibus</item>
+        <item>Excesso de velocidade</item>
+        <item>Intervalo acima do normal</item>
+        <item>Outros</item>
+    </string-array>
+    <string name="title_activity_tela_filtro_pesquisa_ou_reclamacao">
+        TelaFiltroPesquisaOuReclamacao
+    </string>
+    <string name="title_activity_tela_pesquisa">TelaPesquisa</string>
+    <string name="title_activity_tela_login">TelaLoginActivity</string>
+    <string name="title_activity_cadastro_usuarios">CadastroUsuarios</string>
+    <string name="title_activity_tela__final">Tela_Final</string>
+
+
+</resources>

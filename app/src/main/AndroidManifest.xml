@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mobile.br.com.reclameonibus">
+
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_onibus"
+        android:label="@string/app_name">
+        <activity
+            android:name=".TelaApresentacao"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TelaFiltro"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TelaLogin"
+            android:label="Acesse sua conta"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TelaCadastro"
+            android:label="Cadastro"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TelaFiltroConsultaOuReclamacao"
+            android:label="Escolha uma opção"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TelaConsulta"
+            android:label="Consulta de Reclamações"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TelaReclamacoes"
+            android:label="Registre sua solicitação"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TelaFinal"
+            android:label="Reclamação enviada"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>
