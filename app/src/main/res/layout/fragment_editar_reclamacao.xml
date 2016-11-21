@@ -1,0 +1,62 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_dark"
+    tools:context=".fragment.DialogReclamacaoFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!--Dados da reclamacao1-->
+        <include layout="@layout/form_reclamacao"/>
+        <!--Dados da reclamacao2-->
+        <include layout="@layout/form_reclamacao_2"/>
+
+        <LinearLayout
+            android:id="@+id/linearEditar"
+            android:orientation="vertical"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_width="170dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/button_edita"
+                android:id="@+id/btEditar"
+                style="@style/AppTheme.Button"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearConfirmar"
+            android:orientation="horizontal"
+            android:layout_margin="5dp"
+            android:padding="10dp"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/button_confirma"
+                android:id="@+id/btConfirmar"
+                style="@style/AppTheme.Button"
+                android:layout_gravity="center_vertical" />
+            <Button
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/button_cancelar"
+                android:id="@+id/btCancelar"
+                style="@style/AppTheme.Button"
+                android:layout_gravity="center_vertical" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

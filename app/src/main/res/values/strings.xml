@@ -1,72 +1,113 @@
 <resources>
     <string name="app_name">Reclame Ônibus</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="action_refresh">Refresh</string>
-    <string name="action_confirmar">Confirmar</string>
-    <string name="title_activity_tela_apresentacao">Apresentacao</string>
-    <string name="title_activity_tela_filtro">Filtro</string>
-    <string name="title_activity_tela_cadastro">Cadastro</string>
-    <string name="title_activity_tela_reclamacao">Reclamação</string>
+    <string name="title_section1">Reclamacões</string>
+    <string name="title_section2">Perfil</string>
+    <string name="title_section3">Ajustes</string>
+    <string name="title_section4">Sobre</string>
+    <string name="title_section5">Linhas de Ônibus</string>
 
+    <string name="ha_algo_para_reclamar">O que deseja fazer?</string>
 
-    <string-array name="bairros">
-        <item>-- Selecione --</item>
-        <item>Abolição</item>
-        <item>Bangu</item>
-        <item>Botafogo</item>
-        <item>Campo Grande</item>
-        <item>Copacabana</item>
-        <item>Deodoro</item>
-        <item>Irajá</item>
-        <item>Leblon</item>
-        <item>Madureira</item>
-        <item>Maracanã</item>
-        <item>Méier</item>
-        <item>Osvaldo Cruz</item>
-        <item>Realengo</item>
-        <item>Tijuca</item>
-        <item>Vicente de Carvalho</item>
-    </string-array>
+    <string name="facebook_app_id">968013636659441</string>
 
-    <string-array name="linhas">
-        <item>121 - Centro x Cascadura</item>
-        <item>135 - Botafogo x Engenho de Dentro</item>
-        <item>232 - Lins x Praça XV</item>
-        <item>235 - Lins x Central</item>
-        <item>245 - Grajaú x Pechincha</item>
-        <item>257 - Maracanã x Deodoro</item>
-        <item>310 - Rio Centro x Maracanã</item>
-        <item>318 - Barra da Tijuca x Rio Comprido</item>
-        <item>360 - Castelo x Recreio</item>
-        <item>398 - Praça Tirandentes x Bangu</item>
-        <item>455 - Vila Isabel x Central</item>
-        <item>460 - São Cristovão x Leblon</item>
-        <item>557 - Vila Isabel x Freguesia</item>
-        <item>606 - Engenho de Dentro x Rodoviária</item>
-        <item>771 - Coelho Neto x Campo Grande</item>
-        <item>794 - Guadalupe x Marechal Hermes</item>
-        <item>853 - Bangu x Barra da Tijuca</item>
-        <item>906 - Penha x Copacabana</item>
-    </string-array>
+    <string name="button_login">LOGIN</string>
+    <string name="button_signin">CADASTRO</string>
+    <string name="button_cadastro">Cadastrar</string>
+    <string name="button_confirma">Confirmar</string>
+    <string name="button_edita">Editar</string>
+    <string name="button_cancelar">Cancelar</string>
+    <string name="button_candidate">Candidate-se</string>
+    <string name="button_send_pass">Recuperar Senha</string>
+    <string name="button_pesquisar">Pesquisar</string>
+    <string name="button_reclamar">Reclamar!</string>
+    <string name="button_alterar_hora">Alterar hora</string>
+    <string name="button_alterar_data">Alterar data</string>
+    <string name="button_change_pass">Alterar senha</string>
+    <string name="button_enviar_reclamacao">Enviar reclamacão</string>
 
-    <string-array name="reclamacoes">
-        <item>Não parou no ponto</item>
-        <item>Escassez de ônibus</item>
-        <item>Comportamento indevido do motorista</item>
-        <item>Má conservação do ônibus</item>
-        <item>Excesso de velocidade</item>
-        <item>Intervalo acima do normal</item>
-        <item>Outros</item>
-    </string-array>
-    <string name="title_activity_tela_filtro_pesquisa_ou_reclamacao">
-        TelaFiltroPesquisaOuReclamacao
-    </string>
-    <string name="title_activity_tela_pesquisa">TelaPesquisa</string>
-    <string name="title_activity_tela_login">TelaLoginActivity</string>
-    <string name="title_activity_cadastro_usuarios">CadastroUsuarios</string>
-    <string name="title_activity_tela__final">Tela_Final</string>
+    <string name="text_carregando">Carregando...</string>
+    <string name="text_erro">Não foi possível realizar a operação desejada.</string>
+    <string name="text_sucesso">Operação realizada com sucesso!</string>
+    <string name="text_ola">Olá</string>
+    <string name="text_ola_nome">%s ,</string>
+    <string name="text_forgot_pass">Esqueci a senha</string>
+    <string name="text_empty">Sem reclamações no momento.</string>
+    <string name="text_login_01">Faça seu </string>
+    <string name="text_login_02">login</string>
+    <string name="text_login_03">ou</string>
+    <string name="text_login_04">crie uma conta.</string>
+    <string name="text_compartilhar">Compartilhar com</string>
+
+    <string formatted="false" name="text_titulo_compartilhar_fb">Reclame Ônibus - Problema no ônibus da linha %linha.</string>
+
+    <string formatted="false" name="text_mensagem_compartilhar">O ônibus apresentou o seguinte problema: %tiporec as %data em %local .
+        \nBaixe o aplicativo Reclame Ônibus para ver mais detalhes.</string>
+
+    <string name="text_titulo_compartilhar_email">Reclame Ônibus - Problema na linha %linha.</string>
+
+       <string formatted="false" name="text_mensagem_compartilhar_whatsapp">Reclame Ônibus - O ônibus da linha %linha  -  apresentou
+           o seguinte problema:\n %tiporec as %hora do dia %data em %local.
+        \nBaixe o aplicativo Reclame Ônibus para ver mais detalhes.</string>
+
+    <string name="text_linha_onibus">Linha do ônibus</string>
+    <string name="text_ordem">Nº do carro (opcional)</string>
+    <string name="text_hora_ocorrido">Hora do ocorrido</string>
+    <string name="text_hora_atual">Hora atual</string>
+    <string name="text_data_ocorrido">Data do ocorrido</string>
+    <string name="text_data_atual">Data atual</string>
+
+    <string name="text_local">Local</string>
+
+    <string name="switch_notificacao">Notificações</string>
+
+    <string name="label_dados_usuario">Dados Pessoais</string>
+    <string name="label_dados_reclamacao">Informações sobre a reclamação</string>
+
+    <string name="sublabel_dados_usuario">Preencha os dados para o cadastro.</string>
+    <string name="sublabel_dados_reclamacao">Preencha o máximo de informações possíveis sobre o ocorrido.</string>
+
+    <string name="edittext_exp_cargo">Último cargo</string>
+    <string name="edittext_exp_area">Área</string>
+    <string name="edittext_exp_ativ">Resumo das atividades</string>
+    <string name="edittext_exp_empresa">Empresa</string>
+
+    <string name="edittext_formacao_outro_curso">Não encontrou o curso? Especifique</string>
+    <string name="edittext_formacao_data_conclusao">Data de conclusão</string>
+    <string name="edittext_formacao_instituicao">Nome da instituição</string>
+    <string name="edittext_formacao_lingua_outro">Outra</string>
+    <string name="edittext_cursos_especializacoes">Cursos/Especializações</string>
+
+    <string name="edittext_dados_nome">Nome Completo</string>
+    <string name="edittext_dados_telefone">Telefone</string>
+    <string name="edittext_dados_email">Email</string>
+    <string name="edittext_dados_email_conf">Confirmar email</string>
+    <string name="edittext_dados_senha">Senha</string>
+    <string name="edittext_dados_senha_conf">Confirmar senha</string>
+    <string name="edittext_dados_senha_nova">Nova senha</string>
+    <string name="edittext_dados_bairro">Bairro</string>
+
+    <string name="dialog_explain_text">Para continuar é necessário ter um cadastro.</string>
+    <string name="dialog_nao_cadastrado">Ainda não possui um cadastro?</string>
+    <string name="dialog_cadastrato">Já possui um cadastro?</string>
+    <string name="dialog_exigencias">EXIGÊNCIAS</string>
+
+    <string name="toast_preencha">Preencha os dados obrigatórios!</string>
+    <string name="toast_email_diferente">Confirmação de email diferente de email. Digite novamente.</string>
+    <string name="toast_senha_diferente">Confirmação da senha diferente da senha. Digite novamente.</string>
+    <string name="toast_sucesso_senha">Senha enviada com sucesso!</string>
+    <string name="toast_no_whatsapp">Você não possui o Whatsapp instalado</string>
+
+    <string name="sobre_conteudo">
+        Aplicativo desenvolvido para auxiliar passageiros de ônibus
+        do município do Rio de Janeiro.</string>
+
+    <string name="text_ajustes_logout">Finalizar sessão</string>
+    <string name="text_ajustes_trocar_senha">Trocar senha</string>
+    <string name="ajustes_versao">Reclame Ônibus </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

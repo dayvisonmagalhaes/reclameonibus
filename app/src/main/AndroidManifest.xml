@@ -4,16 +4,32 @@
 
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+
 
     <application
+        android:name=".ReclameOnibus"
+        android:largeHeap="true"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_onibus"
+        android:icon="@drawable/ic_onibus"
         android:label="@string/app_name">
+
+    <meta-data
+        android:name="com.google.android.gms.version"
+        android:value="@integer/google_play_services_version" />
+
         <activity
-            android:name=".TelaApresentacao"
+            android:name=".MainActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar">
+            android:theme="@style/Theme.AppCompat.Light"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -21,33 +37,43 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".TelaFiltro"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name=".TelaLogin"
-            android:label="Acesse sua conta"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name=".TelaCadastro"
-            android:label="Cadastro"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name=".TelaFiltroConsultaOuReclamacao"
-            android:label="Escolha uma opção"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name=".TelaConsulta"
-            android:label="Consulta de Reclamações"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name=".TelaReclamacoes"
-            android:label="Registre sua solicitação"
-            android:theme="@style/AppTheme" />
-        <activity
-            android:name=".TelaFinal"
-            android:label="Reclamação enviada"
-            android:theme="@style/AppTheme"></activity>
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"/>
+
+        <meta-data
+            android:name="AA_DB_NAME"
+            android:value="matheusn_reclameonibus.db" />
+        <meta-data
+            android:name="AA_DB_VERSION"
+            android:value="1" />
+        <meta-data
+            android:name="AA_MODELS"
+            android:value="mobile.br.com.reclameonibus.model.User,mobile.br.com.reclameonibus.model.Reclamacao" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider968013636659441"
+            android:exported="true" />
+
+        <service
+            android:name=".ReclamacoesService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+
+        <receiver
+            android:name=".ReclamacoesReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"></action>
+            </intent-filter>
+        </receiver>
+
+
     </application>
 
 </manifest>

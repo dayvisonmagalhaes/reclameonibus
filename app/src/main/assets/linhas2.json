@@ -1,0 +1,2038 @@
+{
+  "onibus":
+[
+  {
+    "linha":"001 - PRACA GENERAL OSORIO X PRACA MAUA (CIRCULAR)"
+  },
+  {
+    "linha":"006 - SILVESTRE X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"SE006 -  SE-SILVESTRE X CASTELO(CIRCULAR)"
+  },
+  {
+    "linha":"SN006 -  SN - CASTELO X SANTA TERESA (CIRCULAR)"
+  },
+  {
+    "linha":"7 -  SILVESTRE X CENTRAL (CIRCULAR)"
+  },
+  {
+    "linha":"LECD7 -  LECD7- RECREIO X CARIOCA"
+  },
+  {
+    "linha":"LECD09 -  JARDIM PALMARES X SANTA CRUZ (CIRCULAR)"
+  },
+  {
+    "linha":"10 -  FATIMA X CENTRAL (CIRCULAR)"
+  },
+  {
+    "linha":"LECD10 -  CURICICA(PROJAC) X RIOSUL(V.BARRA DA TIJUCA)CIRC."
+  },
+  {
+    "linha":"11 -  RODOVIARIA X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"LECD13 -  FREGUESIA X JOATINGA (V. RIO DAS PEDRAS)CIRCULAR"
+  },
+  {
+    "linha":"14 -  PAULA MATOS X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"SE014 -  SE - PAULA MATOS X CASTELO(CIRCULAR)"
+  },
+  {
+    "linha":"LECD14 -  PINGO D`AGUA X PACIENCIA(V.EST.31 DE OUTUBRO)CIRC"
+  },
+  {
+    "linha":"LECD16 -  RIO DAS PEDRASXILHA PURA(V.AV.ABELARDO BUENO)CIRC."
+  },
+  {
+    "linha":"LECD17 -  MARAMBAIA X CASTELO(V.BARRA DA TIJUCA/COPACABANA)"
+  },
+  {
+    "linha":"LECD19 -  SEPETIBA X CARIOCA (VIA T. PREF. MARCELLO ALENCAR)"
+  },
+  {
+    "linha":"LECD20 -  SEPETIBA X BANGU"
+  },
+  {
+    "linha":"LECD21 -  LECD21 - RIO COMPRIDO X LARGO DO MACHADO (VIA LAPA/CATETE)CIRCULAR"
+  },
+  {
+    "linha":"LECD22 -  LECD22- CIDADE DE DEUS X CANDELARIA (VIA AV. MENEZES CORTES)"
+  },
+  {
+    "linha":"LECD23 -  LECD23 - FREGUESIA X MADUREIRA (VIA CASCADURA) CIRCULAR"
+  },
+  {
+    "linha":"LECD24 -  LECD24 - CASACADURA X JARDIM OCEANICO (VIA LINHA AMARELA/FREGUESIA/RIO DAS PEDRAS)"
+  },
+  {
+    "linha":"100 -  TRONCAL 1 - GAL. OSORIO X CENTRAL(VIA N.S.COPACABANA/ATERRO DO FLAMENGO)"
+  },
+  {
+    "linha":"TR0NCAL 01 -  "
+  },
+  {
+    "linha":"101 -  TRONCAL 10-JD.DE ALAH X CRUZ VERMELHA(VIA J.BOTANICO/LAPA)"
+  },
+  {
+    "linha":"TR0NCAL 1 -  "
+  },
+  {
+    "linha":"102 -  TRONCAL 2 - JD. DE ALAH X RODOVIARIA (VIA LAPA)"
+  },
+  {
+    "linha":"TR0NCAL 02 -  "
+  },
+  {
+    "linha":"104 -  TRONCAL 4 - SAO CONRADO X RODOVIARIA (V.AV.N.S.COPACABANA/CATETE/AV. F. BICALHO)"
+  },
+  {
+    "linha":"TR0NCAL 04 -  "
+  },
+  {
+    "linha":"105 -  TRONCAL 5-ALTO GAVEA X CENTRAL(V.BOTAFOGO/P.FLAMENGO)"
+  },
+  {
+    "linha":"TR0NCAL 05 -  "
+  },
+  {
+    "linha":"106 -  TRONCAL 3 - CENTRAL X LEBLON(V.ATERRO/AV.N.S.COPACABANA)CIRCULAR"
+  },
+  {
+    "linha":"TR0NCAL 03 -  "
+  },
+  {
+    "linha":"107 -  CENTRAL X URCA (CIRCULAR)"
+  },
+  {
+    "linha":"108 -  TRONCAL 6 - JARDIM DE ALAH X RODOVIARIA(VIA TUNEL VELHO/TUNEL SANTA BARBARA)"
+  },
+  {
+    "linha":"TR0NCAL 06 -  "
+  },
+  {
+    "linha":"109 -  TRONCAL 9 - S. CONRADO X CENTRAL(V.J.BOTANICO/T.STA.BARBARA)"
+  },
+  {
+    "linha":"TR0NCAL 09 -  "
+  },
+  {
+    "linha":"110 -  RODOVIARIA X JD.DE ALAH (VIA T.REBOUCAS) CIRCULAR"
+  },
+  {
+    "linha":"111 -  CENTRAL X JD.DE ALAH(V.ELEVADO/T.REBOUCAS)CIRCULAR"
+  },
+  {
+    "linha":"112 -  RODOVIARIA X ALTO DA GAVEA(V.T.REBOUCAS)CIRCULAR"
+  },
+  {
+    "linha":"117 -  TRONCAL 7 - CENTRAL X COSME VELHO(VIA T. SANTA BARBARA)"
+  },
+  {
+    "linha":"TR0NCAL 07 -  "
+  },
+  {
+    "linha":"118 -  TRONCAL 8 - COSME VELHO X RODOVIARIA(VIA PRACA MAUA)"
+  },
+  {
+    "linha":"TR0NCAL 08 -  "
+  },
+  {
+    "linha":"133 -  LARGO DO MACHADO X RODOVIARIA (VIA ESTACIO)"
+  },
+  {
+    "linha":"181 -  RODOVIARIA X SAO CONRADO (VIA LINHA AMARELA) CIRCULAR"
+  },
+  {
+    "linha":"201 -  SANTA ALEXANDRINA X CASTELO (VIA LAPA)CIRCULAR"
+  },
+  {
+    "linha":"202 -  RIO COMPRIDO X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"209 -  ESTACIO X CAJU (VIA SAO CRISTOVAO) - CIRCULAR"
+  },
+  {
+    "linha":"210 -  CAJU X CANDELARIA (CIRCULAR)"
+  },
+  {
+    "linha":"213 -  MUDA X CANDELARIA (CIRCULAR)"
+  },
+  {
+    "linha":"217 -  ANDARAI X CARIOCA (CIRCULAR)"
+  },
+  {
+    "linha":"218 -  VILA ISABEL X CANDELARIA(CIRCULAR)"
+  },
+  {
+    "linha":"220 -  USINA X CANDELARIA (VIA HADDOCK LOBO)-CIRCULAR"
+  },
+  {
+    "linha":"222 -  VILA ISABEL X PCA.MAUA(V.HOSP. DOS SERVIDORES)CIRC"
+  },
+  {
+    "linha":"226 -  GRAJAU X CARIOCA (CIRCULAR)"
+  },
+  {
+    "linha":"229 -  USINA X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"232 -  LINS X CASTELO (VIA RUA AQUIDABA)CIRCULAR"
+  },
+  {
+    "linha":"SE232 -  SE - LINS X LEME(CIRCULAR)"
+  },
+  {
+    "linha":"SV232 -  SV - LINS XCASTELO(CIRCULAR)"
+  },
+  {
+    "linha":"SPA232 -  SPA - ENGENHO NOVO X CASTELO(CIRCULAR)"
+  },
+  {
+    "linha":"SPB232 -  SPB - LINS X CASTELO(CIRCULAR)"
+  },
+  {
+    "linha":"238 -  AGUA SANTA X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"239 -  AGUA SANTA X CASTELO (VIA 24 DE MAIO) CIRCULAR"
+  },
+  {
+    "linha":"247 -  CAMARISTA MEIER X PASSEIO (CIRCULAR)"
+  },
+  {
+    "linha":"SP247 -  SP - CAMARISTA MEIER X CANDELARIA(CIRCULAR)"
+  },
+  {
+    "linha":"249 -  AGUA SANTA X CARIOCA (CIRCULAR)"
+  },
+  {
+    "linha":"SV249 -  SV-AGUA SANTA X CARIOCA(CIRCULAR)"
+  },
+  {
+    "linha":"SP249 -  SP - AGUA SANTA X CANDELARIA (CIRCULAR)"
+  },
+  {
+    "linha":"254 -  MADUREIRA X CANDELARIA"
+  },
+  {
+    "linha":"SP254 -  SP - PRACA AVAI XCANDELARIA"
+  },
+  {
+    "linha":"265 -  MARECHAL HERMES X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"SV265 -  SV - MARECHAL HERMES X CASTELO (VIA PARQUE MADUREIRA)CIRCULAR"
+  },
+  {
+    "linha":"275 -  MEIER X CANDELARIA (CIRCULAR)"
+  },
+  {
+    "linha":"277 -  ROCHA MIRANDA X CANDELARIA (V.SAO CRISTOVAO) CIRCULAR"
+  },
+  {
+    "linha":"284 -  OLARIA X CANDELARIA (CIRCULAR)"
+  },
+  {
+    "linha":"292 -  ENGENHO DA RAINHA X CASTELO(CIRCULAR)"
+  },
+  {
+    "linha":"SP292 -  SP - ENGENHO DA RAINHA X CANDELARIA(CIRCULAR)"
+  },
+  {
+    "linha":"296 -  IRAJA X CASTELO"
+  },
+  {
+    "linha":"298 -  ACARI X CASTELO"
+  },
+  {
+    "linha":"SPA298 -  SPA - CAVALCANTI X CASTELO"
+  },
+  {
+    "linha":"SPB298 -  SPB - CONJUNTO DOS CORREIOS X CASTELO"
+  },
+  {
+    "linha":"SPC298 -  SPC - TURIACU X CASTELO"
+  },
+  {
+    "linha":"300 -  SULACAP X CANDELARIA"
+  },
+  {
+    "linha":"SR300 -  SR -SULACAP X CANDELARIA"
+  },
+  {
+    "linha":"SV300 -  SV - SULACAP X CANDELARIA(V.ESTRADA DO FONTINHA)"
+  },
+  {
+    "linha":"SN300 -  SN - SULACAP X CANDELARIA"
+  },
+  {
+    "linha":"301 -  RODOVIARIA X BARRA DA TIJUCA (VIA.AV DAS AMERICAS)"
+  },
+  {
+    "linha":"SV301 -  SV - RODOVIARIA X B.DA TIJUCA(V.HOSP.LOURENCO JORGE)"
+  },
+  {
+    "linha":"302 -  RODOVIARIA X ALVORADA(VIA AV. LUCIO COSTA)"
+  },
+  {
+    "linha":"303 -  RODOVIARIA X BARRA DA TIJUCA(V.L.AMARELA) CIRCULAR"
+  },
+  {
+    "linha":"306 -  PRACA SECA X CASTELO(VIA AV. MENEZES CORTES)"
+  },
+  {
+    "linha":"SP306 -  SP-PCA SECA X CANDELARIA(V. AV. MENEZES CORTES)CIR"
+  },
+  {
+    "linha":"309 -  ALVORADA X CENTRAL(VIA AV.LUCIO COSTA/BOTAFOGO/PRAIA DO FLAMENGO)"
+  },
+  {
+    "linha":"SV309 -  SV - ALVORADA X CENTRAL (VIA AV. LUCIO COSTA/BOTAFOGO/LARGO DO MACHADO)"
+  },
+  {
+    "linha":"310 -  ENGENHO DA RAINHA X CANDELARIA"
+  },
+  {
+    "linha":"311 -  ENGENHEIRO LEAL X CANDELARIA (V. CAVALCANTI)"
+  },
+  {
+    "linha":"SP311 -  SP - DEL CASTILHO X CANDELARIA"
+  },
+  {
+    "linha":"312 -  OLARIA X CANDELARIA (VIA SAO CRISTOVAO) CIRCULAR"
+  },
+  {
+    "linha":"SP312 -  SP - RAMOS X CANDELARIA (VIA SAO CRISTOVAO) CIRC."
+  },
+  {
+    "linha":"313 -  PENHA(GROTAO) X PCA TIRADENTES (V.V CRUZEIRO)CIRC."
+  },
+  {
+    "linha":"315 -  CENTRAL X RECREIO DOS BANDEIRANTES(VIA L. AMARELA)"
+  },
+  {
+    "linha":"320 -  PARQUE UNIAO X CANDELARIA"
+  },
+  {
+    "linha":"321 -  BANCARIOS X CASTELO (VIA LINHA VERMELHA) CIRCULAR"
+  },
+  {
+    "linha":"322 -  RIBEIRA X CANDELARIA(VIA COCOTA)"
+  },
+  {
+    "linha":"SV322 -  SV - RIBEIRA X CANDELARIA(V.CID.UNIVERSITÃRIA))"
+  },
+  {
+    "linha":"SP322 -  SP - PORTUGUESA X CANDELARIA"
+  },
+  {
+    "linha":"323 -  BANANAL X CASTELO (V.CACUIA/L.VERMELHA)CIRCULAR"
+  },
+  {
+    "linha":"324 -  RIBEIRA X CANDELARIA"
+  },
+  {
+    "linha":"SVB324 -  SVB - RIBEIRA X CANDELARIA (VIA AIRJ)"
+  },
+  {
+    "linha":"SVA324 -  SVA - RIBEIRA X CANDELARIA (VIA CID.UNIVERSITÃRIA))"
+  },
+  {
+    "linha":"325 -  RIBEIRA X CASTELO(VIA LINHA VERMELHA)CIRCULAR"
+  },
+  {
+    "linha":"326 -  BANCARIOS X CANDELARIA"
+  },
+  {
+    "linha":"SVA326 -  SVA - BANCARIOS X CANDELARIA (VIA AIRJ)"
+  },
+  {
+    "linha":"SVB326 -  SVB - BANCARIOS X CANDELARIA(V. C. UNIVERSITARIA)"
+  },
+  {
+    "linha":"SP326 -  SP - PORTUGUESA X CANDELARIA"
+  },
+  {
+    "linha":"327 -  RIBEIRA X CASTELO (VIA LINHA VERMELHA) CIRCULAR"
+  },
+  {
+    "linha":"328 -  BANANAL X CANDELARIA"
+  },
+  {
+    "linha":"SV328 -  SV - BANANAL X CANDELARIA (VIA CIDADE UNIVERSITARIA)"
+  },
+  {
+    "linha":"329 -  BANCARIOS X CANDELARIA (VIA PRAIA DA ROSA)"
+  },
+  {
+    "linha":"330 -  PQUE.UNIÃƒO X CANDELARIA"
+  },
+  {
+    "linha":"331 -  PRACA SECA X CASTELO(VIA LINHA AMARELA)"
+  },
+  {
+    "linha":"334 -  CORDOVIL X INTO (V.PCA DAS NACOES) CIRCULAR"
+  },
+  {
+    "linha":"SP334 -  SP - BRAS DE PINA X INTO"
+  },
+  {
+    "linha":"335 -  CORDOVIL X TIRADENTES(RAPIDO) CIRCULAR"
+  },
+  {
+    "linha":"SR335 -  SR - CORDOVIL X P. TIRADENTES(V.BRAS PINA)RAP.CIRC"
+  },
+  {
+    "linha":"SV335 -  SV - BRAS DE PINA X PRACA TIRADENTES (RAPIDO)CIRCULAR"
+  },
+  {
+    "linha":"338 -  TAQUARA X CANDELARIA(VIA LINHA AMARELA)"
+  },
+  {
+    "linha":"339 -  RODOVIARIA X CIDADE DE DEUS (VIA LINHA AMARELA)"
+  },
+  {
+    "linha":"341 -  TAQUARA X CANDELARIA"
+  },
+  {
+    "linha":"SP341 -  SP - FREGUESIA X CANDELARIA"
+  },
+  {
+    "linha":"342 -  JARDIM AMERICA X CASTELO"
+  },
+  {
+    "linha":"SR342 -  SR - JARDIM AMERICA X CASTELO (RAPIDO)"
+  },
+  {
+    "linha":"SV342 -  SV - JARDIM AMERICA X CASTELO(V. PARADA DE LUCAS)"
+  },
+  {
+    "linha":"343 -  JARDIM OCEANICO X CANDELARIA (VIA LINHA AMARELA)"
+  },
+  {
+    "linha":"SP343 -  SP - RIO DAS PEDRAS X CANDELARIA"
+  },
+  {
+    "linha":"344 -  ROCHA MIRANDA X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"345 -  JARDIM OCEANICO X CANDELARIA (VIA ALTO DA BOA VISTA)"
+  },
+  {
+    "linha":"346 -  MADUREIRA X CANDELARIA"
+  },
+  {
+    "linha":"348 -  RIOCENTRO X CANDELARIA (V.L. AMARELA) CIRC."
+  },
+  {
+    "linha":"349 -  ROCHA MIRANDA X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"SR349 -  SR - ROCHA MIRANDA X CASTELO (RAPIDO-CIRCULAR)"
+  },
+  {
+    "linha":"SPA349 -  SPA - PARQUE JARDIM VISTA ALEGRE X CASTELO(CIRCULAR)"
+  },
+  {
+    "linha":"SPB349 -  SPB - PRACA HONORIO GURGEL X CASTELO(CIRCULAR)"
+  },
+  {
+    "linha":"350 -  IRAJA X PASSEIO"
+  },
+  {
+    "linha":"SR350 -  SR - IRAJA X PASSEIO (RAPIDO)"
+  },
+  {
+    "linha":"SPA350 -  SPA- IRAJA X PASSEIO (RAPIDO)"
+  },
+  {
+    "linha":"SPB350 -  SPB- IRAJA X CANDELARIA(CIRCULAR)"
+  },
+  {
+    "linha":"351 -  IRAJA X CANDELARIA (RAPIDO)"
+  },
+  {
+    "linha":"352 -  RIO CENTRO X CANDELARIA(VIA AUTODROMO/L.AMARELA)"
+  },
+  {
+    "linha":"SP352 -  SP-RIO CENTROX INTO(V.ABELARDO BUENO/L.AMARELA)CIR"
+  },
+  {
+    "linha":"353 -  PÃ‡A. SECA X RODOVIARIA"
+  },
+  {
+    "linha":"355 -  MADUREIRA X PRACA TIRADENTES (CIRCULAR)"
+  },
+  {
+    "linha":"SR355 -  SR - MADUREIRA X PRACA TIRADENTES(CIRCULAR)"
+  },
+  {
+    "linha":"SPA355 -  SPA - VAZ LOBO X PRACA TIRADENTES(CIRCULAR)"
+  },
+  {
+    "linha":"SPB355 -  SPB - VICENTE DE CARVALHO X PRACA TIRADENTES(CIRCULAR)"
+  },
+  {
+    "linha":"SPC355 -  SPC - VILA KOSMOS X PRACA TIRADENTES(CIRCULAR)"
+  },
+  {
+    "linha":"SPD355 -  SPD - VILA KOSMOS X PRACA TIRADENTES(V.AV.MERITI)CIRCULAR"
+  },
+  {
+    "linha":"358 -  COSMOS X CANDELARIA"
+  },
+  {
+    "linha":"361 -  RECREIO DOS BANDEIRANTES X CASTELO(VIA L.AMARELA)"
+  },
+  {
+    "linha":"362 -  HONORIO GURGEL X CASTELO - CIRC."
+  },
+  {
+    "linha":"SR362 -  SR - HONORIO GURGEL X CASTELO (RAPIDO) CIRCULAR"
+  },
+  {
+    "linha":"SPA362 -  SPA - BAIRRO UNIAO X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"SPB362 -  SPB - COELHO NETO X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"SPC362 -  SPC - VILA SANTA TEREZA X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"363 -  VILA VALQUEIRE X CANDELARIA"
+  },
+  {
+    "linha":"SV363 -  SV - VILA VALQUEIRE X CANDELARIA (VIA DIAS DA CRUZ)"
+  },
+  {
+    "linha":"364 -  JARDIM BANGU X TIRADENTES"
+  },
+  {
+    "linha":"365 -  MENDANHA X TIRADENTES (EXPRESSO)"
+  },
+  {
+    "linha":"366 -  CAMPO GRANDE - TIRADENTES"
+  },
+  {
+    "linha":"SP366 -  SP - CAMPO GRANDE X CAJU"
+  },
+  {
+    "linha":"367 -  REALENGO X CAMERINO (VIA AVENIDA BRASIL-EXPRESSO)"
+  },
+  {
+    "linha":"SV367 -  SV - REALENGO X CAMERINO (VIA AV. BRASIL- PARADOR)"
+  },
+  {
+    "linha":"368 -  RIOCENTRO X CANDELARIA"
+  },
+  {
+    "linha":"369 -  BANGU X CANDELARIA"
+  },
+  {
+    "linha":"370 -  PADRE MIGUEL X CANDELARIA"
+  },
+  {
+    "linha":"371 -  PRACA SECA X PRACA TIRADENTES (CIRCULAR)"
+  },
+  {
+    "linha":"372 -  PAVUNA X PASSEIO (RAPIDO)"
+  },
+  {
+    "linha":"373 -  PAVUNA X PASSEIO (CIRCULAR)"
+  },
+  {
+    "linha":"374 -  PAVUNA X CASTELO (VIA COSTA BARROS) CIRCULAR"
+  },
+  {
+    "linha":"375 -  RICARDO DE ALBUQUERQUE X CARIOCA"
+  },
+  {
+    "linha":"376 -  PAVUNA X CANDELARIA (VIA RUA MERCURIO)"
+  },
+  {
+    "linha":"SV376 -  SV - PAVUNA X CANDELARIA (VIA PARQUE COLUMBIA)"
+  },
+  {
+    "linha":"377 -  PAVUNA X CASTELO(VIA COSTA BARROS) CIRCULAR"
+  },
+  {
+    "linha":"378 -  MARECHAL HERMES X CASTELO - CIRC."
+  },
+  {
+    "linha":"SR378 -  SR - MARECHAL HERMES X CASTELO (RAPIDO) CIRCULAR"
+  },
+  {
+    "linha":"SP378 -  SP - GUADALUPE X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"379 -  CATIRI X TIRADENTES (SELETIVA)"
+  },
+  {
+    "linha":"SV379 -  SV - CATIRI X TIRADENTES (VIA AV.BRASIL)"
+  },
+  {
+    "linha":"380 -  CURICICA X CANDELARIA (V.L.AMARELA/ESTR.DO PAU FERRO)"
+  },
+  {
+    "linha":"SV380 -  SV - CURICICA X CANDELARIA (VIA L.AMARELA)"
+  },
+  {
+    "linha":"381 -  ANCHIETA X CIDADE UNIVERSITARIA (CIRCULAR)"
+  },
+  {
+    "linha":"383 -  REALENGO X PRACA DA REPUBLICA(VIA SULACAP)"
+  },
+  {
+    "linha":"SP383 -  SP - JARDIM NOVO (REALENGO) X PRACA DA REPUBLICA"
+  },
+  {
+    "linha":"384 -  PAVUNA X PASSEIO"
+  },
+  {
+    "linha":"SPA384 -  SPA - GUADALUPE X PASSEIO"
+  },
+  {
+    "linha":"SPB384 -  SPB - LARGO DO CAMBOATA X PASSEIO"
+  },
+  {
+    "linha":"SPC384 -  SPC - PAVUNA X CANDELARIA (CIRCULAR)"
+  },
+  {
+    "linha":"385 -  VILLAGE PAVUNA X PASSEIO (VIA CAMBOATA)"
+  },
+  {
+    "linha":"SR385 -  SR - VILLAGE PAVUNA X PASSEIO (RAPIDO)"
+  },
+  {
+    "linha":"SV385 -  SV - VILLAGE PAVUNA X PASSEIO(VIA AV.PRES.VARGAS)"
+  },
+  {
+    "linha":"386 -  ANCHIETA X PASSEIO (VIA MARIOPOLIS)"
+  },
+  {
+    "linha":"SP386 -  SP - PARQUE ANCHIETA X PASSEIO"
+  },
+  {
+    "linha":"388 -  SANTA CRUZ X CANDELARIA (V.AV. BRASIL - EXPRESSO)"
+  },
+  {
+    "linha":"389 -  VILA ALINCA X CANDELARIA (VIA SENADOR CAMARA-EXPRESSO)"
+  },
+  {
+    "linha":"SV389 -  SV - VILA ALIANCA X CANDELARIA (V.S.CAMARA-PARADOR)"
+  },
+  {
+    "linha":"390 -  CURICICA X CANDELARIA (VIA GUERENGUE)"
+  },
+  {
+    "linha":"SV390 -  SV - CURICICA X CANDELARIA (VIA ESTR.DO PAU FERRO)"
+  },
+  {
+    "linha":"391 -  PADRE MIGUEL X PRACA TIRADENTES"
+  },
+  {
+    "linha":"392 -  BANGU X CANDELARIA (V.PADRE MIGUEL)"
+  },
+  {
+    "linha":"SN392 -  SN - BANGU X CANDELARIA(V.PADRE MIGUEL)"
+  },
+  {
+    "linha":"393 -  BANGU X CANDELARIA"
+  },
+  {
+    "linha":"SR393 -  SR - BANGU X CANDELARIA (SELETIVA)"
+  },
+  {
+    "linha":"SN393 -  SN - BANGU X CANDELARIA"
+  },
+  {
+    "linha":"SP393 -  SP - BANGU X CAJU"
+  },
+  {
+    "linha":"394 -  V. KENNEDY X TIRADENTES -EXPRESSO"
+  },
+  {
+    "linha":"SV394 -  SV - VILA KENNEDY X TIRADENTES (PARADOR)"
+  },
+  {
+    "linha":"395 -  COQUEIROS X TIRADENTES (EXPRESSO)"
+  },
+  {
+    "linha":"SV395 -  SV - COQUEIROS X TIRADENTES (PARADOR)"
+  },
+  {
+    "linha":"396 -  BAIRRO JABOUR X CANDELARIA(V.AV. BRASIL)"
+  },
+  {
+    "linha":"397 -  CAMPO GRANDE X CANDELARIA"
+  },
+  {
+    "linha":"SR397 -  SR - CAMPO GRANDE X CANDELARIA(V.BANGU/P.SELETIVA)"
+  },
+  {
+    "linha":"SN397 -  SN - CAMPO GRANDE X CANDELARIA(V.BANGU)"
+  },
+  {
+    "linha":"SP397 -  SP - CAMPO GRANDE X CAJU"
+  },
+  {
+    "linha":"398 -  CAMPO GRANDE X TIRADENTES(VIA AV. BRASIL)"
+  },
+  {
+    "linha":"SR398 -  SR - CAMPO GRANDE X TIRADENTES (PISTA SELETIVA)"
+  },
+  {
+    "linha":"SN398 -  SN - CAMPO GRANDE X TIRADENTES (V.AV.BRASIL)"
+  },
+  {
+    "linha":"SP398 -  SP - CAMPO GRANDE X CAJU(V. AV. BRASIL)"
+  },
+  {
+    "linha":"399 -  PAVUNA X PASSEIO (VIA AV.PRES.VARGAS E R.ALCOBACA)"
+  },
+  {
+    "linha":"402 -  ENGENHO DA RAINHA X GAVEA"
+  },
+  {
+    "linha":"404 -  CORDOVIL X LEBLON (VIA AV. BRASIL - CIRCULAR)"
+  },
+  {
+    "linha":"SP404 -  SP - CAJU X LEBLON (VIA AV. BRASIL - CIRCULAR)"
+  },
+  {
+    "linha":"409 -  SAENS PENA X PRAIA DE BOTAFOGO(VIA LAPA)CIRCULAR"
+  },
+  {
+    "linha":"410 -  SAENS PENA X GAVEA(VIA TUNEL SANTA BARBARA)"
+  },
+  {
+    "linha":"415 -  USINA X LEBLON (CIRCULAR)"
+  },
+  {
+    "linha":"416 -  SAENS PENA X J.BOTANICO (HORTO)(VIA T.REBOUCAS)"
+  },
+  {
+    "linha":"422 -  GRAJAU X COSME VELHO"
+  },
+  {
+    "linha":"426 -  USINA X JARDIM DE ALAH (VIA TUNEL SANTA BARBARA)"
+  },
+  {
+    "linha":"432 -  VILA ISABEL X GÃVEA (VIA TUNEL SANTA BÃRBARA)"
+  },
+  {
+    "linha":"433 -  VILA ISABEL X PRADO JUNIOR (VIA LAPA)CIRCULAR"
+  },
+  {
+    "linha":"434 -  GRAJAU X SIQUEIRA CAMPOS (VIA LAPA/T.VELHO)CIRCULAR"
+  },
+  {
+    "linha":"435 -  GRAJAU X GAVEA (VIA TUNEL SANTA BARBARA)"
+  },
+  {
+    "linha":"436 -  GRAJAU X LEBLON (VIA TUNEL REBOUCAS) - CIRCULAR"
+  },
+  {
+    "linha":"439 -  VILA ISABEL X LEBLON (V.T.REBOUCAS/JOQUEI)CIRCULAR"
+  },
+  {
+    "linha":"440 -  CAJU X COPACABANA (VIA T.REBOUCAS/T.VELHO)CIRCULAR"
+  },
+  {
+    "linha":"441 -  CAJUXSIQUEIRA CAMPOS(V.S.CRISTOVAO/T.REBOUCAS)CIRC"
+  },
+  {
+    "linha":"442 -  MARE X COPACABANA (VIA SANTO CRISTO) CIRCULAR"
+  },
+  {
+    "linha":"443 -  MARE X LEBLON ( VIA CENTRAL) CIRCULAR"
+  },
+  {
+    "linha":"444 -  MARE X COPACABANA (VIA T.SANTA BARBARA) CIRCULAR"
+  },
+  {
+    "linha":"445 -  MORRO DO ALEMAO X COPACABANA(VIA T. S.BARBARA)CIRC"
+  },
+  {
+    "linha":"448 -  MARACAI X SAO CONRADO (CIRCULAR)"
+  },
+  {
+    "linha":"455 -  MEIER X COPACABANA (VIA ATERRO DO FLAMENGO)"
+  },
+  {
+    "linha":"SP455 -  SP - ENGENHO NOVO X COPACABANA (V. PQ. DO FLAMENGO"
+  },
+  {
+    "linha":"SV455 -  SV - MEIER X COPACABANA(VIA T. REBOUCAS)CIRCULAR"
+  },
+  {
+    "linha":"456 -  NORTE SHOPPINGXSIQUEIRA CAMPOS(VIA T.STA.BARBARA)"
+  },
+  {
+    "linha":"457 -  ABOLICAO X COPACABANA(VIA TUNEL STA. BARBARA)CIRC"
+  },
+  {
+    "linha":"460 -  SAO CRISTOVAO X LEBLON(VIA TUNEL REBOUCAS)CIRCULAR"
+  },
+  {
+    "linha":"461 -  SAO CRISTOVAO X IPANEMA (VIA TUNEL REBOUCAS) CIRC"
+  },
+  {
+    "linha":"462 -  SAO CRISTOVAO X COPACABANA(VIA TUNEL REBOUCAS)CIRC"
+  },
+  {
+    "linha":"463 -  SAO CRISTOVAO X COPACABANA(VIA T.REB./T.VELHO)CIRC"
+  },
+  {
+    "linha":"464 -  MARACANA X SIQUEIRA CAMPOS (CIRCULAR)"
+  },
+  {
+    "linha":"472 -  TRIAGEM X LEME (VIA TUNEL VELHO)"
+  },
+  {
+    "linha":"SV472 -  SV - TRIAGEM X LEME (VIA RODOVIARIA/PRAIA DO FLAMENGO)"
+  },
+  {
+    "linha":"473 -  SAO JANUARIO X SIQUEIRA CAMPOS(VIA T.REBOUCAS)CIRC"
+  },
+  {
+    "linha":"474 -  JACARE X COPACABANA(V.TUNEL STA.BARBARA)CIRCULAR"
+  },
+  {
+    "linha":"476 -  MEIER X LEBLON (VIA TUNEL REBOUCAS) CIRCULAR"
+  },
+  {
+    "linha":"483 -  PENHA X SIQUEIRA CAMPOS(VIA T.STA. BARBARA)"
+  },
+  {
+    "linha":"485 -  PENHA X SIQUEIRA CAMPOS(V.L.VERMELHA/T.S.BARBARA)"
+  },
+  {
+    "linha":"SP485 -  SP - PCA XI X FUNDAO"
+  },
+  {
+    "linha":"486 -  FUNDAO X SIQUEIRA CAMPOS(VIA T. STA. BARBARA)"
+  },
+  {
+    "linha":"497 -  PENHA X LARANJEIRAS"
+  },
+  {
+    "linha":"498 -  CIRCULAR DA PENHA X LARGO DO MACHADO(VIA T.STA. BÃRBARA)"
+  },
+  {
+    "linha":"SV498 -  SV - CIRCULAR DA PENHA X L. DO MACHADO(CJ.MARCILIO DIAS/T.STA. BARBARA)"
+  },
+  {
+    "linha":"SP498 -  SP - PENHA (IAPI) X L. DO MACHADO (VIA T. STA. BARBARA)"
+  },
+  {
+    "linha":"503 -  LEBLON X GAVEA (CIRCULAR)"
+  },
+  {
+    "linha":"507 -  LARGO DO MACHADO X SILVESTRE"
+  },
+  {
+    "linha":"508 -  HORTO X BOTAFOGO(VIA J. BOTANICO)CIRCULAR"
+  },
+  {
+    "linha":"509 -  HORTO X GAL. OSORIO(VIA LEBLON)CIRCULAR"
+  },
+  {
+    "linha":"513 -  URCA X FONTE DA SAUDADE (VIA MENA BARRETO)CIRCULAR"
+  },
+  {
+    "linha":"SP513 -  SP - URCA X BOTAFOGO (CIRCULAR)"
+  },
+  {
+    "linha":"517 -  GÃVEA(PUC) X GLÃ“RIA (VIA FONTE DA SAUDADE) CIRCULAR"
+  },
+  {
+    "linha":"525 -  GENERAL OSORIO X ALVORADA"
+  },
+  {
+    "linha":"537 -  GAVEA (PUC) X ROCINHA (V. ESTR. DA GAVEA)CIRCULAR"
+  },
+  {
+    "linha":"538 -  ROCINHA X LEME(V. ESTR. DA GAVEA/JOQUEI)CIRCULAR"
+  },
+  {
+    "linha":"SP538 -  SP-ROCINHA X LEME(V.ESTR. DA GAVEA/JOQUEI)CIRCULAR"
+  },
+  {
+    "linha":"SN538 -  SN-ROCINHA X LEME(V.ESTR. DA GAVEA/JOQUEI)CIRCULAR"
+  },
+  {
+    "linha":"539 -  ROCINHA X LEME(V.ESTR.DA GAVEA/COPACABANA)CIRCULAR"
+  },
+  {
+    "linha":"SN539 -  SN-ROCINHA X LEME(V.ESTR.DAGAVEA/COPACABANA)CIRCULAR"
+  },
+  {
+    "linha":"SP539 -  SP-ROCINHA X LEME(V.ESTR.DAGAVEA/COPACABANA)CIRCULAR"
+  },
+  {
+    "linha":"548 -  ALVORADA X M.BOTAFOGO(V.AV.AMERICAS/J.BOTANICO)CIRC"
+  },
+  {
+    "linha":"550 -  CIDADE DE DEUS X GAVEA"
+  },
+  {
+    "linha":"551 -  INTEGRADA 1 - RIO SUL X ALVORADA (VIA AV.ATLANTICA/LAGOA-BARRA/AV. DAS AMERICAS)"
+  },
+  {
+    "linha":"552 -  INTEGRADA 2 - RIO SUL X ALVORADA (VIA AV.ATLANTICA/AV. NIEMEYER/AV. LUCIO COSTA)"
+  },
+  {
+    "linha":"553 -  INTEGRADA 8 - RIO SUL X RECREIO (VIA AV.ATLANTICA/LAGOA-BARRA/AV. DAS AMERICAS)"
+  },
+  {
+    "linha":"SP553 -  INTEGRADA SP 8 - RIO SUL X BARRA SUL (VIA AV.ATLANTICA/LAGOA-BARRA/AV. DAS AMERICAS)"
+  },
+  {
+    "linha":"554 -  INTEGRADA 9 - RIO SUL X PIABAS (VIA AV. ATLANTICA/AV.NIEMEYER/AV. BENVINDO NOVAES)"
+  },
+  {
+    "linha":"555 -  RIO DAS PEDRAS X GAVEA"
+  },
+  {
+    "linha":"556 -  RIO DAS PEDRAS X LEBLON (CIRCULAR)"
+  },
+  {
+    "linha":"557 -  RIO DAS PEDRAS X COPACABANA (CIRCULAR)"
+  },
+  {
+    "linha":"558 -  INTEGRADA 6 - GAL. OSORIO X CIDADE DE DEUS (VIA ITANHANGA)"
+  },
+  {
+    "linha":"565 -  TANQUE X GAVEA (VIA FREGUESIA)"
+  },
+  {
+    "linha":"580 -  LARGO DO MACHADO X COSME VELHO"
+  },
+  {
+    "linha":"SP580 -  SP - LARGO DO MACHADO X LARANJEIRAS"
+  },
+  {
+    "linha":"581 -  CIRCULAR 1 - LEBLON X COSME VELHO (VIA COPACABANA/URCA/LARGO DO MACHADO)CIRCULAR"
+  },
+  {
+    "linha":"582 -  CIRCULAR 2 - LEBLON X URCA (VIA J.BOTANICO/T. REBOUCAS/LARANJEIRAS) CIRCULAR"
+  },
+  {
+    "linha":"583 -  COSME VELHO X LEBLON (VIA JOQUEI) CIRCULAR"
+  },
+  {
+    "linha":"584 -  COSME VELHO X LEBLON (VIA COPACABANA) CIRCULAR"
+  },
+  {
+    "linha":"600 -  TAQUARA X PCA.SAENS PENA(VIA C.DEUS/AV M.CORTES)"
+  },
+  {
+    "linha":"SV600 -  SV - TAQUARA X PCA. SAENS PENA(VIA EDGAR WERNECK)"
+  },
+  {
+    "linha":"601 -  PCA SAENS PENA X TAQUARA (VIA AV. MENEZES CORTES)"
+  },
+  {
+    "linha":"602 -  ANDARAI X SAENS PENA (CIRCULAR)"
+  },
+  {
+    "linha":"603 -  USINA X SAENS PENA (VIA SAO MIGUEL)"
+  },
+  {
+    "linha":"605 -  SAO FRANCISCO XAVIER X VILA ISABEL"
+  },
+  {
+    "linha":"606 -  ENGENHO DE DENTRO X RODOVIARIA"
+  },
+  {
+    "linha":"SV606 - SV- ENGENHO DE DENTRO X RODOVIARIA(V.BOCA DO MATO)"
+  },
+  {
+    "linha":"607 - CASCADURA X RIO COMPRIDO (VIA ESTACIO) CIRCULAR"
+  },
+  {
+    "linha":"608 -  GRAJAU X PRACA SAENS PENA"
+  },
+  {
+    "linha":"609 -  MEIER X SAO FRANCISCO XAVIER"
+  },
+  {
+    "linha":"610 -  DEL CASTILHO X TANQUE (VIA LINHA AMARELA)"
+  },
+  {
+    "linha":"611 -  CAMORIM X DEL CASTILHO (VIA CURICICA/ LINHA AMARELA)"
+  },
+  {
+    "linha":"613 -  VARGEM GRANDEXDEL CASTILHO(VIA A.BUENO/L.AMARELA)"
+  },
+  {
+    "linha":"SP613 -  SP-RIO CENTROXDEL CASTILHO(VIA A.BUENO/L.AMARELA)"
+  },
+  {
+    "linha":"614 -  DEL CASTILHO X ALVORADA"
+  },
+  {
+    "linha":"SE614 -  SE - DEL CASTILHO X ALVORA (VIA ENGENHAO)"
+  },
+  {
+    "linha":"615 -  PAVUNA X DEL CASTILHO(VIA N.SHOPPING) CIRCULAR"
+  },
+  {
+    "linha":"616 -  DEL CASTILHO X FUNDAO (VIA CIDADE UNIVERSITARIA)"
+  },
+  {
+    "linha":"617 -  RIO COMPRIDO X BENFICA (VIA SAO CRISTOVAO)CIRCULAR"
+  },
+  {
+    "linha":"621 -  PENHA X SAENS PENA (VIA MANGUEIRA) CIRCULAR"
+  },
+  {
+    "linha":"622 -  PENHA X SAENS PENA (VIA GRAJAU) CIRCULAR"
+  },
+  {
+    "linha":"623 -  PENHA X SAENS PENA (V. TUNEL NOEL ROSA)CIRCULAR"
+  },
+  {
+    "linha":"624 -  MARIOPOLIS X PRACA DA BANDEIRA"
+  },
+  {
+    "linha":"625 -  OLARIA X SAENS PENA (CIRCULAR)"
+  },
+  {
+    "linha":"626 -  SAENS PENA X MUDA"
+  },
+  {
+    "linha":"627 -  INHAUMA X SAENS PENA"
+  },
+  {
+    "linha":"628 -  PENHA X NOVA AMERICA(CIRCULAR)"
+  },
+  {
+    "linha":"629 -  IRAJA X SAENS PENA"
+  },
+  {
+    "linha":"630 -  PENHA(IAPI) X SAENS PENA"
+  },
+  {
+    "linha":"634 -  BANANAL X SAENS PENA"
+  },
+  {
+    "linha":"635 -  BANANAL X SAENS PENA(V.L.VERMELHA/C.UNIVERSITARIA)"
+  },
+  {
+    "linha":"636 -  GARDÃŠNIA AZUL X S. PENA (VIA MADUREIRA)"
+  },
+  {
+    "linha":"638 -  MARECHAL HERMES X SAENS PENA (CIRCULAR)"
+  },
+  {
+    "linha":"639 -  JARDIM AMERICA X SAENS PENA(VIA ROCHA MIRANDA)"
+  },
+  {
+    "linha":"650 -  MARECHAL HERMES X ENGENHO NOVO (CIRCULAR)"
+  },
+  {
+    "linha":"651 -  MEIER X CASCADURA (VIA ARQUIAS CORDEIRO)CIRCULAR"
+  },
+  {
+    "linha":"652 -  MEIER X CASCADURA (VIA LINS) CIRCULAR"
+  },
+  {
+    "linha":"653 -  MARECHAL HERMES X MEIER (CIRCULAR)"
+  },
+  {
+    "linha":"663 -  MEIER X FUNDAO (CIRCULAR)"
+  },
+  {
+    "linha":"665 -  PAVUNA X SAENS PENA(VIA PASTOR M. LUTHER KING JR.)"
+  },
+  {
+    "linha":"SVB665 -  SVB - PAVUNA X SAENS PENA(VIA B.FILHO/COSTA BARROS"
+  },
+  {
+    "linha":"SVA665 -  SVA - PAVUNA X SAENS PENA"
+  },
+  {
+    "linha":"667 -  MADUREIRA X MEIER (CIRCULAR)"
+  },
+  {
+    "linha":"669 -  PAVUNA X MEIER"
+  },
+  {
+    "linha":"SV669 -  SV - PAVUNA X MEIER (VIA CAMBOATA)"
+  },
+  {
+    "linha":"673 -  PARADA DE LUCAS X PENHA (CIRCULAR)"
+  },
+  {
+    "linha":"676 -  MEIER X MADUREIRA (VIA CASCADURA) CIRCULAR"
+  },
+  {
+    "linha":"678 -  MEIER X VILA VALQUEIRE"
+  },
+  {
+    "linha":"679 -  GROTAO X MEIER (CIRCULAR)"
+  },
+  {
+    "linha":"680 -  PENHA (IAPI) X MEIER (CIRCULAR)"
+  },
+  {
+    "linha":"685 -  IRAJA X MEIER"
+  },
+  {
+    "linha":"SVA685 -  SVA- IRAJA X MEIER (VIA EMBAU)"
+  },
+  {
+    "linha":"SVB685 -  SVB- IRAJA X MEIER (VIA RUA URURAI)"
+  },
+  {
+    "linha":"686 -  FAZENDA DA BICA X MADUREIRA (CIRCULAR)"
+  },
+  {
+    "linha":"687 -  PAVUNA X MEIER"
+  },
+  {
+    "linha":"SP687 -  SP - PAVUNA X INHAUMA"
+  },
+  {
+    "linha":"688 -  MEIER X PAVUNA (VIA RUA JOSE DOS REIS)"
+  },
+  {
+    "linha":"690 -  MEIER X MADUREIRA"
+  },
+  {
+    "linha":"691 -  MEIER X CIDADE DE DEUS(VIA TAQUARA/L.AMARELA)"
+  },
+  {
+    "linha":"692 -  MEIER X ALVORADA (VIA D.HELDER CAMARA / L.AMARELA)"
+  },
+  {
+    "linha":"693 -  MEIER X ALVORADA (VIA R.DIAS DA CRUZ / L.AMARELA)"
+  },
+  {
+    "linha":"696 -  MEIER X PRAIA DO DENDE"
+  },
+  {
+    "linha":"SVA696 -  SVA - DENDE X MEIER (VIA AIRJ)"
+  },
+  {
+    "linha":"SVB696 -  SVB - MEIER X PRAIA DO DENDE (VIA C. UNIVERSITARIA"
+  },
+  {
+    "linha":"702 -  PRACA SECA X MADUREIRA (CIRCULAR)"
+  },
+  {
+    "linha":"709 -  CASCADURA X AMARELINHO (CIRCULAR)"
+  },
+  {
+    "linha":"711 -  ROCHA MIRANDA X RIO COMPRIDO"
+  },
+  {
+    "linha":"712 -  CASCADURA X IRAJA (CIRCULAR)"
+  },
+  {
+    "linha":"723 -  CASCADURA X MARIOPOLIS"
+  },
+  {
+    "linha":"725 -  RICARDO DE ALBUQUERQUE X CASCADURA (CIRCULAR)"
+  },
+  {
+    "linha":"727 -  PAVUNA X JAVATA"
+  },
+  {
+    "linha":"731 -  CAMPO GRANDE X MARECHAL HERMES (VIA EST. DA POSSE)"
+  },
+  {
+    "linha":"737 -  SANTISSIMO X MARECHAL HERMES (CIRCULAR)"
+  },
+  {
+    "linha":"SN737 -  SN - SANTISSIMO X MARECHAL HERMES (CIRCULAR)"
+  },
+  {
+    "linha":"738 -  URUCANIA X MARECHAL HERMES"
+  },
+  {
+    "linha":"739 -  SULACAP X BANGU"
+  },
+  {
+    "linha":"741 -  BARATA X BANGU (VIA MURUNDU) CIRCULAR"
+  },
+  {
+    "linha":"SN741 -  SN - BARATA X BANGU (VIA MURUNDU) CIRCULAR"
+  },
+  {
+    "linha":"742 -  BARATA X CASCADURA"
+  },
+  {
+    "linha":"743 -  BARATA X BANGU (VIA AGUA BRANCA) CIRCULAR"
+  },
+  {
+    "linha":"744 -  REALENGO X CASCADURA (VIA JARDIM NOVO)"
+  },
+  {
+    "linha":"SN744 -  SN - REALENGO X CASCADURA (VIA JARDIM NOVO)"
+  },
+  {
+    "linha":"745 -  BANGU X CASCADURA"
+  },
+  {
+    "linha":"SN745 -  SN - BANGU X CASCADURA"
+  },
+  {
+    "linha":"746 -  JABOUR X CASCADURA"
+  },
+  {
+    "linha":"751 -  JARDIM NOVO REALENGO X CASCADURA"
+  },
+  {
+    "linha":"752 -  CONJUNTO DOS PALMARES X COELHO NETO"
+  },
+  {
+    "linha":"755 -  REALENGO X COELHO NETO (CIRCULAR)"
+  },
+  {
+    "linha":"756 -  SANTA CRUZ X COELHO NETO"
+  },
+  {
+    "linha":"759 -  CESARAO X COELHO NETO"
+  },
+  {
+    "linha":"767 -  CAMPO GRANDE X GUADALUPE (VIA V.KENNEDY) CIRCULAR"
+  },
+  {
+    "linha":"769 -  JARDIM VIOLETA X MADUREIRA (VIA BANGU) CIRCULAR"
+  },
+  {
+    "linha":"770 -  CAMPO GRANDE X COELHO NETO (METRO)CIRCULAR"
+  },
+  {
+    "linha":"771 -  CAMPO GRANDE X COELHO NETO (METRO)CIRCULAR"
+  },
+  {
+    "linha":"772 -  BANGU X COELHO NETO (CIRCULAR)"
+  },
+  {
+    "linha":"773 -  CASCADURA X PAVUNA( VIA CAMBOATA) CIRCULAR"
+  },
+  {
+    "linha":"774 -  MADUREIRA X JARDIM AMERICA (CIRCULAR)"
+  },
+  {
+    "linha":"SV774 -  SV-MADUREIRAXJ.AMERICA(V.SHOPPING VIA BRASIL)CIRC."
+  },
+  {
+    "linha":"775 -  JARDIM AMERICA X MADUREIRA (CIRCULAR)"
+  },
+  {
+    "linha":"777 -  PADRE MIGUEL X MADUREIRA"
+  },
+  {
+    "linha":"SV777 -  SV - PADRE MIGUEL X MADUREIRA (VIA RUA DO GOVERNO)"
+  },
+  {
+    "linha":"SN777 -  SN - PADRE MIGUEL X MADUREIRA"
+  },
+  {
+    "linha":"778 -  CASCADURA X PAVUNA (V. ESTR.DE BOTAFOGO)CIRCULAR"
+  },
+  {
+    "linha":"779 -  PAVUNA X MADUREIRA (VIA RUA JOAO VICENTE)"
+  },
+  {
+    "linha":"SV779 -  SV - PAVUNA X MADUREIRA (VIA RUA MARINA)"
+  },
+  {
+    "linha":"781 -  CASCADURA X MARECHAL HERMES (VIA PRACA SECA)CIRC"
+  },
+  {
+    "linha":"782 -  CASCADURA X MARECHAL HERMES(V. ROCHA MIRANDA)CIRC."
+  },
+  {
+    "linha":"783 -  MARECHAL HERMES X PRACA SECA(CIRCULAR)"
+  },
+  {
+    "linha":"784 -  VILA KENNEDY X MARECHAL HERMES"
+  },
+  {
+    "linha":"786 -  CAMPO GRANDE X MARECHAL HERMES"
+  },
+  {
+    "linha":"SN786 -  SN - CAMPO GRANDE X MARECHAL HERMES"
+  },
+  {
+    "linha":"789 -  CAMPO GRANDE X CASCADURA"
+  },
+  {
+    "linha":"SN789 -  SN - CAMPO GRANDE X CASCADURA"
+  },
+  {
+    "linha":"790 -  CAMPO GRANDE X CASCADURA"
+  },
+  {
+    "linha":"SV790 -  SV - CAMPO GRANDE X CASCADURA (VIA VILA ALIANCA)"
+  },
+  {
+    "linha":"793 -  PAVUNA X MAGALHAES BASTOS"
+  },
+  {
+    "linha":"794 -  CASCADURA X BANGU (VIA BARATA)"
+  },
+  {
+    "linha":"795 -  PAVUNA X MAGALHAES BASTOS (VIA MARIOPOLIS)"
+  },
+  {
+    "linha":"800 -  TAQUARA X CURICICA (VIA GUERENGUE) CIRCULAR"
+  },
+  {
+    "linha":"801 -  BANGU X TAQUARA"
+  },
+  {
+    "linha":"802 -  BANGU X CAMPO GRANDE (VIA RIO DA PRATA)"
+  },
+  {
+    "linha":"803 -  SENADOR CAMARA X TAQUARA(VIA CATONHO)"
+  },
+  {
+    "linha":"SN803 -  SN - SENADOR CAMARA X ALVORADA"
+  },
+  {
+    "linha":"SP803 -  SP - SENADOR CAMARA X MERCK"
+  },
+  {
+    "linha":"804 -  LARGO DO AARAO X CAMPO GRANDE (VIA FELIPE CARDOSO)"
+  },
+  {
+    "linha":"805 -  ALVORADA X JARDIM OCEANICO"
+  },
+  {
+    "linha":"806 -  BOIUNA X TAQUARA (VIA RIO GRANDE)"
+  },
+  {
+    "linha":"807 -  JESUITAS X SANTA CRUZ (CIRCULAR)"
+  },
+  {
+    "linha":"808 -  COLONIA X RECREIO (VIA CURICICA)CIRCULAR"
+  },
+  {
+    "linha":"810 -  PONTAL X TAQUARA"
+  },
+  {
+    "linha":"811 -  BANGU X PRESIDIO"
+  },
+  {
+    "linha":"812 -  CAROBINHA X BANGU"
+  },
+  {
+    "linha":"813 -  MANGUARIBA X SANTA CRUZ (CIRCULAR)"
+  },
+  {
+    "linha":"814 -  RIO DA PRATA X BANGU (CIRCULAR)"
+  },
+  {
+    "linha":"815 -  BOIUNA X TAQUARA"
+  },
+  {
+    "linha":"816 -  CAPELA X TAQUARA"
+  },
+  {
+    "linha":"817 -  VARGEM GRANDE X RECREIO (VIA ALCEU DE CARVALHO/AV. GLAUCIO GIL) CIRCULAR"
+  },
+  {
+    "linha":"819 -  JARDIM BANGU X BANGU"
+  },
+  {
+    "linha":"820 -  RECREIO SHOPPINGXEST.GLAUCIO GIL(V.ESTR.PONTAL)CIR"
+  },
+  {
+    "linha":"821 -  CORCUNDINHA X CAMPO GRANDE(VIA CAPOEIRAS)CIRCULAR"
+  },
+  {
+    "linha":"822 -  CORCUNDINHA X CAMPO GRANDE(VIA VILA NOVA)CIRCULAR"
+  },
+  {
+    "linha":"823 -  V.GRANDE x RECREIO (VIA ESTRADA DO PONTAL) - CIRCULAR"
+  },
+  {
+    "linha":"SN823 -  SN - VARGEM GRANDE X RECREIO (VIA ESTRADA DO PONTAL) CIRCULAR"
+  },
+  {
+    "linha":"824 -  SANTA MARIA(VILA NOVA) X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"825 -  CAMPO GRANDE X JESUITAS (VIA SANTA CRUZ -CIRCULAR)"
+  },
+  {
+    "linha":"826 -  CAROBINHA X C. GRANDE(V.ESTR. DO LAMEIRAO)CIRCULAR"
+  },
+  {
+    "linha":"827 -  V.GRANDE X RECREIO(AV.BENVINDO NOVAES/AV.G.GIL)CIR"
+  },
+  {
+    "linha":"SN827 -  SN - VARGEM GRANDE X RECREIO (VIA AV. BENVINDO DE NOVAES/ AV. GLÃUCIO GIL) CIRCULAR"
+  },
+  {
+    "linha":"828 -  SAO JORGE X CAMPO GRANDE(CIRCULAR)"
+  },
+  {
+    "linha":"829 -  GARDENIA AZUL X FREGUESIA(CIRCULAR)"
+  },
+  {
+    "linha":"830 -  PEDREGOSO X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"831 -  COLONIA X TAQUARA"
+  },
+  {
+    "linha":"832 -  COLONIA X HOSP. SARAH(VIA CURICICA)CIRCULAR"
+  },
+  {
+    "linha":"SE832 -  SE - RIO CENTRO X ALVORADA (CIRCULAR)"
+  },
+  {
+    "linha":"833 -  CONJUNTO MANGUARIBA X CAMPO GRANDE"
+  },
+  {
+    "linha":"834 -  LARGO DO CORREIA X CAMPO GRANDE (V.ESTR.MONTEIRO)"
+  },
+  {
+    "linha":"835 -  LARGO DO CORREIA X CAMPO GRANDE (VIA CACHAMORRA)"
+  },
+  {
+    "linha":"836 -  CABOCLOS X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"837 -  CONJUNTO DA MARINHA X CAMPO GRANDE"
+  },
+  {
+    "linha":"838 -  JARDIM MARAVILHA X CAMPO GRANDE"
+  },
+  {
+    "linha":"SN838 -  SN - JARDIM MARAVILHA X CAMPO GRANDE"
+  },
+  {
+    "linha":"SP838 -  SP - JARDIM MARAVILHA X MAGARCA"
+  },
+  {
+    "linha":"839 -  CESARAO X CAMPO GRANDE (VIA URUCANIA) CIRCULAR"
+  },
+  {
+    "linha":"SN839 -  SN - CESARAO X CAMPO GRANDE(VIA URUCANIA) CIRCULAR"
+  },
+  {
+    "linha":"840 -  SAO FERNANDO X CAMPO GRANDE (VIA AV JOAO XXIII)"
+  },
+  {
+    "linha":"SN840 -  SN - SAO FERNANDO X CAMPO GRANDE(VIA AV.JOAO XXIII"
+  },
+  {
+    "linha":"841 -  VILAR CARIOCA X CAMPO GRANDE"
+  },
+  {
+    "linha":"SN841 -  SN - VILAR CARIOCA X CAMPO GRANDE"
+  },
+  {
+    "linha":"SP841 -  SP - SALIM X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"842 -  PACIENCIA X CAMPO GRANDE (VIA SANTA MARGARIDA)"
+  },
+  {
+    "linha":"843 -  BOA ESPERANCA X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"SV843 -  SV - BOA ESPERANCA X CAMPO GRANDE(V.E.CACHAMORRA)"
+  },
+  {
+    "linha":"844 -  BARRA SHOPPING X BARRINHA(CIRCULAR)"
+  },
+  {
+    "linha":"845 -  CANTAGALO X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"846 -  RIO DA PRATA X CAMPO GRANDE (VIA CABUCU)"
+  },
+  {
+    "linha":"SN846 -  SN - RIO DA PRATA X CAMPO GRANDE (VIA CABUCU)"
+  },
+  {
+    "linha":"847 -  RIO DA PRATA X CAMPO GRANDE (VIA LAMEIRAO)"
+  },
+  {
+    "linha":"848 -  BAIRRO MONTE SANTO X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"849 -  BASE AEREA DE SANTA CRUZ X CAMPO GRANDE"
+  },
+  {
+    "linha":"850 -  MENDANHA X CAMPO GRANDE"
+  },
+  {
+    "linha":"SN850 -  SN - MENDANHA X CAMPO GRANDE"
+  },
+  {
+    "linha":"SP850 -  SP - SAO GERALDO X CAMPO GRANDE"
+  },
+  {
+    "linha":"851 -  C.GRANDE X ESC.AMAZONAS (VIA A.VASCONCELOS)CIRC."
+  },
+  {
+    "linha":"852 -  C.GRANDE X PEDRA DE GUARATIBA (V.MATO ALTO-CIRC)"
+  },
+  {
+    "linha":"853 -  VILA KENNEDY X ESTACAO BRT MATO ALTO(CIRCULAR)"
+  },
+  {
+    "linha":"SV853 -  SV-VILA KENNEDY X EST. MATO ALTO (V.S.GERALDO)CIRC"
+  },
+  {
+    "linha":"854 -  C.GRANDE X EST.I.GUARATIBA(V.ESTR.CACHAMORRA)CIRC."
+  },
+  {
+    "linha":"SN854 -  SN-C.GRANDE X EST.I.GUARATIBA(V.ESTR.CACHAMORRA)CI"
+  },
+  {
+    "linha":"SPA854 -  SPA - CAMPO GRANDE X ESTR. MATO ALTO (CIRCULAR)"
+  },
+  {
+    "linha":"SPB854 -  SPB - ESTR. MATO ALTO X ESTR.I. DE GUARATIBA)CIRC."
+  },
+  {
+    "linha":"855 -  BANGU X MAGARCA (VIA AV. SANTA CRUZ)CIRCULAR"
+  },
+  {
+    "linha":"856 -  CURICICA X TAQUARA (CIRCULAR)"
+  },
+  {
+    "linha":"857 -  JARDIM 7 DE ABRIL X PACIENCIA(V. GOUVEIA)CIRCULAR"
+  },
+  {
+    "linha":"858 -  SAO FERNANDO X PACIENCIA (CIRCULAR)"
+  },
+  {
+    "linha":"859 -  COVANCA X LARGO DO TANQUE (CIRCULAR)"
+  },
+  {
+    "linha":"860 -  RIO DAS PEDRAS X FREGUESIA (CIRCULAR)"
+  },
+  {
+    "linha":"861 -  RIO DAS PEDRAS X CURICICA (VIA CIDADE DE DEUS)"
+  },
+  {
+    "linha":"862 -  RIO DAS PEDRAS X BARRA(VIA ESTR.JACAREPAGUA)CIRC."
+  },
+  {
+    "linha":"863 -  RIO DAS PEDRAS X BARRA(VIA AV. AYRTON SENNA)CIRC."
+  },
+  {
+    "linha":"864 -  BANGU X CAMPO GRANDE"
+  },
+  {
+    "linha":"865 -  PAU DA FOME X TAQUARA (VIA RODRIGUES CALDAS)CIRC"
+  },
+  {
+    "linha":"866 -  CAMPO GRANDE X PEDRA DE GUARATIBA(V. MAGARCA)CIRC."
+  },
+  {
+    "linha":"SV866 -  SV - CINCO MARIAS X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"867 -  BARRA DE GUARATIBA X CAMPO GRANDE(V.ILHA GUARATIBA"
+  },
+  {
+    "linha":"SE867 -  SE -BARRA DE GUARATIBA X CAMPO GRANDE (V. AMERICAS"
+  },
+  {
+    "linha":"SN867 -  SN -BARRA DE GUARATIBA X C.GRANDE(V.ILHA GUARATIBA"
+  },
+  {
+    "linha":"868 -  URUCANIA X CAMPO GRANDE"
+  },
+  {
+    "linha":"869 -  SANTA MARGARIDA X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"870 -  SEPETIBA X SANTA CRUZ (CIRCULAR)"
+  },
+  {
+    "linha":"SV870 -  SV - SEPETIBA X SANTA CRUZ(VIA CROACIA)CIRCULAR"
+  },
+  {
+    "linha":"871 -  SEPETIBA X ESTACAO CESARAO III(V.CROACIA)CIRCULAR"
+  },
+  {
+    "linha":"872 -  SEPETIBA X ESTACAO CESARAOIII(V.PRAIA SEPETIBA)CIR"
+  },
+  {
+    "linha":"873 -  JARDIM 7 DE ABRILXPACIENCIA(V.CESARIO DE MELO)CIRC"
+  },
+  {
+    "linha":"874 -  MARAMBAIA X ESTACAO ILHA DE GUARATIBA(CIRCULAR)"
+  },
+  {
+    "linha":"875 -  PRACA SECA X CHACARA (CIRCULAR)"
+  },
+  {
+    "linha":"877 -  TANQUE X RIO DAS PEDRAS(CIRCULAR)"
+  },
+  {
+    "linha":"878 -  TANQUE X BARRA DA TIJUCA(V.AV.ENG.SOUZA FILHO)CIRC"
+  },
+  {
+    "linha":"SV878 -  SV-TANQUE X B. DA TIJUCA(V.ESTR.DE JACAREPAGUA)CIR"
+  },
+  {
+    "linha":"879 -  CAMPO GRANDE X MAGARCA(CIRCULAR)"
+  },
+  {
+    "linha":"880 -  RIO DAS PEDRAS X ALVORADA"
+  },
+  {
+    "linha":"882 -  TANQUE X ALVORADA (VIA FREGUESIA)"
+  },
+  {
+    "linha":"883 -  BANGU X EST.MATO ALTO(VIA ESTRADA DO PRE)CIRCULAR"
+  },
+  {
+    "linha":"884 -  SEPETIBA X CAMPO GRANDE"
+  },
+  {
+    "linha":"SP884 -  SP - SEPETIBA X MAGAR?A"
+  },
+  {
+    "linha":"885 -  PIRAQUE X SANTA CRUZ (VIA PEDRA DE GUARATIBA)"
+  },
+  {
+    "linha":"886 -  FREGUESIA X BARRA DA TIJUCA (CIRCULAR)"
+  },
+  {
+    "linha":"887 -  PECHINCHA X BARRA DA TIJUCA (CIRCULAR)"
+  },
+  {
+    "linha":"888 -  ALVORADA X JOATINGA(VIA ERICO VERISSIMO)CIRCULAR"
+  },
+  {
+    "linha":"889 -  SULACAP X TAQUARA"
+  },
+  {
+    "linha":"890 -  TANQUE X ALVORADA(VIA CIDADE DE DEUS)"
+  },
+  {
+    "linha":"891 -  SEPETIBA X MATO ALTO (VIA PRAIA DA BRISA)CIRCULAR"
+  },
+  {
+    "linha":"892 -  SAO BENEDITO X SANTA CRUZ(VIA MATADOURO)CIRCULAR"
+  },
+  {
+    "linha":"893 -  JARDIM PALMARES X CAMPO GRANDE (VIA 29 DE MARCO)"
+  },
+  {
+    "linha":"894 -  SANTA RITA X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"895 -  SERRINHA X CAMPO GRANDE (CIRCULAR)"
+  },
+  {
+    "linha":"896 -  PINGO D'AGUA X EST.MATO ALTO(V.P.DE GUARATIBA)CIRC"
+  },
+  {
+    "linha":"897 -  ALVORADA X VIA PARQUE (VIA PENINSULA)CIRCULAR"
+  },
+  {
+    "linha":"898 -  SEPETIBA X CAMPO GRANDE (VIA ESTR. DO CAMPINHO)"
+  },
+  {
+    "linha":"SN898 -  SN - SEPETIBA X CAMPO GRANDE (V. ESTR. DO CAMPINHO"
+  },
+  {
+    "linha":"899 -  ALVORADA X JOATINGA (CIRCULAR)"
+  },
+  {
+    "linha":"SP899 -  SP - ALVORADA X DOWNTOWN (CIRCULAR)"
+  },
+  {
+    "linha":"900 -  MERCK X DOWNTOWN (CIRCULAR)"
+  },
+  {
+    "linha":"901 -  BONSUCESSO X BANANAL (VIA JARDIM GUANABARA)"
+  },
+  {
+    "linha":"SV901 -  SV - BONSUCESSO X BANANAL (VIA CACUIA)"
+  },
+  {
+    "linha":"905 -  BONSUCESSO X IRAJA"
+  },
+  {
+    "linha":"SVA905 -  SVA - BONSUCESSO X IRAJA (VIA AMARELINHO)"
+  },
+  {
+    "linha":"SVB905 -  SVB - IRAJA X HOSP.CLINICAS(V.C.UNIVERSITARIA)CIRC"
+  },
+  {
+    "linha":"SVC905 -  SVC - BONSUCESSO X IRAJA(VIA SHOPPING VIA BRASIL)"
+  },
+  {
+    "linha":"906 -  JARDIM AMERICA X CAJU"
+  },
+  {
+    "linha":"908 -  BONSUCESSO X GUADALUPE (VIA METRO INHAUMA)"
+  },
+  {
+    "linha":"SV908 -  SV - BONSUCESSO X GUADALUPE"
+  },
+  {
+    "linha":"910 -  BANANAL X FUNDAO (CIRCULAR)"
+  },
+  {
+    "linha":"911 -  BONSUCESSO X CIDADE UNIVERSITARIA (CIRCULAR)"
+  },
+  {
+    "linha":"912 -  VAZ LOBO X CAMPEOES (CIRCULAR)"
+  },
+  {
+    "linha":"913 -  DEL CASTILHO X FUNDAO (VIA CIDADE UNIVERSITARIA)"
+  },
+  {
+    "linha":"914 -  BANANAL X JARDIM AMERICA(CIRCULAR)"
+  },
+  {
+    "linha":"915 -  BONSUCESSO X AIRJ (CIRCULAR)"
+  },
+  {
+    "linha":"917 -  REALENGO X BONSUCESSO"
+  },
+  {
+    "linha":"SV917 -  SV - REALENGO X BONSUCESSO(VIA RUA MARINA)"
+  },
+  {
+    "linha":"918 -  BANGU X BONSUCESSO (VIA JARDIM VIOLETA)"
+  },
+  {
+    "linha":"919 -  PAVUNA X BONSUCESSO (PARQUE UNIAO)"
+  },
+  {
+    "linha":"SV919 -  SV - PAVUNA X BONSUCESSO(VIA VILA KOSMOS)"
+  },
+  {
+    "linha":"920 -  PAVUNA X BONSUCESSO (VIA FAZENDA BOTAFOGO)"
+  },
+  {
+    "linha":"SV920 -  SV - PAVUNA X BONSUCESSO (VIA SHOPPING VIA BRASIL)"
+  },
+  {
+    "linha":"921 -  VILA CRUZEIRO X LARGO DA PENHA (CIRCULAR)"
+  },
+  {
+    "linha":"922 -  TUBIACANGA X AER. INTERNACIONAL(CIRCULAR)VIA LIGHT"
+  },
+  {
+    "linha":"923 -  JARDIM VIOLETA X IAPI DA PENHA (VIA BANGU)"
+  },
+  {
+    "linha":"924 -  AEROPORTO X BANANAL"
+  },
+  {
+    "linha":"925 -  AEROPORTO X BANCARIOS (CIRCULAR)"
+  },
+  {
+    "linha":"926 -  SENADOR CAMARA X PENHA"
+  },
+  {
+    "linha":"928 -  MARECHAL HERMES X RAMOS ( CIRCULAR )"
+  },
+  {
+    "linha":"SV928 -  SV - MARECHAL HERMES X RAMOS(V.AV. MERITI)CIRCULAR"
+  },
+  {
+    "linha":"SP928 -  SP - MARECHAL HERMES X MADUREIRA (CIRCULAR)"
+  },
+  {
+    "linha":"931 -  CURICICA X RECREIO (VIA ARROIO PAVUNA)CIRCULAR"
+  },
+  {
+    "linha":"932 -  GARDENIA AZUL X TANQUE (VIA PAU FERRO)"
+  },
+  {
+    "linha":"933 -  CATIRI X CIDADE UNIVERSITARIA (VIA BANGU)"
+  },
+  {
+    "linha":"934 -  RIBEIRA X PORTUGUESA (VIA COCOTA) CIRCULAR"
+  },
+  {
+    "linha":"935 -  RIBEIRA X PORTUGUESA (CIRCULAR)"
+  },
+  {
+    "linha":"936 -  CAMPO GRANDE X CIDADE UNIVERSITARIA"
+  },
+  {
+    "linha":"940 -  RAMOS (PRAIA) X MADUREIRA"
+  },
+  {
+    "linha":"SV940 -  SV - RAMOS(PRAIA) X PARQUE MADUREIRA"
+  },
+  {
+    "linha":"942 -  PENHA X PAVUNA"
+  },
+  {
+    "linha":"SV942 -  SV - PENHA X PAVUNA (VIA SHOPPING VIA BRASIL)"
+  },
+  {
+    "linha":"944 -  PAVUNA X CONJ. ENGENHEIRO RUBENS PAIVA (CIRCULAR)"
+  },
+  {
+    "linha":"SV944 -  SV -PAVUNA X CJ.ENG.RUBENS PAIVA(V.S.A.ERNESTO)CIR"
+  },
+  {
+    "linha":"945 -  PAVUNA X CIDADE UNIVERSITARIA"
+  },
+  {
+    "linha":"946 -  PAVUNA X ENGENHO DA RAINHA(AV. DOM HELDER CAMARA)"
+  },
+  {
+    "linha":"947 -  PAVUNA X COELHO NETO (VIA DEODORO) CIRCULAR"
+  },
+  {
+    "linha":"950 -  V.CARVALHO X V.ALEGRE(AV.MERITI/S.VIA BRASIL)CIRC."
+  },
+  {
+    "linha":"951 -  V.CARVALHOXV.ALEGRE(V.CEL.VIEIRA/SHOP.V.BRASIL)CIR"
+  },
+  {
+    "linha":"953 -  TAQUARA X CIDADE DE DEUS(VIA RETIRO DOS ARTISTAS)"
+  },
+  {
+    "linha":"954 -  CURICICA X RECREIO(VIA AV. BENVINDO DE NOVAES)"
+  },
+  {
+    "linha":"955 -  MARE X ALVORADA (VIA LINHA AMARELA)"
+  },
+  {
+    "linha":"956 -  PENHA X INVERNADA (VIA PENHA) CIRCULAR"
+  },
+  {
+    "linha":"959 -  CURICICA X RECREIO (VIA AV. SALVADOR ALLENDE)"
+  },
+  {
+    "linha":"963 -  SANTA MARIA X TAQUARA"
+  },
+  {
+    "linha":"964 -  PAU DA FOME X TAQUARA(VIA MERINGUAVA)"
+  },
+  {
+    "linha":"966 -  TANQUE X HOSPITAL CARDOSO FONTES(CIRCULAR)"
+  },
+  {
+    "linha":"991 -  TAQUARA X ALVORADA (VIA CIDADE DE DEUS)"
+  },
+  {
+    "linha":"2014 -  GAVEA X RODOVIÃRIA"
+  },
+  {
+    "linha":"2015 -  CASTELO X LEBLON (CIRCULAR)"
+  },
+  {
+    "linha":"SE2016 -  AEROPORTO DO GALEÃƒO X PÃ‡A. GENERAL OSÃ“RIO"
+  },
+  {
+    "linha":"2017 -  RODOVIARIA X LEBLON (CIRCULAR)"
+  },
+  {
+    "linha":"2018 -  AEROPORTO INTERNACIONAL DO RJ X ALVORADA"
+  },
+  {
+    "linha":"2020 -  PENINSULA X RODOVIARIA"
+  },
+  {
+    "linha":"2101 -  AEROPORTO INTERNACIONAL X AEROPORTO S.DUMONT(V.L.VERMELHA)"
+  },
+  {
+    "linha":"2110 -  GADERNIA AZUL X CASTELO"
+  },
+  {
+    "linha":"2111 -  PRACA SECA X CASTELO( VIA AV. MENEZES CORTES)"
+  },
+  {
+    "linha":"2112 -  TAQUARA X CASTELO (VIA LINHA AMARELA)"
+  },
+  {
+    "linha":"2114 -  FREGUESIA X CASTELO"
+  },
+  {
+    "linha":"2115 -  PECHINCHA X CASTELO (VIA ITANHANGA)"
+  },
+  {
+    "linha":"2145 -  AEROPORTO INTERNACIONAL X AEROPORTO SANTOS DUMONT (VIA AV. PRES. VARGAS)"
+  },
+  {
+    "linha":"2203 -  GRAJAU X CASTELO (CIRCULAR)"
+  },
+  {
+    "linha":"2251 -  ENGENHO DE DENTRO X CARIOCA (EXPRESSO)"
+  },
+  {
+    "linha":"2303 -  CESARAO X CARIOCA"
+  },
+  {
+    "linha":"2305 -  JARDIM AMERICA X CASTELO"
+  },
+  {
+    "linha":"2307 -  JARDIM 7 DE ABRIL X CARIOCA (VIA AV.PRES. VARGAS)"
+  },
+  {
+    "linha":"2308 -  COSMOS X CARIOCA"
+  },
+  {
+    "linha":"2309 -  URUCANIA X CARIOCA"
+  },
+  {
+    "linha":"2310 -  BANGU X CASTELO"
+  },
+  {
+    "linha":"2329 -  RECREIO X CASTELO (VIA AV.LUCIO COSTA)"
+  },
+  {
+    "linha":"2330 -  RODOVIARIA X B.DA TIJUCA(V.LINHA AMARELA)"
+  },
+  {
+    "linha":"2332 -  CAMPO GRANDE X CASTELO (VIA AV. SANTA CRUZ)"
+  },
+  {
+    "linha":"2333 -  RECREIO X CASTELO (VIA AV.DAS AMERICAS)"
+  },
+  {
+    "linha":"SV2333 -  SV-RECREIOXCASTELO(V.AV.DASAMERICAS/GUIOMARNOVAES)"
+  },
+  {
+    "linha":"2334 -  CAMPO GRANDE X CASTELO"
+  },
+  {
+    "linha":"SV2334 -  SV - C.GRANDE X CASTELO (V.CACHAMORRA E B. TIJUCA)"
+  },
+  {
+    "linha":"2335 -  SANTA CRUZ X CASTELO (VIA BARRA DA TIJUCA)"
+  },
+  {
+    "linha":"2336 -  CAMPO GRANDE X CASTELO (VIA AV. BRASIL)"
+  },
+  {
+    "linha":"2337 -  SANTA CRUZ X CASTELO (VIA SEPETIBA)"
+  },
+  {
+    "linha":"2338 -  CAMPO GRANDE X CASTELO (VIA ESTRADA DO MAGARCA)"
+  },
+  {
+    "linha":"2339 -  CAMPO GRANDE X CASTELO(VIA ESTR. DA POSSE)"
+  },
+  {
+    "linha":"2342 -  BANANAL X CASTELO(VIA LINHA VERMELHA)"
+  },
+  {
+    "linha":"2343 -  RIBEIRA X CASTELO(VIA LINHA VERMELHA)"
+  },
+  {
+    "linha":"2344 -  BANCARIOS X CASTELO (VIA L. VERMELHA)"
+  },
+  {
+    "linha":"2345 -  V.VALQUEIRE X CASTELO(V.NORTE SHOPPING/R.QUIRIRIM)"
+  },
+  {
+    "linha":"SVA2345 -  SVA- VILA VALQUEIRE X CASTELO(V. NORTE SHOPPING)"
+  },
+  {
+    "linha":"SVB2345 -  SVB-V.VALQUEIREXCASTELO(V.PCA.BANDEIRA)"
+  },
+  {
+    "linha":"2381 -  PEDRA DE GUARATIBA X CASTELO"
+  },
+  {
+    "linha":"SV2381 -  SV - PEDRA DE GUARATIBA X CASTELO (VIA MATO ALTO)"
+  },
+  {
+    "linha":"SP2381 -  SP - JARDIM MARAVILHA X CASTELO"
+  },
+  {
+    "linha":"2801 -  CAMPO GRANDE X BARRA DA TIJUCA (VIA ESTR.MAGARCA)"
+  },
+  {
+    "linha":"2802 -  SANTA CRUZ X BARRA DA TIJUCA (VIA AV.AMERICAS)"
+  },
+  {
+    "linha":"2803 -  VILA KENNEDY X ALVORADA"
+  },
+  {
+    "linha":"2804 -  BANGU X BARRA DA TIJUCA(VIA CACHAMORRA)"
+  },
+  {
+    "linha":"2918 -  AEROPORTO INTERNACIONAL RJ X ALVORADA(V.L.AMARELA)"
+  },
+  {
+    "linha":"5700 -  GALEAO X ALVORADA (RAPIDO)"
+  },
+
+  {
+    "linha":"SN5700 -  SN- GALEAO X ALVORADA (RAPIDO)"
+  },
+
+  {
+    "linha":"5701 -  MADUREIRA X ALVORADA (EXPRESSO)"
+  },
+
+  {
+    "linha":"SP5701 -  SP - TANQUE X ALVORADA (EXPRESSO)"
+  },
+
+  {
+    "linha":"5702 -  MADUREIRA X ALVORADA (PARADOR)"
+  },
+
+  {
+    "linha":"5703 -  STA. EFIGENIA X PENHA (EXPRESSO)"
+  },
+  {
+    "linha":"5704 -  FUNDAO X ALVORADA (EXPRESSO)"
+  },
+  {
+    "linha":"SN5704 -  SN - FUNDAO X ALVORADA (PARADOR)"
+  },
+  {
+    "linha":"5705 -  FUNDAO X MADUREIRA(PARADOR)"
+  },
+  {
+    "linha":"5800 -  SANTA CRUZ X ALVORADA (DIRETO/EXPRESSO)"
+  },
+  {
+    "linha":"5801 -  PINGO D`AGUA X ALVORADA (DIRETO/EXPRESSO)"
+  },
+  {
+    "linha":"5802 -  MATO ALTO X ALVORADA -DIRETO/EXPRESSO"
+  },
+  {
+    "linha":"5803 -  MATO ALTO X ALVORADA (PARADOR)"
+  },
+  {
+    "linha":"SP5803 -  SP - MATO ALTO X SALVADOR ALLENDE (EXPRESSO)"
+  },
+  {
+    "linha":"5804 -  PACIENCIA X SALVADOR ALLENDE (EXPRESSO)"
+  },
+  {
+    "linha":"5805 -  SANTA CRUZ X CAMPO GRANDE(PARADOR)"
+  },
+  {
+    "linha":"5806 -  RECREIO X ALVORADA (EXPRESSO)"
+  },
+  {
+    "linha":"5807 -  PINGO D'AGUA X SALVADOR ALLENDE (EXPRESSO)"
+  },
+  {
+    "linha":"5808 -  SANTA CRUZ X SALVADOR ALLENDE (EXPRESSO)"
+  },
+  {
+    "linha":"TR0NCAL 0NC -  "
+  }
+]
+}

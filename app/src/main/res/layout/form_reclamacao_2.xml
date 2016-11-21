@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_margin="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:background="@android:color/white">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/editLocal"
+            android:layout_width="158dp"
+            android:layout_height="wrap_content"
+            android:hint="@string/text_local" />
+
+        <CheckBox
+            android:id="@+id/boxGps"
+            android:layout_width="match_parent"
+            android:layout_height="63dp"
+            android:checked="false"
+            android:enabled="true"
+            android:text=" Obter local \n via GPS"
+            android:onClick=""
+            android:textSize="12dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Reclamação:"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/gray_black" />
+
+
+    <Spinner
+        android:id="@+id/dadosReclamacao"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_weight="0.6"
+        android:spinnerMode="dropdown" />
+
+    <Button
+        android:id="@+id/btFoto"
+        android:layout_width="fill_parent"
+        android:layout_height="37dp"
+        android:layout_marginBottom="10dp"
+        android:hint="Anexar uma foto"
+        android:textSize="15dp" />
+
+    <ImageView
+        android:id="@+id/ivImageReclamacao"
+        android:layout_width="138dp"
+        android:layout_height="138dp"
+        android:src="@drawable/ic_onibus"
+        android:layout_gravity="center" />
+
+
+</LinearLayout>

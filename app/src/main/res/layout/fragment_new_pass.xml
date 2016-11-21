@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minWidth="220dp"
+    android:orientation="vertical"
+    tools:context="mobile.br.com.reclameonibus.fragment.DialogForgotPassFragment">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="@string/edittext_dados_senha"
+        android:inputType="textPassword"
+        android:id="@+id/editSenha" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="@string/edittext_dados_senha_nova"
+        android:inputType="textPassword"
+        android:id="@+id/editNovaSenha" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="@string/edittext_dados_senha_conf"
+        android:inputType="textPassword"
+        android:id="@+id/editConfirmaSenha" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:textAllCaps="true"
+        android:text="@string/button_change_pass"
+        android:id="@+id/btAlterar"
+        style="@style/AppTheme.Button"
+        android:layout_gravity="center" />
+</LinearLayout>

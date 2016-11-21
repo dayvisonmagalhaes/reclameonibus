@@ -1,0 +1,4601 @@
+[
+  {
+    "Consórcio":"Intersul",
+    "No atual":"006",
+    "Destino 1":"Silvestre",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"007",
+    "Destino 1":"Silvestre",
+    "Destino 2":"Central",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"10",
+    "Destino 1":"B. Fátima",
+    "Destino 2":"Central",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"11",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Cinelândia",
+    "via":"via Praça Mauá"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"14",
+    "Destino 1":"Paula Matos",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"16",
+    "Destino 1":"Cinelândia",
+    "Destino 2":"Santos Dumont",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"107",
+    "Destino 1":"Central",
+    "Destino 2":"Urca",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"110",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Jardim de Alah",
+    "via":"via Rebouças"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"111",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Jardim de Alah",
+    "via":"via Rebouças"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"112",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Gávea",
+    "via":"via Rebouças"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"133",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Largo do Machado",
+    "via":"via Estácio"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"143",
+    "Destino 1":"Central",
+    "Destino 2":"Gávea",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"157",
+    "Destino 1":"Central",
+    "Destino 2":"Gávea",
+    "via":"via Lagoa"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"161",
+    "Destino 1":"Lapa",
+    "Destino 2":"Leblon",
+    "via":"via Catete"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"162",
+    "Destino 1":"Lapa",
+    "Destino 2":"Leblon",
+    "via":"via Catete"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"170",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Gávea",
+    "via":"via Catete"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"173",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Leblon",
+    "via":"via Santa Bárbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"178",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"São Conrado",
+    "via":"via Catete"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"180",
+    "Destino 1":"Central",
+    "Destino 2":"Cosme Velho",
+    "via":"via Catete"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"181",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"São Conrado",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"183",
+    "Destino 1":"Central",
+    "Destino 2":"Laranjeiras",
+    "via":"via Santa Bárbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"184",
+    "Destino 1":"Central",
+    "Destino 2":"Laranjeiras",
+    "via":"via Catete"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"201",
+    "Destino 1":"Santa Alexandrina",
+    "Destino 2":"Carioca",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"202",
+    "Destino 1":"Rio Comprido",
+    "Destino 2":"Castelo",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"204",
+    "Destino 1":"Rio Comprido",
+    "Destino 2":"Estácio",
+    "via":"via Santa Alexandrina"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"209",
+    "Destino 1":"Caju",
+    "Destino 2":"Estácio",
+    "via":"via São Cristóvão"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"210",
+    "Destino 1":"Caju",
+    "Destino 2":"Candelária",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"213",
+    "Destino 1":"Muda",
+    "Destino 2":"Castelo",
+    "via":"via Aterro do Flamengo"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"217",
+    "Destino 1":"Andaraí",
+    "Destino 2":"Carioca",
+    "via":"via Saens Peña"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"220",
+    "Destino 1":"Usina",
+    "Destino 2":"Candelária",
+    "via":"via Haddock Lobo"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"222",
+    "Destino 1":"Vila Isabel",
+    "Destino 2":"Praça Mauá",
+    "via":"via Hosp. Servidores"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"226",
+    "Destino 1":"Grajaú",
+    "Destino 2":"Carioca",
+    "via":"via Saens Peña"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"229",
+    "Destino 1":"Usina",
+    "Destino 2":"Castelo",
+    "via":"via Frei Caneca"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"232",
+    "Destino 1":"Lins",
+    "Destino 2":"Castelo",
+    "via":"via Rua Aquidabã"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"238",
+    "Destino 1":"Água Santa",
+    "Destino 2":"Praça XV",
+    "via":"via Frei Caneca"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"239",
+    "Destino 1":"Água Santa",
+    "Destino 2":"Castelo",
+    "via":"via 24 de Maio"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"247",
+    "Destino 1":"C. Méier",
+    "Destino 2":"Passeio",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"249",
+    "Destino 1":"Água Santa",
+    "Destino 2":"Carioca",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"254",
+    "Destino 1":"Madureira",
+    "Destino 2":"Castelo",
+    "via":"via Cruz Vermelha"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"265",
+    "Destino 1":"Marechal Hermes",
+    "Destino 2":"Castelo",
+    "via":"via Binário"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"275",
+    "Destino 1":"Méier",
+    "Destino 2":"Castelo",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"277",
+    "Destino 1":"Rocha Miranda",
+    "Destino 2":"Castelo",
+    "via":"via São Cristóvão"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"284",
+    "Destino 1":"Olaria",
+    "Destino 2":"Candelária",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"292",
+    "Destino 1":"Engenho da Rainha",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"296",
+    "Destino 1":"Irajá",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"298",
+    "Destino 1":"Acari",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"300",
+    "Destino 1":"Sulacap",
+    "Destino 2":"Candelária",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"301",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Alvorada",
+    "via":"via Américas"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"302",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Alvorada",
+    "via":"via Sernambetiba"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"303",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Rodoviária",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"306",
+    "Destino 1":"Praça Seca",
+    "Destino 2":"Castelo",
+    "via":"via Serra"
+  },
+  {
+    "Consórcio":"x",
+    "No atual":"307",
+    "Destino 1":"Vila Kosmos",
+    "Destino 2":"Praça XV",
+    "via":"via Lucas"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"309",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Central",
+    "via":"via Flamengo"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"310",
+    "Destino 1":"Engenho da Rainha",
+    "Destino 2":"Praça XV",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"311",
+    "Destino 1":"Eng. Leal",
+    "Destino 2":"Praça XV",
+    "via":"via Cavalcanti"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"312",
+    "Destino 1":"Olaria",
+    "Destino 2":"Candelária",
+    "via":"via São Cristóvão"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"313",
+    "Destino 1":"Penha (Grotão)",
+    "Destino 2":"Praça Tiradentes",
+    "via":"via Vila Cruzeiro"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"315",
+    "Destino 1":"Central",
+    "Destino 2":"Recreio",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"316",
+    "Destino 1":"Recreio",
+    "Destino 2":"Central",
+    "via":"via Jardim Botânico"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"317",
+    "Destino 1":"Central",
+    "Destino 2":"Alvorada",
+    "via":"via Santa Bárbara"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"320",
+    "Destino 1":"Parque União",
+    "Destino 2":"Praça XV",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"321",
+    "Destino 1":"Bancários",
+    "Destino 2":"Castelo",
+    "via":"via Linha Vermelha"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"322",
+    "Destino 1":"Ribeira",
+    "Destino 2":"Castelo",
+    "via":"via Binário"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"323",
+    "Destino 1":"Bananal",
+    "Destino 2":"Castelo",
+    "via":"via Linha Vermelha"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"324",
+    "Destino 1":"Ribeira",
+    "Destino 2":"Castelo",
+    "via":"via Brasil"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"325",
+    "Destino 1":"Ribeira",
+    "Destino 2":"Castelo",
+    "via":"via Linha Vermelha"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"326",
+    "Destino 1":"Bancários",
+    "Destino 2":"Castelo",
+    "via":"via Brasil"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"327",
+    "Destino 1":"Ribeira",
+    "Destino 2":"Castelo",
+    "via":"via Linha Vermelha"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"328",
+    "Destino 1":"Bananal",
+    "Destino 2":"Castelo",
+    "via":"via Brasil"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"329",
+    "Destino 1":"Bancários",
+    "Destino 2":"Castelo",
+    "via":"via Praia da Rosa"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"330",
+    "Destino 1":"Parque União",
+    "Destino 2":"Castelo",
+    "via":"via Brasil"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"331",
+    "Destino 1":"Praça Seca",
+    "Destino 2":"Castelo",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"334",
+    "Destino 1":"Cordovil",
+    "Destino 2":"Bonsucesso",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"335",
+    "Destino 1":"Cordovil",
+    "Destino 2":"Tiradentes",
+    "via":"parador"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"337",
+    "Destino 1":"Curicica",
+    "Destino 2":"Estácio",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"338",
+    "Destino 1":"Taquara",
+    "Destino 2":"Candelária",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"339",
+    "Destino 1":"Cidade de Deus",
+    "Destino 2":"Rodoviária",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"341",
+    "Destino 1":"Taquara",
+    "Destino 2":"Candelária",
+    "via":"via Serra"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"342",
+    "Destino 1":"Jardim América",
+    "Destino 2":"Passeio",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"343",
+    "Destino 1":"Barra da Tijuca",
+    "Destino 2":"Candelária",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"344",
+    "Destino 1":"Rocha Miranda",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"345",
+    "Destino 1":"Candelária",
+    "Destino 2":"Passarela da Barra",
+    "via":"via Alto"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"346",
+    "Destino 1":"Madureira",
+    "Destino 2":"Candelária",
+    "via":"via Clarimundo de Melo"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"348",
+    "Destino 1":"Riocentro",
+    "Destino 2":"Candelária",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"349",
+    "Destino 1":"Rocha Miranda",
+    "Destino 2":"Praça XV",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"350",
+    "Destino 1":"Irajá",
+    "Destino 2":"Passeio",
+    "via":"via Praça das Nações"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"351",
+    "Destino 1":"Vaz Lobo",
+    "Destino 2":"Passeio",
+    "via":"via Binário"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"352",
+    "Destino 1":"Riocentro",
+    "Destino 2":"Castelo",
+    "via":"via Autódromo"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"353",
+    "Destino 1":"Madureira",
+    "Destino 2":"Rodoviária",
+    "via":"via Clarimundo de Melo"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"355",
+    "Destino 1":"Madureira",
+    "Destino 2":"Tiradentes",
+    "via":"via Vicente de Carvalho"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"358",
+    "Destino 1":"Cosmos",
+    "Destino 2":"Candelária",
+    "via":"Parador"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"361",
+    "Destino 1":"Carioca",
+    "Destino 2":"Recreio",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"362",
+    "Destino 1":"Honório Gurgel",
+    "Destino 2":"Castelo",
+    "via":"Parador"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"363",
+    "Destino 1":"Vila Valqueire",
+    "Destino 2":"Castelo",
+    "via":"via UERJ"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"364",
+    "Destino 1":"Jardim Bangu",
+    "Destino 2":"Tiradentes",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"365",
+    "Destino 1":"Mendanha",
+    "Destino 2":"Tiradentes",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"366",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Tiradentes",
+    "via":"via Estr. Mendanha"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"367",
+    "Destino 1":"Realengo",
+    "Destino 2":"Candelária",
+    "via":"Parador"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"368",
+    "Destino 1":"Riocentro",
+    "Destino 2":"Castelo",
+    "via":"via Serra"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"369",
+    "Destino 1":"Bangu",
+    "Destino 2":"Candelária",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"370",
+    "Destino 1":"Padre Miguel",
+    "Destino 2":"Candelária",
+    "via":"via Av.Brasil"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"371",
+    "Destino 1":"Praça Seca",
+    "Destino 2":"Tiradentes",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"372",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Passeio",
+    "via":"rapido circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"373",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Passeio",
+    "via":"parador circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"374",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Praça XV",
+    "via":"via Costa Barros"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"375",
+    "Destino 1":"Ricardo de Albuquerque",
+    "Destino 2":"Carioca",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"376",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Praça XV",
+    "via":"via Rua Mercurio"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"377",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Praça XV",
+    "via":"via Costa Barros"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"378",
+    "Destino 1":"Marechal Hermes",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"379",
+    "Destino 1":"Catiri",
+    "Destino 2":"Tiradentes",
+    "via":"via Av. Brasil"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"380",
+    "Destino 1":"Curicica",
+    "Destino 2":"Candelária",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"381",
+    "Destino 1":"Anchieta",
+    "Destino 2":"Cidade Universitária",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"383",
+    "Destino 1":"Realengo",
+    "Destino 2":"Praça da República",
+    "via":"via Sulacap"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"384",
+    "Destino 1":"Castelo",
+    "Destino 2":"Pavuna",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"385",
+    "Destino 1":"Castelo",
+    "Destino 2":"Village Pavuna",
+    "via":"via Camboata"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"386",
+    "Destino 1":"Anchieta",
+    "Destino 2":"Carioca",
+    "via":"via Mariopolis"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"388",
+    "Destino 1":"Santa Cruz",
+    "Destino 2":"Candelária",
+    "via":"via Av. Brasil"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"389",
+    "Destino 1":"Vila Aliança",
+    "Destino 2":"Candelária",
+    "via":"via Senador Camara"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"390",
+    "Destino 1":"Praça XV",
+    "Destino 2":"Curicica",
+    "via":"via Grajaú-Jacarepaguá"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"391",
+    "Destino 1":"Padre Miguel",
+    "Destino 2":"Carioca",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"392",
+    "Destino 1":"Bangu",
+    "Destino 2":"Carioca",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"393",
+    "Destino 1":"Bangu",
+    "Destino 2":"Castelo",
+    "via":"via Padre Miguel"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"394",
+    "Destino 1":"Vila Kennedy",
+    "Destino 2":"Tiradentes",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"395",
+    "Destino 1":"Coqueiros",
+    "Destino 2":"Tiradentes",
+    "via":"Expresso"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"396",
+    "Destino 1":"Bairro Jabour",
+    "Destino 2":"Carioca",
+    "via":"Expresso"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"397",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Carioca",
+    "via":"via Av.Brasil"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"398",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Tiradentes",
+    "via":"via Bangu"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"399",
+    "Destino 1":"Castelo",
+    "Destino 2":"Pavuna",
+    "via":"Expresso"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"401",
+    "Destino 1":"Rio Comprido",
+    "Destino 2":"Sao Salvador",
+    "via":"via Avenida Presidente Vargas e Rua Alcobaca"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"402",
+    "Destino 1":"Engenho da Rainha",
+    "Destino 2":"Gávea",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"404",
+    "Destino 1":"Cordovil",
+    "Destino 2":"Leblon",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"405",
+    "Destino 1":"Ramos",
+    "Destino 2":"Cosme Velho",
+    "via":"via Avenida Brasil"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"409",
+    "Destino 1":"Saens Peña",
+    "Destino 2":"Jardim Botanico",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"410",
+    "Destino 1":"Praça Saens Peña",
+    "Destino 2":"Gávea",
+    "via":"Horto"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"411",
+    "Destino 1":"Usina",
+    "Destino 2":"Prado Junior",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"412",
+    "Destino 1":"Usina",
+    "Destino 2":"Praia de Botafogo",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"413",
+    "Destino 1":"Muda",
+    "Destino 2":"Jardim de Alah",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"415",
+    "Destino 1":"Usina",
+    "Destino 2":"Leblon",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"416",
+    "Destino 1":"Saens Peña",
+    "Destino 2":"Jardim Botanico",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"420",
+    "Destino 1":"Vila Isabel",
+    "Destino 2":"Praia de Botafogo",
+    "via":"Horto"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"421",
+    "Destino 1":"Vila Isabel",
+    "Destino 2":"Prado Junior",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"422",
+    "Destino 1":"Grajau",
+    "Destino 2":"Cosme Velho",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"423",
+    "Destino 1":"Grajau",
+    "Destino 2":"Real Grandeza",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"425",
+    "Destino 1":"Grajau",
+    "Destino 2":"Real Grandeza",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"426",
+    "Destino 1":"Usina",
+    "Destino 2":"Jardim de Alah",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"432",
+    "Destino 1":"Vila Isabel",
+    "Destino 2":"Leblon",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"433",
+    "Destino 1":"Vila Isabel",
+    "Destino 2":"Praia de Botafogo",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"434",
+    "Destino 1":"Grajau",
+    "Destino 2":"Praia de Botafogo",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"435",
+    "Destino 1":"Grajau",
+    "Destino 2":"Gávea",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"436",
+    "Destino 1":"Grajau",
+    "Destino 2":"Leblon",
+    "via":"via Túnel Rebouças"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"438",
+    "Destino 1":"Vila Isabel",
+    "Destino 2":"Leblon",
+    "via":"via Jóquei"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"439",
+    "Destino 1":"Vila Isabel",
+    "Destino 2":"Leblon",
+    "via":"via Túnel Rebouças"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"440",
+    "Destino 1":"Caju",
+    "Destino 2":"Copacabana",
+    "via":"via Túnel Reboucas/Joquei"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"441",
+    "Destino 1":"Caju",
+    "Destino 2":"Lido",
+    "via":"via Túnel Reboucas/Túnel Velho"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"442",
+    "Destino 1":"Mare",
+    "Destino 2":"Copacabana",
+    "via":"via São Cristóvão"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"443",
+    "Destino 1":"Mare",
+    "Destino 2":"Leblon",
+    "via":"via Praça Mauá"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"444",
+    "Destino 1":"Mare",
+    "Destino 2":"Copacabana",
+    "via":"via Central"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"445",
+    "Destino 1":"Morro do Alemao",
+    "Destino 2":"Copacabana",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"448",
+    "Destino 1":"Maracai",
+    "Destino 2":"São Conrado",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"454",
+    "Destino 1":"Méier",
+    "Destino 2":"Prado Junior",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"455",
+    "Destino 1":"Méier",
+    "Destino 2":"Copacabana",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"456",
+    "Destino 1":"Norte Shopping",
+    "Destino 2":"Siqueira Campos",
+    "via":"via Parque do Flamengo"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"457",
+    "Destino 1":"Abolição",
+    "Destino 2":"Siqueira Campos",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"458",
+    "Destino 1":"Norte Shopping",
+    "Destino 2":"Praia de Botafogo",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"459",
+    "Destino 1":"Abolicao",
+    "Destino 2":"Praia de Botafogo",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"460",
+    "Destino 1":"São Cristóvão",
+    "Destino 2":"Leblon",
+    "via":"via Túnel Santa Barbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"461",
+    "Destino 1":"São Cristóvão",
+    "Destino 2":"Ipanema",
+    "via":"via Túnel Reboucas"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"462",
+    "Destino 1":"São Cristóvão",
+    "Destino 2":"Copacabana",
+    "via":"via Túnel Reboucas"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"463",
+    "Destino 1":"São Cristóvão",
+    "Destino 2":"Copacabana",
+    "via":"via Túnel Reboucas"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"464",
+    "Destino 1":"Maracanã",
+    "Destino 2":"Praia de Botafogo",
+    "via":"via Túnel Reboucas/Túnel Velho"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"467",
+    "Destino 1":"Maracanã",
+    "Destino 2":"Praia de Botafogo",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"472",
+    "Destino 1":"Triagem",
+    "Destino 2":"Leme",
+    "via":"via Praça XV"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"473",
+    "Destino 1":"Sao Januario",
+    "Destino 2":"Lido",
+    "via":"via Túnel Reboucas"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"474",
+    "Destino 1":"Jacaré",
+    "Destino 2":"Copacabana",
+    "via":"via Sta. Bárbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"475",
+    "Destino 1":"Méier",
+    "Destino 2":"Prado Junior",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"476",
+    "Destino 1":"Méier",
+    "Destino 2":"Leblon",
+    "via":"via Túnel Reboucas"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"480",
+    "Destino 1":"Olaria",
+    "Destino 2":"Prado Junior",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"481",
+    "Destino 1":"Penha",
+    "Destino 2":"Praia de Botafogo",
+    "via":"via Santa Barbara"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"483",
+    "Destino 1":"Penha",
+    "Destino 2":"Siqueira Campos",
+    "via":"via Santa Barbara"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"485",
+    "Destino 1":"Siqueira Campos",
+    "Destino 2":"Penha",
+    "via":"via Fundão"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"486",
+    "Destino 1":"Siqueira Campos",
+    "Destino 2":"Fundão",
+    "via":"via Avenida Brasil"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"497",
+    "Destino 1":"Penha",
+    "Destino 2":"Largo do Machado",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"498",
+    "Destino 1":"Circular da Penha",
+    "Destino 2":"Largo do Machado",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"503",
+    "Destino 1":"Gávea",
+    "Destino 2":"Alto Leblon",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"507",
+    "Destino 1":"Largo do Machado",
+    "Destino 2":"Silvestre",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"508",
+    "Destino 1":"Jardim Botanico (Horto)",
+    "Destino 2":"Botafogo",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"509",
+    "Destino 1":"Jardim Botanico (Horto)",
+    "Destino 2":"Jardim de Alah",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"511",
+    "Destino 1":"Urca",
+    "Destino 2":"Leblon",
+    "via":"via Joquei"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"512",
+    "Destino 1":"Urca",
+    "Destino 2":"Leblon",
+    "via":"via Copacabana"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"513",
+    "Destino 1":"Humaitá",
+    "Destino 2":"Urca",
+    "via":"via Metrô de Botafogo"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"517",
+    "Destino 1":"Gávea",
+    "Destino 2":"Metrô de Botafogo",
+    "via":"via Lagoa"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"525",
+    "Destino 1":"General Osório",
+    "Destino 2":"Alvorada",
+    "via":"via Vidigal"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"535",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Leme",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"537",
+    "Destino 1":"Rocinha",
+    "Destino 2":"Leblon",
+    "via":"via Joquei"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"538",
+    "Destino 1":"Rocinha",
+    "Destino 2":"Botafogo",
+    "via":"via Copacabana"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"539",
+    "Destino 1":"Rocinha",
+    "Destino 2":"Botafogo",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"548",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Botafogo",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"550",
+    "Destino 1":"Cidade de Deus",
+    "Destino 2":"Gávea",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"555",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Gávea",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"556",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Leblon",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"557",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Copacabana",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"565",
+    "Destino 1":"Tanque",
+    "Destino 2":"Gávea",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"569",
+    "Destino 1":"Largo do Machado",
+    "Destino 2":"Leblon",
+    "via":"via Joquei"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"570",
+    "Destino 1":"Largo do Machado",
+    "Destino 2":"Leblon",
+    "via":"via Copacabana"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"573",
+    "Destino 1":"Gloria",
+    "Destino 2":"Leblon",
+    "via":"via Joquei"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"574",
+    "Destino 1":"Gloria",
+    "Destino 2":"Leblon",
+    "via":"via Copacabana"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"580",
+    "Destino 1":"Largo do Machado",
+    "Destino 2":"Laranjeiras",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"583",
+    "Destino 1":"Cosme Velho",
+    "Destino 2":"Leblon",
+    "via":"via Joquei"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"584",
+    "Destino 1":"Cosme Velho",
+    "Destino 2":"Leblon",
+    "via":"via Copacabana"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"590",
+    "Destino 1":"Copacabana",
+    "Destino 2":"Leme",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"600",
+    "Destino 1":"Taquara (Boiúna)",
+    "Destino 2":"Saens Peña",
+    "via":"via Grajaú-Jacarepaguá"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"601",
+    "Destino 1":"Taquara (Capela)",
+    "Destino 2":"Saens Peña",
+    "via":"via Grajaú-Jacarepaguá"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"602",
+    "Destino 1":"Andarai",
+    "Destino 2":"Saens Peña",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"603",
+    "Destino 1":"Usina",
+    "Destino 2":"Praça Saens Peña",
+    "via":"via Sao Miguel"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"604",
+    "Destino 1":"Usina",
+    "Destino 2":"Praça Saens Peña",
+    "via":"via Conde de Bonfim"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"605",
+    "Destino 1":"Sao Francisco Xavier",
+    "Destino 2":"Vila Isabel",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"606",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Engenho de Dentro",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"607",
+    "Destino 1":"Cascadura",
+    "Destino 2":"Rio Comprido",
+    "via":"via Estácio"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"608",
+    "Destino 1":"Grajau",
+    "Destino 2":"Praça Saens Peña",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"609",
+    "Destino 1":"Sao Francisco Xavier",
+    "Destino 2":"Méier",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"611",
+    "Destino 1":"Del Castilho",
+    "Destino 2":"Curicica",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"612",
+    "Destino 1":"Tijuca",
+    "Destino 2":"Curicica",
+    "via":"via Cidade de Deus/Avenida Menezes Cortes"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"613",
+    "Destino 1":"Del Castilho",
+    "Destino 2":"Rio Centro",
+    "via":"via Autodromo e Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"614",
+    "Destino 1":"Del Castilho",
+    "Destino 2":"Alvorada",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"615",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Del Castilho",
+    "via":"via Norte Shopping"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"616",
+    "Destino 1":"Del Castilho",
+    "Destino 2":"Fundão",
+    "via":"via Cidade Universitária"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"621",
+    "Destino 1":"Penha",
+    "Destino 2":"Saens Peña",
+    "via":"via Mangueira"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"622",
+    "Destino 1":"Penha",
+    "Destino 2":"Saens Peña",
+    "via":"via Grajau"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"623",
+    "Destino 1":"Penha",
+    "Destino 2":"Saens Peña",
+    "via":"via Túnel Noel Rosa"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"624",
+    "Destino 1":"Mariopolis",
+    "Destino 2":"Praça da Bandeira",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"625",
+    "Destino 1":"Olaria",
+    "Destino 2":"Saens Peña",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"626",
+    "Destino 1":"Praça Saens Peña",
+    "Destino 2":"Muda",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"627",
+    "Destino 1":"Saens Peña",
+    "Destino 2":"Inhaúma",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"628",
+    "Destino 1":"Penha",
+    "Destino 2":"Del Castilho",
+    "via":"Shopping Nova America"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"630",
+    "Destino 1":"Saens Peña",
+    "Destino 2":"Penha",
+    "via":"Iapi"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"634",
+    "Destino 1":"Saens Peña",
+    "Destino 2":"Bananal",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"635",
+    "Destino 1":"Saens Peña",
+    "Destino 2":"Bananal",
+    "via":"via Linha Vermelha e Cid. Universitária"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"636",
+    "Destino 1":"Praça Saens Peña",
+    "Destino 2":"Madureira",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"638",
+    "Destino 1":"Saens Peña",
+    "Destino 2":"Marechal Hermes",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"639",
+    "Destino 1":"Saens Peña",
+    "Destino 2":"Jardim America",
+    "via":"via Rocha Miranda"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"650",
+    "Destino 1":"Marechal Hermes",
+    "Destino 2":"Engenho Novo",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"651",
+    "Destino 1":"Méier",
+    "Destino 2":"Cascadura",
+    "via":"via Arquias Cordeiro"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"652",
+    "Destino 1":"Méier",
+    "Destino 2":"Cascadura",
+    "via":"via Lins"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"653",
+    "Destino 1":"Marechal Hermes",
+    "Destino 2":"Méier",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"661",
+    "Destino 1":"Méier",
+    "Destino 2":"Maria da Graca",
+    "via":"via Alv. Cabral e Norte Shopping"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"662",
+    "Destino 1":"Méier",
+    "Destino 2":"Maria da Graca",
+    "via":"via Del Castilho"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"663",
+    "Destino 1":"Méier",
+    "Destino 2":"Fundão",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"665",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Saens Peña",
+    "via":"via Pastor Martin Luther King Jr."
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"667",
+    "Destino 1":"Madureira",
+    "Destino 2":"Méier",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"669",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Cachambi",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"673",
+    "Destino 1":"Lucas",
+    "Destino 2":"Méier",
+    "via":"via Del Castilho"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"673",
+    "Destino 1":"Parada de Lucas",
+    "Destino 2":"Penha",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"678",
+    "Destino 1":"Méier",
+    "Destino 2":"Vila Valqueire",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"679",
+    "Destino 1":"Grotao",
+    "Destino 2":"Méier",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"680",
+    "Destino 1":"Penha (Iapi)",
+    "Destino 2":"Méier",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"684",
+    "Destino 1":"Padre Miguel",
+    "Destino 2":"Méier",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"685",
+    "Destino 1":"Irajá",
+    "Destino 2":"Méier",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"686",
+    "Destino 1":"Fazenda da Bica",
+    "Destino 2":"Madureira",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"687",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Méier",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"688",
+    "Destino 1":"Méier",
+    "Destino 2":"Pavuna",
+    "via":"via Rua Jose dos Reis"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"691",
+    "Destino 1":"Méier",
+    "Destino 2":"Cidade de Deus",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"692",
+    "Destino 1":"Méier",
+    "Destino 2":"Alvorada",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"693",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Méier",
+    "via":"via Merck"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"696",
+    "Destino 1":"Méier",
+    "Destino 2":"Praia do Dende",
+    "via":"via AIRJ"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"709",
+    "Destino 1":"Cascadura",
+    "Destino 2":"Amarelinho",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"711",
+    "Destino 1":"Rio Comprido",
+    "Destino 2":"Rocha Miranda",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"712",
+    "Destino 1":"Cascadura",
+    "Destino 2":"Irajá",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"721",
+    "Destino 1":"Cascadura",
+    "Destino 2":"Vila Cruzeiro",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"723",
+    "Destino 1":"Cascadura",
+    "Destino 2":"Mariopolis",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"725",
+    "Destino 1":"Ricardo de Albuquerque",
+    "Destino 2":"Cascadura",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"727",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Javatá",
+    "via":"via Shopping Bangu"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"730",
+    "Destino 1":"Bangu",
+    "Destino 2":"Cascadura",
+    "via":"via Estrada da Posse"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"731",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Marechal Hermes",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"734",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Madureira",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"737",
+    "Destino 1":"Santissimo",
+    "Destino 2":"Marechal Hermes",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"738",
+    "Destino 1":"Urucania",
+    "Destino 2":"Marechal Hermes",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"739",
+    "Destino 1":"Sulacap",
+    "Destino 2":"Bangu",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"740",
+    "Destino 1":"Padre Miguel",
+    "Destino 2":"Cascadura",
+    "via":"via Murundu"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"741",
+    "Destino 1":"Barata",
+    "Destino 2":"Bangu",
+    "via":"via Murundu"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"742",
+    "Destino 1":"Barata",
+    "Destino 2":"Cascadura",
+    "via":"via Água Branca"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"743",
+    "Destino 1":"Barata",
+    "Destino 2":"Bangu",
+    "via":"via Jardim Novo"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"744",
+    "Destino 1":"Realengo",
+    "Destino 2":"Cascadura",
+    "via":"via Jardim Novo"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"745",
+    "Destino 1":"Bangu",
+    "Destino 2":"Cascadura",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"746",
+    "Destino 1":"Jabour",
+    "Destino 2":"Cascadura",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"750",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Coelho Neto",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"751",
+    "Destino 1":"Jardim Novo Realengo",
+    "Destino 2":"Cascadura",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"752",
+    "Destino 1":"Conjunto dos Palmares",
+    "Destino 2":"Coelho Neto",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"754",
+    "Destino 1":"Sao Fernando",
+    "Destino 2":"Coelho Neto",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"755",
+    "Destino 1":"Realengo",
+    "Destino 2":"Coelho Neto",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"756",
+    "Destino 1":"Santa Cruz",
+    "Destino 2":"Coelho Neto",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"759",
+    "Destino 1":"Cesarão",
+    "Destino 2":"Coelho Neto",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"766",
+    "Destino 1":"Madureira",
+    "Destino 2":"Freguesia",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"767",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Guadalupe",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"769",
+    "Destino 1":"Bangu",
+    "Destino 2":"Madureira",
+    "via":"via Mendanha"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"770",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Coelho Neto",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"771",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Coelho Neto",
+    "via":"via Camboata"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"773",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Cascadura",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"774",
+    "Destino 1":"Madureira",
+    "Destino 2":"Jardim America",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"775",
+    "Destino 1":"Jardim América",
+    "Destino 2":"Madureira",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"777",
+    "Destino 1":"Padre Miguel",
+    "Destino 2":"Madureira",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"778",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Cascadura",
+    "via":"via Rua João Vicente"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"779",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Madureira",
+    "via":"via Rua Marina"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"781",
+    "Destino 1":"Cascadura",
+    "Destino 2":"Marechal Hermes",
+    "via":"via Rocha Miranda"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"782",
+    "Destino 1":"Cascadura",
+    "Destino 2":"Marechal Hermes",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"783",
+    "Destino 1":"Marechal Hermes",
+    "Destino 2":"Praça Seca",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"784",
+    "Destino 1":"Vila Kennedy",
+    "Destino 2":"Marechal Hermes",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"786",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Marechal Hermes",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"789",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Méier",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"790",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Cascadura",
+    "via":"via Vila Alianca"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"793",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Magalhaes Bastos",
+    "via":"via Barata"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"794",
+    "Destino 1":"Bangu",
+    "Destino 2":"Cascadura",
+    "via":"via Mariopolis"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"795",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Magalhaes Bastos",
+    "via":"via Batan"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"798",
+    "Destino 1":"Jardim Água Branca",
+    "Destino 2":"Bangu",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"801",
+    "Destino 1":"Bangu",
+    "Destino 2":"Taquara",
+    "via":"via Rio da Prata"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"802",
+    "Destino 1":"Bangu",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"803",
+    "Destino 1":"Taquara",
+    "Destino 2":"Jabour",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"804",
+    "Destino 1":"Largo do Aarao",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"805",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Jardim Oceanico",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"807",
+    "Destino 1":"Jesuitas",
+    "Destino 2":"Santa Cruz",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"810",
+    "Destino 1":"Pontal",
+    "Destino 2":"Taquara",
+    "via":"via Curicica"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"811",
+    "Destino 1":"Vila Kennedy",
+    "Destino 2":"Bangu",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"812",
+    "Destino 1":"Carobinha",
+    "Destino 2":"Bangu",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"813",
+    "Destino 1":"Manguariba",
+    "Destino 2":"Santa Cruz",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"814",
+    "Destino 1":"Rio da Prata",
+    "Destino 2":"Bangu",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"819",
+    "Destino 1":"Jardim Bangu",
+    "Destino 2":"Bangu",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"820",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Taquaral",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"821",
+    "Destino 1":"Corcundinha",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"822",
+    "Destino 1":"Corcundinha",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"824",
+    "Destino 1":"Santa Maria (Vila Nova)",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"825",
+    "Destino 1":"Jesuítas",
+    "Destino 2":"Campo Grande",
+    "via":"via Santa Cruz"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"826",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Carobinha",
+    "via":"via Estr. do Lameirão"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"828",
+    "Destino 1":"A. Vasconcelos",
+    "Destino 2":"Sao Jorge",
+    "via":"via Campo Grande"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"829",
+    "Destino 1":"Gardenia Azul",
+    "Destino 2":"Freguesia",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"830",
+    "Destino 1":"Pedregoso",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"833",
+    "Destino 1":"Conjunto Manguariba",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"834",
+    "Destino 1":"Largo do Correia",
+    "Destino 2":"Campo Grande",
+    "via":"via Estrada Monteiro"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"835",
+    "Destino 1":"Largo do Correia",
+    "Destino 2":"Campo Grande",
+    "via":"via Cachamorra"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"836",
+    "Destino 1":"Caboclos",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"837",
+    "Destino 1":"Conjunto da Marinha",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"838",
+    "Destino 1":"Jardim Maravilha",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"839",
+    "Destino 1":"Cesarão",
+    "Destino 2":"Campo Grande",
+    "via":"via Urucania"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"840",
+    "Destino 1":"Sao Fernando",
+    "Destino 2":"Campo Grande",
+    "via":"via Av. João XXIII"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"841",
+    "Destino 1":"Inhoaiba",
+    "Destino 2":"Campo Grande",
+    "via":"via Estrada Rio-SP"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"842",
+    "Destino 1":"Paciência",
+    "Destino 2":"Campo Grande",
+    "via":"via Santa Margarida"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"843",
+    "Destino 1":"Boa Esperanca",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"844",
+    "Destino 1":"Barra Shopping",
+    "Destino 2":"Barrinha",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"845",
+    "Destino 1":"Cantagalo",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"846",
+    "Destino 1":"Rio da Prata",
+    "Destino 2":"Campo Grande",
+    "via":"via Cabuçu"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"847",
+    "Destino 1":"Rio da Prata",
+    "Destino 2":"Campo Grande",
+    "via":"via Lameirão"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"848",
+    "Destino 1":"Bairro Monte Santo",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"849",
+    "Destino 1":"Base Aerea",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"850",
+    "Destino 1":"Mendanha",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"851",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Escola Amazonas",
+    "via":"via Augusto Vasconcelos"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"852",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Pedra de Guaratiba",
+    "via":"via Mato Alto"
+  },
+  {
+    "Consórcio":"Feital",
+    "No atual":"856",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Marechal Hermes",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"857",
+    "Destino 1":"Jardim 7 de Abril",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"858",
+    "Destino 1":"Sao Fernando",
+    "Destino 2":"Campo Grande",
+    "via":"via Paciência"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"859",
+    "Destino 1":"Covanca",
+    "Destino 2":"Largo do Tanque",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"860",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Freguesia",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"861",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Curicica",
+    "via":"via Cidade de Deus"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"862",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Barra da Tijuca",
+    "via":"via Estr. de Jacarepaguá"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"863",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Barra da Tijuca",
+    "via":"via Av. Ayrton Senna"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"864",
+    "Destino 1":"Bangu",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"866",
+    "Destino 1":"Pedra de Guaratiba",
+    "Destino 2":"Campo Grande",
+    "via":"via Magarca"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"867",
+    "Destino 1":"Barra de Guaratiba",
+    "Destino 2":"Campo Grande",
+    "via":"via Ilha de Guaratiba"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"867",
+    "Destino 1":"Barra de Guaratiba",
+    "Destino 2":"Campo Grande",
+    "via":"via Av. das Americas"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"868",
+    "Destino 1":"Urucania",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"869",
+    "Destino 1":"Santa Margarida",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"870",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Bangu",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"871",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"872",
+    "Destino 1":"Nova Sepetiba",
+    "Destino 2":"Campo Grande",
+    "via":"via Areia Branca"
+  },
+  {
+    "Consórcio":"Feital",
+    "No atual":"875",
+    "Destino 1":"Cascadura",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"878",
+    "Destino 1":"Tanque",
+    "Destino 2":"Praia da Barra",
+    "via":"via Rio das Pedras"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"880",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Alvorada",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"881",
+    "Destino 1":"Vilar Carioca",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"884",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"885",
+    "Destino 1":"Piraque",
+    "Destino 2":"Sta Cruz",
+    "via":"via Pedra de Guaratiba"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"886",
+    "Destino 1":"Freguesia",
+    "Destino 2":"Alvorada",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"887",
+    "Destino 1":"Pechincha",
+    "Destino 2":"Alvorada",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"892",
+    "Destino 1":"Sao Benedito",
+    "Destino 2":"Sta Cruz",
+    "via":"via Matadouro"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"893",
+    "Destino 1":"Jardim Palmares",
+    "Destino 2":"Campo Grande",
+    "via":"via 29 de Marco"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"894",
+    "Destino 1":"Santa Rita",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"895",
+    "Destino 1":"Serrinha",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"898",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Campo Grande",
+    "via":"via Estrada do Campinho"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"900",
+    "Destino 1":"Merck",
+    "Destino 2":"Downtown",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"901",
+    "Destino 1":"Bonsucesso",
+    "Destino 2":"Bananal",
+    "via":"Via Jardim Guanabara"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"905",
+    "Destino 1":"Bonsucesso",
+    "Destino 2":"Irajá",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"906",
+    "Destino 1":"Caju",
+    "Destino 2":"Jardim America",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"908",
+    "Destino 1":"Bonsucesso",
+    "Destino 2":"Guadalupe",
+    "via":"via Metro Inhaúma"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"909",
+    "Destino 1":"Maré",
+    "Destino 2":"Cordovil",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"910",
+    "Destino 1":"Bananal",
+    "Destino 2":"Largo do Bicao",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"911",
+    "Destino 1":"Bonsucesso",
+    "Destino 2":"Cidade Universitária",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"913",
+    "Destino 1":"Del Castilho",
+    "Destino 2":"Fundão",
+    "via":"via Cidade Universitária"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"914",
+    "Destino 1":"Vigario Geral",
+    "Destino 2":"Bananal",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"915",
+    "Destino 1":"Bonsucesso",
+    "Destino 2":"AIRJ",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"917",
+    "Destino 1":"Realengo",
+    "Destino 2":"Bonsucesso",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"918",
+    "Destino 1":"Jardim Violeta",
+    "Destino 2":"Mercadão",
+    "via":"via Irajá"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"919",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Bonsucesso",
+    "via":"Parque Uniao"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"920",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Bonsucesso",
+    "via":"via Fazenda Botafogo"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"922",
+    "Destino 1":"Tubiacanga",
+    "Destino 2":"Aeroporto Internacional RJ",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"923",
+    "Destino 1":"Jardim Violeta",
+    "Destino 2":"Iapi da Penha",
+    "via":"via Bangu"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"924",
+    "Destino 1":"Aeroporto",
+    "Destino 2":"Bananal",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"925",
+    "Destino 1":"Aeroporto",
+    "Destino 2":"Bancários",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"926",
+    "Destino 1":"Senador Camara",
+    "Destino 2":"Penha",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"928",
+    "Destino 1":"Marechal Hermes",
+    "Destino 2":"Ramos",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"933",
+    "Destino 1":"Catiri",
+    "Destino 2":"Cidade Universitária",
+    "via":"via Bangu"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"934",
+    "Destino 1":"Ribeira",
+    "Destino 2":"Portuguesa",
+    "via":"via Cocota"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"935",
+    "Destino 1":"Ribeira",
+    "Destino 2":"Portuguesa",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"936",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Cidade Universitária",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"937",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Fazenda Botafogo",
+    "via":"via Bangu"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"940",
+    "Destino 1":"Ramos (Praia)",
+    "Destino 2":"Madureira",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"942",
+    "Destino 1":"Penha",
+    "Destino 2":"Pavuna",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"944",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Conjunto Engenheiro Rubens Paiva",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"945",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Cidade Universitária",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"946",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Engenho da Rainha",
+    "via":"via Avenida Dom Helder Camara"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"947",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Coelho Neto",
+    "via":"via Deodoro"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"950",
+    "Destino 1":"Vicente de Carvalho",
+    "Destino 2":"Vista Alegre",
+    "via":"via Avenida Meriti/Shopping Via Brasil"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"951",
+    "Destino 1":"Vicente de Carvalho",
+    "Destino 2":"Vista Alegre",
+    "via":"via Estrada Padre Roser/Shopping Via Brasil"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"955",
+    "Destino 1":"Mare",
+    "Destino 2":"Alvorada",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"956",
+    "Destino 1":"IAPI Penha",
+    "Destino 2":"Invernada",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"957",
+    "Destino 1":"Mare",
+    "Destino 2":"Alvorada",
+    "via":"via Botafogo/Av. Sernambetiba"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"2014",
+    "Destino 1":"Gávea",
+    "Destino 2":"Praça Mauá",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"2015",
+    "Destino 1":"Castelo",
+    "Destino 2":"Leblon",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"2017",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Leblon",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2018",
+    "Destino 1":"Aeroporto Internacional do RJ",
+    "Destino 2":"Alvorada",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2101",
+    "Destino 1":"Aeroporto Internacional",
+    "Destino 2":"Aeroporto Santos Dumont",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2110",
+    "Destino 1":"Castelo",
+    "Destino 2":"Gardenia Azul",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2111",
+    "Destino 1":"Castelo",
+    "Destino 2":"Praça Seca",
+    "via":"via Avenida Menezes Cortes"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2112",
+    "Destino 1":"Castelo",
+    "Destino 2":"Taquara",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2114",
+    "Destino 1":"Castelo",
+    "Destino 2":"Freguesia",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2115",
+    "Destino 1":"Castelo",
+    "Destino 2":"Pechincha",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2145",
+    "Destino 1":"Aeroporto Internacional",
+    "Destino 2":"Aeroporto Santos Dumont",
+    "via":""
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"2203",
+    "Destino 1":"Grajau",
+    "Destino 2":"Castelo",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2251",
+    "Destino 1":"Castelo",
+    "Destino 2":"Engenho de Dentro",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2295",
+    "Destino 1":"Castelo",
+    "Destino 2":"Pavuna",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2302",
+    "Destino 1":"Mariopolis",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2303",
+    "Destino 1":"Cesarão",
+    "Destino 2":"Carioca",
+    "via":"via Palmares e P. Vargas"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2304",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Carioca",
+    "via":"via Padre G. Decaminada"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2305",
+    "Destino 1":"Jardim America",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2307",
+    "Destino 1":"Jardim 7 de Abril",
+    "Destino 2":"Castelo",
+    "via":"via Presidente Vargas"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2308",
+    "Destino 1":"Cosmos",
+    "Destino 2":"Carioca",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2309",
+    "Destino 1":"Urucania",
+    "Destino 2":"Carioca",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2310",
+    "Destino 1":"Bangu",
+    "Destino 2":"Carioca",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2329",
+    "Destino 1":"Recreio",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2330",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Barra da Tijuca",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2331",
+    "Destino 1":"Santa Cruz",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2332",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2333",
+    "Destino 1":"Recreio",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2334",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2335",
+    "Destino 1":"Santa Cruz",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2336",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2337",
+    "Destino 1":"Santa Cruz",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2338",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2342",
+    "Destino 1":"Castelo",
+    "Destino 2":"Bananal",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2343",
+    "Destino 1":"Castelo",
+    "Destino 2":"Ribeira",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2344",
+    "Destino 1":"Castelo",
+    "Destino 2":"Bancários",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2345",
+    "Destino 1":"Castelo",
+    "Destino 2":"Vila Valqueire",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2345",
+    "Destino 1":"Castelo",
+    "Destino 2":"Vila Valqueire",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2346",
+    "Destino 1":"Castelo",
+    "Destino 2":"Vila Valqueire",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2346",
+    "Destino 1":"Castelo",
+    "Destino 2":"Vila Valqueire",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2381",
+    "Destino 1":"Pedra de Guaratiba",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2381",
+    "Destino 1":"Pedra de Guaratiba",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2483",
+    "Destino 1":"Penha",
+    "Destino 2":"General Osório",
+    "via":"via Santa Bárbara"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"2483",
+    "Destino 1":"Penha",
+    "Destino 2":"General Osório",
+    "via":"via Santa Bárbara"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2801",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Barra da Tijuca",
+    "via":"via Magarça"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2802",
+    "Destino 1":"Santa Cruz",
+    "Destino 2":"Alvorada",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2803",
+    "Destino 1":"Vila Kennedy",
+    "Destino 2":"Barra da Tijuca",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"2804",
+    "Destino 1":"Bangu",
+    "Destino 2":"Barra da Tijuca",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"2918",
+    "Destino 1":"AIRJ Galeão",
+    "Destino 2":"Alvorada",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"355A",
+    "Destino 1":"Vicente de Carvalho",
+    "Destino 2":"Tiradentes",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"610A",
+    "Destino 1":"Tanque",
+    "Destino 2":"Del Castilho",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"618A",
+    "Destino 1":"Madureira",
+    "Destino 2":"Higienópolis",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"631A",
+    "Destino 1":"Vicente",
+    "Destino 2":"Bonsucesso",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"676A",
+    "Destino 1":"Madureira",
+    "Destino 2":"Méier",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"690A",
+    "Destino 1":"Madureira",
+    "Destino 2":"Méier",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"702A",
+    "Destino 1":"Praça Seca",
+    "Destino 2":"Madureira",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"766A",
+    "Destino 1":"Madureira",
+    "Destino 2":"Madureira Shopping",
+    "via":"via Vila Kennedy"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"800A",
+    "Destino 1":"Curicica",
+    "Destino 2":"Taquara",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"806A",
+    "Destino 1":"Boiúna",
+    "Destino 2":"Taquara",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"808A",
+    "Destino 1":"Colônia",
+    "Destino 2":"Recreio",
+    "via":"via Piabas"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"809A",
+    "Destino 1":"Curicica",
+    "Destino 2":"Recreio",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"815A",
+    "Destino 1":"Teixeiras",
+    "Destino 2":"Taquara",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"816A",
+    "Destino 1":"Capela",
+    "Destino 2":"Taquara",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"817A",
+    "Destino 1":"Vargem Grande",
+    "Destino 2":"Recreio",
+    "via":"via Rio Morto"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"818A",
+    "Destino 1":"Vargem Grande",
+    "Destino 2":"Recreio",
+    "via":"via Estrada do Pontal"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"820A",
+    "Destino 1":"Gláucio Gil",
+    "Destino 2":"Recreio Shopping",
+    "via":"via Estrada do Pontal"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"823A",
+    "Destino 1":"Recreio",
+    "Destino 2":"Vargem Grande",
+    "via":"via Rio Morto"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"827A",
+    "Destino 1":"Vargem Grande",
+    "Destino 2":"Recreio",
+    "via":"via Rio Morto"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"831A",
+    "Destino 1":"Colônia",
+    "Destino 2":"Taquara",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"832A",
+    "Destino 1":"Colônia",
+    "Destino 2":"Hospital Sarah",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"853A",
+    "Destino 1":"Vila Kennedy",
+    "Destino 2":"Mato Alto",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"854A",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Mato Alto",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"854AA",
+    "Destino 1":"Barra de Guaratiba",
+    "Destino 2":"Mato Alto",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"855A",
+    "Destino 1":"Bangu",
+    "Destino 2":"Magarça",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"856A",
+    "Destino 1":"Curicica",
+    "Destino 2":"Taquara",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"865A",
+    "Destino 1":"Pau da Fome",
+    "Destino 2":"Taquara",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"870A",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Santa Cruz",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"871A",
+    "Destino 1":"Praia da Brisa",
+    "Destino 2":"Cesarão",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"872A",
+    "Destino 1":"Nova Sepetiba",
+    "Destino 2":"Santa Cruz",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"873A",
+    "Destino 1":"Jardim 7 de Abril",
+    "Destino 2":"Paciencia",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"874A",
+    "Destino 1":"Marambaia",
+    "Destino 2":"Pontal",
+    "via":"via Grota Funda"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"875A",
+    "Destino 1":"Chácara",
+    "Destino 2":"Praça Seca",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"877A",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Tanque",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"879A",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Magarça",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"881A",
+    "Destino 1":"Vilar Carioca",
+    "Destino 2":"BRT",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"882A",
+    "Destino 1":"Tanque",
+    "Destino 2":"Alvorada",
+    "via":"via Gabinal"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"883A",
+    "Destino 1":"Bangu",
+    "Destino 2":"Mato Alto",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"888A",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Praia da Barra",
+    "via":"via Érico Veríssimo"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"889A",
+    "Destino 1":"Sulacap",
+    "Destino 2":"Taquara",
+    "via":"via Catonho"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"890A",
+    "Destino 1":"Tanque",
+    "Destino 2":"Alvorada",
+    "via":"via Edgard Werneck"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"891A",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Mato Alto",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"896A",
+    "Destino 1":"Mato Alto",
+    "Destino 2":"Pingo D'Água",
+    "via":"via Pedra"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"897A",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Via Parque",
+    "via":"via Península"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"899A",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Joatinga",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"910A",
+    "Destino 1":"Bananal",
+    "Destino 2":"Fundão",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"912A",
+    "Destino 1":"Vaz Lobo",
+    "Destino 2":"Caracol",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"915A",
+    "Destino 1":"Bonsucesso",
+    "Destino 2":"Caracol",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"921A",
+    "Destino 1":"Vila Cruzeiro",
+    "Destino 2":"Penha",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"928A",
+    "Destino 1":"Vicente",
+    "Destino 2":"Ramos",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"931A",
+    "Destino 1":"Curicica",
+    "Destino 2":"Recreio",
+    "via":"via Arroio Pavuna"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"932A",
+    "Destino 1":"Gardênia",
+    "Destino 2":"Tanque",
+    "via":"via Pau Ferro"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"938A",
+    "Destino 1":"Marechal",
+    "Destino 2":"Madureira",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"939A",
+    "Destino 1":"Gardênia Azul",
+    "Destino 2":"Tanque",
+    "via":"via Taquara"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"953A",
+    "Destino 1":"Taquara",
+    "Destino 2":"Cidade de Deus",
+    "via":"via Retiro"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"954A",
+    "Destino 1":"Curicica",
+    "Destino 2":"Recreio",
+    "via":"via Benvindo"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"959A",
+    "Destino 1":"Curicica",
+    "Destino 2":"Recreio",
+    "via":"via Salvador Allende"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"963A",
+    "Destino 1":"Santa Maria",
+    "Destino 2":"Taquara",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"964A",
+    "Destino 1":"Pau da Fome",
+    "Destino 2":"Taquara",
+    "via":"via Meringuava"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"966A",
+    "Destino 1":"Cardoso Fontes",
+    "Destino 2":"Tanque",
+    "via":""
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"991A",
+    "Destino 1":"Taquara",
+    "Destino 2":"Alvorada",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"INT1",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Rio Sul",
+    "via":"via Américas"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"INT2",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Rio Sul",
+    "via":"via Sernambetiba"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"INT3",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Botafogo (Metrô)",
+    "via":"via Américas"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"INT6",
+    "Destino 1":"Cidade de Deus",
+    "Destino 2":"General Osório",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"INT8",
+    "Destino 1":"Recreio",
+    "Destino 2":"Rio Sul",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"INT9",
+    "Destino 1":"Piabas x Rio Sul",
+    "Destino 2":"Rio Sul",
+    "via":"via Av. Benvindo de Novaes"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"LECD10",
+    "Destino 1":"Projac",
+    "Destino 2":"Rio Sul",
+    "via":"via Riocentro"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"LECD14",
+    "Destino 1":"Paciência",
+    "Destino 2":"Pingo d'Água",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"LECD7",
+    "Destino 1":"Recreio",
+    "Destino 2":"Carioca",
+    "via":"via Abelardo Bueno"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"LECD8",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Carioca",
+    "via":"via Padre G. Decaminada"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"SE474",
+    "Destino 1":"Jacaré",
+    "Destino 2":"Jardim de Alah",
+    "via":"via Sta. Bárbara"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SE614",
+    "Destino 1":"Del Castilho",
+    "Destino 2":"Alvorada",
+    "via":"via Engenhao"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN300",
+    "Destino 1":"Sulacap",
+    "Destino 2":"Candelária",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SN324",
+    "Destino 1":"Ribeira",
+    "Destino 2":"Castelo",
+    "via":"via Aeroporto"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SN326",
+    "Destino 1":"Bancários",
+    "Destino 2":"Castelo",
+    "via":"via Aeroporto"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SN346",
+    "Destino 1":"Candelária",
+    "Destino 2":"Gardênia Azul",
+    "via":"via Clarimundo de Melo"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN392",
+    "Destino 1":"Bangu",
+    "Destino 2":"Carioca",
+    "via":"via Padre Miguel"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN393",
+    "Destino 1":"Bangu",
+    "Destino 2":"Castelo",
+    "via":"Seletiva"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN397",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Carioca",
+    "via":"via Bangu"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN398",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Tiradentes",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SN550",
+    "Destino 1":"Cidade de Deus",
+    "Destino 2":"Gávea",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN689",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Méier",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SN696",
+    "Destino 1":"Dende",
+    "Destino 2":"Méier",
+    "via":"via Cidade Universitária"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN737",
+    "Destino 1":"Santissimo",
+    "Destino 2":"Marechal Hermes",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN741",
+    "Destino 1":"Barata",
+    "Destino 2":"Bangu",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN744",
+    "Destino 1":"Realengo",
+    "Destino 2":"Cascadura",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN745",
+    "Destino 1":"Bangu",
+    "Destino 2":"Cascadura",
+    "via":"via Tibagi"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN777",
+    "Destino 1":"Padre Miguel",
+    "Destino 2":"Madureira",
+    "via":"via Rua do Governo"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN786",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Marechal Hermes",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN803",
+    "Destino 1":"Senador Camara",
+    "Destino 2":"Alvorada",
+    "via":"via Felipe Cardoso"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN838",
+    "Destino 1":"Jardim Maravilha",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN839",
+    "Destino 1":"Cesarão",
+    "Destino 2":"Campo Grande",
+    "via":"via Urucania"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN840",
+    "Destino 1":"Sao Fernando",
+    "Destino 2":"Campo Grande",
+    "via":"via Av. João XXIII"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN841",
+    "Destino 1":"Inhoaiba",
+    "Destino 2":"Campo Grande",
+    "via":"via Estrada Rio-SP"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN846",
+    "Destino 1":"Rio da Prata",
+    "Destino 2":"Campo Grande",
+    "via":"via Cabuçu"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN850",
+    "Destino 1":"Mendanha",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN867",
+    "Destino 1":"Barra de Guaratiba",
+    "Destino 2":"Campo Grande",
+    "via":"via Ilha de Guaratiba"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN870",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Bangu",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SN898",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Campo Grande",
+    "via":"via Estrada do Campinho"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SP265",
+    "Destino 1":"Marechal Hermes",
+    "Destino 2":"São Cristóvão",
+    "via":"via Parque Madureira"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SP292",
+    "Destino 1":"Engenho da Rainha",
+    "Destino 2":"Candelária",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SP311",
+    "Destino 1":"Castelo",
+    "Destino 2":"Del Castilho",
+    "via":"via Democráticos"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SP326",
+    "Destino 1":"Portuguesa",
+    "Destino 2":"Castelo",
+    "via":"via Brasil"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SP341",
+    "Destino 1":"Freguesia",
+    "Destino 2":"Candelária",
+    "via":"via Serra"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SP343",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Candelária",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SP350",
+    "Destino 1":"Irajá",
+    "Destino 2":"Candelária",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SP352",
+    "Destino 1":"Riocentro",
+    "Destino 2":"Saida 7",
+    "via":"via Linha Amarela"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SP363",
+    "Destino 1":"Vila Valqueire",
+    "Destino 2":"Candelária",
+    "via":"via Méier"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SP368",
+    "Destino 1":"Riocentro",
+    "Destino 2":"Cardoso Fontes",
+    "via":"via Ituverava"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SP383",
+    "Destino 1":"Jardim Novo (Realengo)",
+    "Destino 2":"Praça da República",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SP483",
+    "Destino 1":"Olaria",
+    "Destino 2":"Siqueira Campos",
+    "via":"via Santa Barbara"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SP850",
+    "Destino 1":"Sao Geraldo",
+    "Destino 2":"Campo Grande",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SP878",
+    "Destino 1":"Freguesia",
+    "Destino 2":"Praia da Barra",
+    "via":"via Rio das Pedras"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"SP899A",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Downtown",
+    "via":"parador"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"SP931A",
+    "Destino 1":"Curicica",
+    "Destino 2":"Riocentro",
+    "via":"via Arroio Pavuna"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SPINT8",
+    "Destino 1":"Barra Sul",
+    "Destino 2":"Rio Sul",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SR300",
+    "Destino 1":"Sulacap",
+    "Destino 2":"Candelária",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SR335",
+    "Destino 1":"Cordovil",
+    "Destino 2":"Tiradentes",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SR342",
+    "Destino 1":"Jardim América",
+    "Destino 2":"Passeio",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SR349",
+    "Destino 1":"Rocha Miranda",
+    "Destino 2":"Praça XV",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SR350",
+    "Destino 1":"Irajá",
+    "Destino 2":"Passeio",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SR358",
+    "Destino 1":"Cosmos",
+    "Destino 2":"Candelária",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SR362",
+    "Destino 1":"Honório Gurgel",
+    "Destino 2":"Castelo",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SR367",
+    "Destino 1":"Realengo",
+    "Destino 2":"Candelária",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SR378",
+    "Destino 1":"Marechal Hermes",
+    "Destino 2":"Castelo",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SR379",
+    "Destino 1":"Catiri",
+    "Destino 2":"Tiradentes",
+    "via":"Seletiva"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SR385",
+    "Destino 1":"Castelo",
+    "Destino 2":"Village Pavuna",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SR389",
+    "Destino 1":"Vila Aliança",
+    "Destino 2":"Candelária",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SR393",
+    "Destino 1":"Bangu",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SR394",
+    "Destino 1":"Vila Kennedy",
+    "Destino 2":"Tiradentes",
+    "via":"Parador"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SR395",
+    "Destino 1":"Coqueiros",
+    "Destino 2":"Tiradentes",
+    "via":"Parador"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SR397",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Carioca",
+    "via":"via Bangu"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SR398",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Tiradentes",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SR693",
+    "Destino 1":"Méier",
+    "Destino 2":"Alvorada",
+    "via":"direto"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"SR899A",
+    "Destino 1":"Alvorada",
+    "Destino 2":"Joatinga",
+    "via":"direto"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SV2333",
+    "Destino 1":"Piabas",
+    "Destino 2":"Castelo",
+    "via":"via Orla"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV2334",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV2336",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SV2345",
+    "Destino 1":"Castelo",
+    "Destino 2":"Vila Valqueire",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SV2345",
+    "Destino 1":"Castelo",
+    "Destino 2":"Vila Valqueire",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV2381",
+    "Destino 1":"Pedra de Guaratiba",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV2381",
+    "Destino 1":"Pedra de Guaratiba",
+    "Destino 2":"Castelo",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV300",
+    "Destino 1":"Sulacap",
+    "Destino 2":"Candelária",
+    "via":"via Estrada do Fontinha"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV322",
+    "Destino 1":"Ribeira",
+    "Destino 2":"Castelo",
+    "via":"via Cidade Universitária"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV324",
+    "Destino 1":"Ribeira",
+    "Destino 2":"Castelo",
+    "via":"via Cidade Universitária"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV326",
+    "Destino 1":"Bancários",
+    "Destino 2":"Castelo",
+    "via":"via Cidade Universitária"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV328",
+    "Destino 1":"Bananal",
+    "Destino 2":"Castelo",
+    "via":"via Cidade Universitária"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV335",
+    "Destino 1":"Brás de Pina",
+    "Destino 2":"Tiradentes",
+    "via":"via Seletiva"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SV363",
+    "Destino 1":"Praça Seca",
+    "Destino 2":"Castelo",
+    "via":"via Valqueire"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV376",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Praça XV",
+    "via":"via Parque Columbia"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SV380",
+    "Destino 1":"Curicica",
+    "Destino 2":"Candelária",
+    "via":"via Edgard Werneck"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SV390",
+    "Destino 1":"Curicica",
+    "Destino 2":"Candelária",
+    "via":"via Estrada do Pau Ferro"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV498",
+    "Destino 1":"Circular da Penha",
+    "Destino 2":"Largo do Machado",
+    "via":"via Conj. Marcilio Dias"
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SV600",
+    "Destino 1":"Taquara (Boiúna)",
+    "Destino 2":"Saens Peña",
+    "via":"via Edgard Werneck"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV606",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Engenho de Dentro",
+    "via":"via Boca do Mato"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV669",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Cachambi",
+    "via":"via Camboata"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV696",
+    "Destino 1":"Méier",
+    "Destino 2":"Praia do Dende",
+    "via":"via Dona Clara"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV745",
+    "Destino 1":"Bangu",
+    "Destino 2":"Cascadura",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV777",
+    "Destino 1":"Padre Miguel",
+    "Destino 2":"Madureira",
+    "via":"via Estrada de Botafogo"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV779",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Madureira",
+    "via":"via Praça Seca"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV790",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Cascadura",
+    "via":""
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV819",
+    "Destino 1":"Jardim Bangu",
+    "Destino 2":"Bangu",
+    "via":"via Catiri"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV841",
+    "Destino 1":"Carvalho Ramos",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV843",
+    "Destino 1":"Boa Esperanca",
+    "Destino 2":"Campo Grande",
+    "via":"via Estrada da Cachamorra"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV858",
+    "Destino 1":"Campo Grande",
+    "Destino 2":"Sta Cruz",
+    "via":"via Cesarão/Conjunto Alvorada"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV866",
+    "Destino 1":"Cinco Marias",
+    "Destino 2":"Campo Grande",
+    "via":"circular"
+  },
+  {
+    "Consórcio":"Santa Cruz",
+    "No atual":"SV870",
+    "Destino 1":"Sepetiba",
+    "Destino 2":"Bangu",
+    "via":"via Cesarão"
+  },
+  {
+    "Consórcio":"BRT",
+    "No atual":"SV874A",
+    "Destino 1":"Ilha de Guaratiba",
+    "Destino 2":"Barra de Guaratiba",
+    "via":""
+  },
+  {
+    "Consórcio":"Transcarioca",
+    "No atual":"SV880",
+    "Destino 1":"Rio das Pedras",
+    "Destino 2":"Ilha Pura",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV901",
+    "Destino 1":"Bonsucesso",
+    "Destino 2":"Bananal",
+    "via":"via Cacuia"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV908",
+    "Destino 1":"Bonsucesso",
+    "Destino 2":"Guadalupe",
+    "via":""
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV917",
+    "Destino 1":"Realengo",
+    "Destino 2":"Bonsucesso",
+    "via":"via Rua Marina"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV920",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Bonsucesso",
+    "via":"via Shopping Via Brasil"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV942",
+    "Destino 1":"Penha",
+    "Destino 2":"Pavuna",
+    "via":"via Shopping Via Brasil"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV944",
+    "Destino 1":"Pavuna",
+    "Destino 2":"Conjunto Engenheiro Rubens Paiva",
+    "via":"via Rua Sargento A. Ernesto"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SV956",
+    "Destino 1":"Invernada",
+    "Destino 2":"Penha",
+    "via":"via Cidade Universitaria"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SVA905",
+    "Destino 1":"Bonsucesso",
+    "Destino 2":"Irajá",
+    "via":"via Amarelinho"
+  },
+  {
+    "Consórcio":"Internorte",
+    "No atual":"SVB905",
+    "Destino 1":"Irajá",
+    "Destino 2":"Hospital das Clínicas",
+    "via":"via Cidade Universitária"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"TRO1",
+    "Destino 1":"Central",
+    "Destino 2":"General Osório",
+    "via":"via Aterro"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"TRO10",
+    "Destino 1":"Pça. Cruz Vermelha",
+    "Destino 2":"General Osório",
+    "via":"via Catete"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"TRO3",
+    "Destino 1":"Central",
+    "Destino 2":"Leblon",
+    "via":"via Aterro"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"TRO4",
+    "Destino 1":"São Conrado",
+    "Destino 2":"Rodoviária",
+    "via":"via Niemeyer"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"TRO5",
+    "Destino 1":"Central",
+    "Destino 2":"Gávea",
+    "via":"via Praia do Flamengo"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"TRO6",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Jardim de Alah",
+    "via":"via Santa Bárbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"TRO7",
+    "Destino 1":"Central",
+    "Destino 2":"Cosme Velho",
+    "via":"via Sta Bárbara"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"TRO8",
+    "Destino 1":"Rodoviária",
+    "Destino 2":"Cosme Velho",
+    "via":"via Largo do Machado"
+  },
+  {
+    "Consórcio":"Intersul",
+    "No atual":"TRO9",
+    "Destino 1":"Central",
+    "Destino 2":"São Conrado",
+    "via":"via Santa Bárbara"
+  }
+]

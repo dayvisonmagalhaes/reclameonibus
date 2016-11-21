@@ -1,0 +1,658 @@
+Consórcio;No atual;Destino 1;Destino 2;via
+Intersul;006;Silvestre;Castelo;
+Intersul;007;Silvestre;Central;
+Intersul;10;B. Fátima;Central;circular
+Intersul;11;Rodoviária;Cinelândia;via Praça Mauá
+Intersul;14;Paula Matos;Castelo;
+Intersul;16;Cinelândia;Santos Dumont;circular
+Intersul;107;Central;Urca;
+Intersul;110;Rodoviária;Jardim de Alah;via Rebouças
+Intersul;111;Rodoviária;Jardim de Alah;via Rebouças
+Intersul;112;Rodoviária;Gávea;via Rebouças
+Intersul;133;Rodoviária;Largo do Machado;via Estácio
+Intersul;143;Central;Gávea;
+Intersul;157;Central;Gávea;via Lagoa
+Intersul;161;Lapa;Leblon;via Catete
+Intersul;162;Lapa;Leblon;via Catete
+Intersul;170;Rodoviária;Gávea;via Catete
+Intersul;173;Rodoviária;Leblon;via Santa Bárbara
+Intersul;178;Rodoviária;São Conrado;via Catete
+Intersul;180;Central;Cosme Velho;via Catete
+Intersul;181;Rodoviária;São Conrado;via Linha Amarela
+Intersul;183;Central;Laranjeiras;via Santa Bárbara
+Intersul;184;Central;Laranjeiras;via Catete
+Intersul;201;Santa Alexandrina;Carioca;circular
+Intersul;202;Rio Comprido;Castelo;circular
+Intersul;204;Rio Comprido;Estácio;via Santa Alexandrina
+Intersul;209;Caju;Estácio;via São Cristóvão
+Intersul;210;Caju;Candelária;circular
+Intersul;213;Muda;Castelo;via Aterro do Flamengo
+Intersul;217;Andaraí;Carioca;via Saens Peña
+Intersul;220;Usina;Candelária;via Haddock Lobo
+Intersul;222;Vila Isabel;Praça Mauá;via Hosp. Servidores
+Intersul;226;Grajaú;Carioca;via Saens Peña
+Intersul;229;Usina;Castelo;via Frei Caneca
+Internorte;232;Lins;Castelo;via Rua Aquidabã
+Internorte;238;Água Santa;Praça XV;via Frei Caneca
+Internorte;239;Água Santa;Castelo;via 24 de Maio
+Internorte;247;C. Méier;Passeio;circular
+Internorte;249;Água Santa;Carioca;circular
+Internorte;254;Madureira;Castelo;via Cruz Vermelha
+Internorte;265;Marechal Hermes;Castelo;via Binário
+Intersul;275;Méier;Castelo;circular
+Internorte;277;Rocha Miranda;Castelo;via São Cristóvão
+Internorte;284;Olaria;Candelária;circular
+Internorte;292;Engenho da Rainha;Castelo;
+Internorte;296;Irajá;Castelo;
+Internorte;298;Acari;Castelo;
+Santa Cruz;300;Sulacap;Candelária;
+Transcarioca;301;Rodoviária;Alvorada;via Américas
+Transcarioca;302;Rodoviária;Alvorada;via Sernambetiba
+Transcarioca;303;Alvorada;Rodoviária;via Linha Amarela
+Transcarioca;306;Praça Seca;Castelo;via Serra
+x;307;Vila Kosmos;Praça XV;via Lucas
+Transcarioca;309;Alvorada;Central;via Flamengo
+Internorte;310;Engenho da Rainha;Praça XV;circular
+Internorte;311;Eng. Leal;Praça XV;via Cavalcanti
+Internorte;312;Olaria;Candelária;via São Cristóvão
+Internorte;313;Penha (Grotão);Praça Tiradentes;via Vila Cruzeiro
+Transcarioca;315;Central;Recreio;via Linha Amarela
+Transcarioca;316;Recreio;Central;via Jardim Botânico
+Transcarioca;317;Central;Alvorada;via Santa Bárbara
+Internorte;320;Parque União;Praça XV;
+Internorte;321;Bancários;Castelo;via Linha Vermelha
+Internorte;322;Ribeira;Castelo;via Binário
+Internorte;323;Bananal;Castelo;via Linha Vermelha
+Internorte;324;Ribeira;Castelo;via Brasil
+Internorte;325;Ribeira;Castelo;via Linha Vermelha
+Internorte;326;Bancários;Castelo;via Brasil
+Internorte;327;Ribeira;Castelo;via Linha Vermelha
+Internorte;328;Bananal;Castelo;via Brasil
+Internorte;329;Bancários;Castelo;via Praia da Rosa
+Internorte;330;Parque União;Castelo;via Brasil
+Transcarioca;331;Praça Seca;Castelo;via Linha Amarela
+Internorte;334;Cordovil;Bonsucesso;
+Internorte;335;Cordovil;Tiradentes;parador
+Transcarioca;337;Curicica;Estácio;via Linha Amarela
+Transcarioca;338;Taquara;Candelária;via Linha Amarela
+Transcarioca;339;Cidade de Deus;Rodoviária;via Linha Amarela
+Transcarioca;341;Taquara;Candelária;via Serra
+Internorte;342;Jardim América;Passeio;
+Transcarioca;343;Barra da Tijuca;Candelária;via Linha Amarela
+Internorte;344;Rocha Miranda;Castelo;
+Transcarioca;345;Candelária;Passarela da Barra;via Alto
+Transcarioca;346;Madureira;Candelária;via Clarimundo de Melo
+Transcarioca;348;Riocentro;Candelária;via Linha Amarela
+Internorte;349;Rocha Miranda;Praça XV;
+Internorte;350;Irajá;Passeio;via Praça das Nações
+Internorte;351;Vaz Lobo;Passeio;via Binário
+Transcarioca;352;Riocentro;Castelo;via Autódromo
+Transcarioca;353;Madureira;Rodoviária;via Clarimundo de Melo
+Transcarioca;355;Madureira;Tiradentes;via Vicente de Carvalho
+Santa Cruz;358;Cosmos;Candelária;Parador
+Transcarioca;361;Carioca;Recreio;via Linha Amarela
+Internorte;362;Honório Gurgel;Castelo;Parador
+Transcarioca;363;Vila Valqueire;Castelo;via UERJ
+Santa Cruz;364;Jardim Bangu;Tiradentes;via Seletiva
+Santa Cruz;365;Mendanha;Tiradentes;via Seletiva
+Santa Cruz;366;Campo Grande;Tiradentes;via Estr. Mendanha
+Santa Cruz;367;Realengo;Candelária;Parador
+Transcarioca;368;Riocentro;Castelo;via Serra
+Santa Cruz;369;Bangu;Candelária;via Seletiva
+Santa Cruz;370;Padre Miguel;Candelária;via Av.Brasil
+Transcarioca;371;Praça Seca;Tiradentes;
+Internorte;372;Pavuna;Passeio;rapido circular
+Internorte;373;Pavuna;Passeio;parador circular
+Internorte;374;Pavuna;Praça XV;via Costa Barros
+Internorte;375;Ricardo de Albuquerque;Carioca;
+Internorte;376;Pavuna;Praça XV;via Rua Mercurio
+Internorte;377;Pavuna;Praça XV;via Costa Barros
+Internorte;378;Marechal Hermes;Castelo;
+Santa Cruz;379;Catiri;Tiradentes;via Av. Brasil
+Transcarioca;380;Curicica;Candelária;via Linha Amarela
+Internorte;381;Anchieta;Cidade Universitária;circular
+Santa Cruz;383;Realengo;Praça da República;via Sulacap
+Internorte;384;Castelo;Pavuna;
+Internorte;385;Castelo;Village Pavuna;via Camboata
+Internorte;386;Anchieta;Carioca;via Mariopolis
+Santa Cruz;388;Santa Cruz;Candelária;via Av. Brasil
+Santa Cruz;389;Vila Aliança;Candelária;via Senador Camara
+Transcarioca;390;Praça XV;Curicica;via Grajaú-Jacarepaguá
+Santa Cruz;391;Padre Miguel;Carioca;
+Santa Cruz;392;Bangu;Carioca;
+Santa Cruz;393;Bangu;Castelo;via Padre Miguel
+Santa Cruz;394;Vila Kennedy;Tiradentes;
+Santa Cruz;395;Coqueiros;Tiradentes;Expresso
+Santa Cruz;396;Bairro Jabour;Carioca;Expresso
+Santa Cruz;397;Campo Grande;Carioca;via Av.Brasil
+Santa Cruz;398;Campo Grande;Tiradentes;via Bangu
+Internorte;399;Castelo;Pavuna;Expresso
+Intersul;401;Rio Comprido;Sao Salvador;via Avenida Presidente Vargas e Rua Alcobaca
+Internorte;402;Engenho da Rainha;Gávea;
+Internorte;404;Cordovil;Leblon;
+Internorte;405;Ramos;Cosme Velho;via Avenida Brasil
+Intersul;409;Saens Peña;Jardim Botanico;
+Intersul;410;Praça Saens Peña;Gávea;Horto
+Intersul;411;Usina;Prado Junior;
+Intersul;412;Usina;Praia de Botafogo;circular
+Intersul;413;Muda;Jardim de Alah;via Túnel Santa Barbara
+Intersul;415;Usina;Leblon;circular
+Intersul;416;Saens Peña;Jardim Botanico;circular
+Intersul;420;Vila Isabel;Praia de Botafogo;Horto
+Intersul;421;Vila Isabel;Prado Junior;via Túnel Santa Barbara
+Intersul;422;Grajau;Cosme Velho;circular
+Intersul;423;Grajau;Real Grandeza;
+Intersul;425;Grajau;Real Grandeza;circular
+Intersul;426;Usina;Jardim de Alah;via Túnel Santa Barbara
+Intersul;432;Vila Isabel;Leblon;via Túnel Santa Barbara
+Intersul;433;Vila Isabel;Praia de Botafogo;via Túnel Santa Barbara
+Intersul;434;Grajau;Praia de Botafogo;
+Intersul;435;Grajau;Gávea;
+Intersul;436;Grajau;Leblon;via Túnel Rebouças
+Intersul;438;Vila Isabel;Leblon;via Jóquei
+Intersul;439;Vila Isabel;Leblon;via Túnel Rebouças
+Intersul;440;Caju;Copacabana;via Túnel Reboucas/Joquei
+Intersul;441;Caju;Lido;via Túnel Reboucas/Túnel Velho
+Intersul;442;Mare;Copacabana;via São Cristóvão
+Intersul;443;Mare;Leblon;via Praça Mauá
+Intersul;444;Mare;Copacabana;via Central
+Intersul;445;Morro do Alemao;Copacabana;via Túnel Santa Barbara
+Intersul;448;Maracai;São Conrado;via Túnel Santa Barbara
+Internorte;454;Méier;Prado Junior;circular
+Internorte;455;Méier;Copacabana;circular
+Internorte;456;Norte Shopping;Siqueira Campos;via Parque do Flamengo
+Internorte;457;Abolição;Siqueira Campos;via Túnel Santa Barbara
+Internorte;458;Norte Shopping;Praia de Botafogo;via Túnel Santa Barbara
+Internorte;459;Abolicao;Praia de Botafogo;via Túnel Santa Barbara
+Intersul;460;São Cristóvão;Leblon;via Túnel Santa Barbara
+Intersul;461;São Cristóvão;Ipanema;via Túnel Reboucas
+Intersul;462;São Cristóvão;Copacabana;via Túnel Reboucas
+Intersul;463;São Cristóvão;Copacabana;via Túnel Reboucas
+Intersul;464;Maracanã;Praia de Botafogo;via Túnel Reboucas/Túnel Velho
+Intersul;467;Maracanã;Praia de Botafogo;
+Intersul;472;Triagem;Leme;via Praça XV
+Intersul;473;Sao Januario;Lido;via Túnel Reboucas
+Intersul;474;Jacaré;Copacabana;via Sta. Bárbara
+Intersul;475;Méier;Prado Junior;circular
+Intersul;476;Méier;Leblon;via Túnel Reboucas
+Internorte;480;Olaria;Prado Junior;circular
+Internorte;481;Penha;Praia de Botafogo;via Santa Barbara
+Internorte;483;Penha;Siqueira Campos;via Santa Barbara
+Internorte;485;Siqueira Campos;Penha;via Fundão
+Internorte;486;Siqueira Campos;Fundão;via Avenida Brasil
+Internorte;497;Penha;Largo do Machado;
+Internorte;498;Circular da Penha;Largo do Machado;
+Intersul;503;Gávea;Alto Leblon;
+Intersul;507;Largo do Machado;Silvestre;
+Intersul;508;Jardim Botanico (Horto);Botafogo;
+Intersul;509;Jardim Botanico (Horto);Jardim de Alah;
+Intersul;511;Urca;Leblon;via Joquei
+Intersul;512;Urca;Leblon;via Copacabana
+Intersul;513;Humaitá;Urca;via Metrô de Botafogo
+Intersul;517;Gávea;Metrô de Botafogo;via Lagoa
+Transcarioca;525;General Osório;Alvorada;via Vidigal
+Intersul;535;Alvorada;Leme;
+Intersul;537;Rocinha;Leblon;via Joquei
+Intersul;538;Rocinha;Botafogo;via Copacabana
+Intersul;539;Rocinha;Botafogo;
+Intersul;548;Alvorada;Botafogo;
+Transcarioca;550;Cidade de Deus;Gávea;
+Transcarioca;555;Rio das Pedras;Gávea;
+Transcarioca;556;Rio das Pedras;Leblon;
+Transcarioca;557;Rio das Pedras;Copacabana;
+Transcarioca;565;Tanque;Gávea;
+Intersul;569;Largo do Machado;Leblon;via Joquei
+Intersul;570;Largo do Machado;Leblon;via Copacabana
+Intersul;573;Gloria;Leblon;via Joquei
+Intersul;574;Gloria;Leblon;via Copacabana
+Intersul;580;Largo do Machado;Laranjeiras;
+Intersul;583;Cosme Velho;Leblon;via Joquei
+Intersul;584;Cosme Velho;Leblon;via Copacabana
+Intersul;590;Copacabana;Leme;circular
+Transcarioca;600;Taquara (Boiúna);Saens Peña;via Grajaú-Jacarepaguá
+Transcarioca;601;Taquara (Capela);Saens Peña;via Grajaú-Jacarepaguá
+Intersul;602;Andarai;Saens Peña;circular
+Intersul;603;Usina;Praça Saens Peña;via Sao Miguel
+Intersul;604;Usina;Praça Saens Peña;via Conde de Bonfim
+Intersul;605;Sao Francisco Xavier;Vila Isabel;
+Internorte;606;Rodoviária;Engenho de Dentro;
+Internorte;607;Cascadura;Rio Comprido;via Estácio
+Intersul;608;Grajau;Praça Saens Peña;
+Internorte;609;Sao Francisco Xavier;Méier;
+Transcarioca;611;Del Castilho;Curicica;via Linha Amarela
+Transcarioca;612;Tijuca;Curicica;via Cidade de Deus/Avenida Menezes Cortes
+Transcarioca;613;Del Castilho;Rio Centro;via Autodromo e Linha Amarela
+Transcarioca;614;Del Castilho;Alvorada;
+Internorte;615;Pavuna;Del Castilho;via Norte Shopping
+Internorte;616;Del Castilho;Fundão;via Cidade Universitária
+Internorte;621;Penha;Saens Peña;via Mangueira
+Internorte;622;Penha;Saens Peña;via Grajau
+Internorte;623;Penha;Saens Peña;via Túnel Noel Rosa
+Internorte;624;Mariopolis;Praça da Bandeira;
+Internorte;625;Olaria;Saens Peña;circular
+Intersul;626;Praça Saens Peña;Muda;
+Internorte;627;Saens Peña;Inhaúma;
+Internorte;628;Penha;Del Castilho;Shopping Nova America
+Internorte;630;Saens Peña;Penha;Iapi
+Internorte;634;Saens Peña;Bananal;
+Internorte;635;Saens Peña;Bananal;via Linha Vermelha e Cid. Universitária
+Transcarioca;636;Praça Saens Peña;Madureira;
+Internorte;638;Saens Peña;Marechal Hermes;circular
+Internorte;639;Saens Peña;Jardim America;via Rocha Miranda
+Internorte;650;Marechal Hermes;Engenho Novo;circular
+Internorte;651;Méier;Cascadura;via Arquias Cordeiro
+Internorte;652;Méier;Cascadura;via Lins
+Internorte;653;Marechal Hermes;Méier;circular
+Internorte;661;Méier;Maria da Graca;via Alv. Cabral e Norte Shopping
+Internorte;662;Méier;Maria da Graca;via Del Castilho
+Internorte;663;Méier;Fundão;circular
+Internorte;665;Pavuna;Saens Peña;via Pastor Martin Luther King Jr.
+Internorte;667;Madureira;Méier;circular
+Internorte;669;Pavuna;Cachambi;circular
+Internorte;673;Lucas;Méier;via Del Castilho
+Internorte;673;Parada de Lucas;Penha;
+Transcarioca;678;Méier;Vila Valqueire;
+Internorte;679;Grotao;Méier;circular
+Internorte;680;Penha (Iapi);Méier;circular
+Santa Cruz;684;Padre Miguel;Méier;
+Internorte;685;Irajá;Méier;
+Transcarioca;686;Fazenda da Bica;Madureira;circular
+Internorte;687;Pavuna;Méier;
+Internorte;688;Méier;Pavuna;via Rua Jose dos Reis
+Transcarioca;691;Méier;Cidade de Deus;via Linha Amarela
+Transcarioca;692;Méier;Alvorada;via Linha Amarela
+Transcarioca;693;Alvorada;Méier;via Merck
+Internorte;696;Méier;Praia do Dende;via AIRJ
+Transcarioca;709;Cascadura;Amarelinho;
+Internorte;711;Rio Comprido;Rocha Miranda;circular
+Transcarioca;712;Cascadura;Irajá;
+Transcarioca;721;Cascadura;Vila Cruzeiro;
+Internorte;723;Cascadura;Mariopolis;circular
+Internorte;725;Ricardo de Albuquerque;Cascadura;
+Internorte;727;Pavuna;Javatá;via Shopping Bangu
+Santa Cruz;730;Bangu;Cascadura;via Estrada da Posse
+Santa Cruz;731;Campo Grande;Marechal Hermes;circular
+Transcarioca;734;Rio das Pedras;Madureira;circular
+Santa Cruz;737;Santissimo;Marechal Hermes;circular
+Santa Cruz;738;Urucania;Marechal Hermes;
+Santa Cruz;739;Sulacap;Bangu;
+Santa Cruz;740;Padre Miguel;Cascadura;via Murundu
+Santa Cruz;741;Barata;Bangu;via Murundu
+Santa Cruz;742;Barata;Cascadura;via Água Branca
+Santa Cruz;743;Barata;Bangu;via Jardim Novo
+Santa Cruz;744;Realengo;Cascadura;via Jardim Novo
+Santa Cruz;745;Bangu;Cascadura;
+Santa Cruz;746;Jabour;Cascadura;
+Santa Cruz;750;Sepetiba;Coelho Neto;
+Santa Cruz;751;Jardim Novo Realengo;Cascadura;
+Santa Cruz;752;Conjunto dos Palmares;Coelho Neto;
+Santa Cruz;754;Sao Fernando;Coelho Neto;
+Santa Cruz;755;Realengo;Coelho Neto;
+Santa Cruz;756;Santa Cruz;Coelho Neto;
+Santa Cruz;759;Cesarão;Coelho Neto;
+Transcarioca;766;Madureira;Freguesia;
+Santa Cruz;767;Campo Grande;Guadalupe;
+Santa Cruz;769;Bangu;Madureira;via Mendanha
+Santa Cruz;770;Campo Grande;Coelho Neto;
+Santa Cruz;771;Campo Grande;Coelho Neto;via Camboata
+Internorte;773;Pavuna;Cascadura;circular
+Transcarioca;774;Madureira;Jardim America;circular
+Transcarioca;775;Jardim América;Madureira;
+Santa Cruz;777;Padre Miguel;Madureira;
+Internorte;778;Pavuna;Cascadura;via Rua João Vicente
+Internorte;779;Pavuna;Madureira;via Rua Marina
+Transcarioca;781;Cascadura;Marechal Hermes;via Rocha Miranda
+Transcarioca;782;Cascadura;Marechal Hermes;circular
+Transcarioca;783;Marechal Hermes;Praça Seca;
+Santa Cruz;784;Vila Kennedy;Marechal Hermes;
+Santa Cruz;786;Campo Grande;Marechal Hermes;
+Santa Cruz;789;Campo Grande;Méier;
+Santa Cruz;790;Campo Grande;Cascadura;via Vila Alianca
+Internorte;793;Pavuna;Magalhaes Bastos;via Barata
+Santa Cruz;794;Bangu;Cascadura;via Mariopolis
+Internorte;795;Pavuna;Magalhaes Bastos;via Batan
+Santa Cruz;798;Jardim Água Branca;Bangu;
+Santa Cruz;801;Bangu;Taquara;via Rio da Prata
+Santa Cruz;802;Bangu;Campo Grande;
+Santa Cruz;803;Taquara;Jabour;
+Santa Cruz;804;Largo do Aarao;Campo Grande;circular
+Transcarioca;805;Alvorada;Jardim Oceanico;
+Santa Cruz;807;Jesuitas;Santa Cruz;
+Transcarioca;810;Pontal;Taquara;via Curicica
+Santa Cruz;811;Vila Kennedy;Bangu;circular
+Santa Cruz;812;Carobinha;Bangu;
+Santa Cruz;813;Manguariba;Santa Cruz;
+Santa Cruz;814;Rio da Prata;Bangu;circular
+Santa Cruz;819;Jardim Bangu;Bangu;circular
+Santa Cruz;820;Campo Grande;Taquaral;circular
+Santa Cruz;821;Corcundinha;Campo Grande;circular
+Santa Cruz;822;Corcundinha;Campo Grande;circular
+Santa Cruz;824;Santa Maria (Vila Nova);Campo Grande;circular
+Santa Cruz;825;Jesuítas;Campo Grande;via Santa Cruz
+Santa Cruz;826;Campo Grande;Carobinha;via Estr. do Lameirão
+Santa Cruz;828;A. Vasconcelos;Sao Jorge;via Campo Grande
+Transcarioca;829;Gardenia Azul;Freguesia;circular
+Santa Cruz;830;Pedregoso;Campo Grande;
+Santa Cruz;833;Conjunto Manguariba;Campo Grande;
+Santa Cruz;834;Largo do Correia;Campo Grande;via Estrada Monteiro
+Santa Cruz;835;Largo do Correia;Campo Grande;via Cachamorra
+Santa Cruz;836;Caboclos;Campo Grande;circular
+Santa Cruz;837;Conjunto da Marinha;Campo Grande;
+Santa Cruz;838;Jardim Maravilha;Campo Grande;
+Santa Cruz;839;Cesarão;Campo Grande;via Urucania
+Santa Cruz;840;Sao Fernando;Campo Grande;via Av. João XXIII
+Santa Cruz;841;Inhoaiba;Campo Grande;via Estrada Rio-SP
+Santa Cruz;842;Paciência;Campo Grande;via Santa Margarida
+Santa Cruz;843;Boa Esperanca;Campo Grande;circular
+Transcarioca;844;Barra Shopping;Barrinha;circular
+Santa Cruz;845;Cantagalo;Campo Grande;circular
+Santa Cruz;846;Rio da Prata;Campo Grande;via Cabuçu
+Santa Cruz;847;Rio da Prata;Campo Grande;via Lameirão
+Santa Cruz;848;Bairro Monte Santo;Campo Grande;circular
+Santa Cruz;849;Base Aerea;Campo Grande;
+Santa Cruz;850;Mendanha;Campo Grande;
+Santa Cruz;851;Campo Grande;Escola Amazonas;via Augusto Vasconcelos
+Santa Cruz;852;Campo Grande;Pedra de Guaratiba;via Mato Alto
+Feital;856;Campo Grande;Marechal Hermes;
+Santa Cruz;857;Jardim 7 de Abril;Campo Grande;
+Santa Cruz;858;Sao Fernando;Campo Grande;via Paciência
+Transcarioca;859;Covanca;Largo do Tanque;circular
+Transcarioca;860;Rio das Pedras;Freguesia;circular
+Transcarioca;861;Rio das Pedras;Curicica;via Cidade de Deus
+Transcarioca;862;Rio das Pedras;Barra da Tijuca;via Estr. de Jacarepaguá
+Transcarioca;863;Rio das Pedras;Barra da Tijuca;via Av. Ayrton Senna
+Santa Cruz;864;Bangu;Campo Grande;
+Santa Cruz;866;Pedra de Guaratiba;Campo Grande;via Magarca
+Santa Cruz;867;Barra de Guaratiba;Campo Grande;via Ilha de Guaratiba
+Santa Cruz;867;Barra de Guaratiba;Campo Grande;via Av. das Americas
+Santa Cruz;868;Urucania;Campo Grande;
+Santa Cruz;869;Santa Margarida;Campo Grande;circular
+Santa Cruz;870;Sepetiba;Bangu;
+Santa Cruz;871;Sepetiba;Campo Grande;
+Santa Cruz;872;Nova Sepetiba;Campo Grande;via Areia Branca
+Feital;875;Cascadura;Campo Grande;
+Transcarioca;878;Tanque;Praia da Barra;via Rio das Pedras
+Transcarioca;880;Rio das Pedras;Alvorada;
+Santa Cruz;881;Vilar Carioca;Campo Grande;circular
+Santa Cruz;884;Sepetiba;Campo Grande;
+Santa Cruz;885;Piraque;Sta Cruz;via Pedra de Guaratiba
+Transcarioca;886;Freguesia;Alvorada;
+Transcarioca;887;Pechincha;Alvorada;
+Santa Cruz;892;Sao Benedito;Sta Cruz;via Matadouro
+Santa Cruz;893;Jardim Palmares;Campo Grande;via 29 de Marco
+Santa Cruz;894;Santa Rita;Campo Grande;circular
+Santa Cruz;895;Serrinha;Campo Grande;circular
+Santa Cruz;898;Sepetiba;Campo Grande;via Estrada do Campinho
+Transcarioca;900;Merck;Downtown;
+Internorte;901;Bonsucesso;Bananal;Via Jardim Guanabara
+Internorte;905;Bonsucesso;Irajá;
+Internorte;906;Caju;Jardim America;
+Internorte;908;Bonsucesso;Guadalupe;via Metro Inhaúma
+Internorte;909;Maré;Cordovil;
+Internorte;910;Bananal;Largo do Bicao;
+Internorte;911;Bonsucesso;Cidade Universitária;circular
+Internorte;913;Del Castilho;Fundão;via Cidade Universitária
+Internorte;914;Vigario Geral;Bananal;
+Internorte;915;Bonsucesso;AIRJ;circular
+Internorte;917;Realengo;Bonsucesso;
+Santa Cruz;918;Jardim Violeta;Mercadão;via Irajá
+Internorte;919;Pavuna;Bonsucesso;Parque Uniao
+Internorte;920;Pavuna;Bonsucesso;via Fazenda Botafogo
+Internorte;922;Tubiacanga;Aeroporto Internacional RJ;circular
+Santa Cruz;923;Jardim Violeta;Iapi da Penha;via Bangu
+Internorte;924;Aeroporto;Bananal;
+Internorte;925;Aeroporto;Bancários;circular
+Santa Cruz;926;Senador Camara;Penha;
+Internorte;928;Marechal Hermes;Ramos;circular
+Santa Cruz;933;Catiri;Cidade Universitária;via Bangu
+Internorte;934;Ribeira;Portuguesa;via Cocota
+Internorte;935;Ribeira;Portuguesa;circular
+Santa Cruz;936;Campo Grande;Cidade Universitária;
+Santa Cruz;937;Campo Grande;Fazenda Botafogo;via Bangu
+Transcarioca;940;Ramos (Praia);Madureira;
+Internorte;942;Penha;Pavuna;
+Internorte;944;Pavuna;Conjunto Engenheiro Rubens Paiva;circular
+Internorte;945;Pavuna;Cidade Universitária;
+Internorte;946;Pavuna;Engenho da Rainha;via Avenida Dom Helder Camara
+Internorte;947;Pavuna;Coelho Neto;via Deodoro
+Internorte;950;Vicente de Carvalho;Vista Alegre;via Avenida Meriti/Shopping Via Brasil
+Internorte;951;Vicente de Carvalho;Vista Alegre;via Estrada Padre Roser/Shopping Via Brasil
+Transcarioca;955;Mare;Alvorada;via Linha Amarela
+Internorte;956;IAPI Penha;Invernada;
+Transcarioca;957;Mare;Alvorada;via Botafogo/Av. Sernambetiba
+Intersul;2014;Gávea;Praça Mauá;
+Intersul;2015;Castelo;Leblon;circular
+Intersul;2017;Rodoviária;Leblon;circular
+Transcarioca;2018;Aeroporto Internacional do RJ;Alvorada;
+Internorte;2101;Aeroporto Internacional;Aeroporto Santos Dumont;
+Transcarioca;2110;Castelo;Gardenia Azul;
+Transcarioca;2111;Castelo;Praça Seca;via Avenida Menezes Cortes
+Transcarioca;2112;Castelo;Taquara;via Linha Amarela
+Transcarioca;2114;Castelo;Freguesia;
+Transcarioca;2115;Castelo;Pechincha;
+Internorte;2145;Aeroporto Internacional;Aeroporto Santos Dumont;
+Intersul;2203;Grajau;Castelo;circular
+Internorte;2251;Castelo;Engenho de Dentro;
+Internorte;2295;Castelo;Pavuna;
+Internorte;2302;Mariopolis;Castelo;
+Santa Cruz;2303;Cesarão;Carioca;via Palmares e P. Vargas
+Santa Cruz;2304;Sepetiba;Carioca;via Padre G. Decaminada
+Internorte;2305;Jardim America;Castelo;
+Santa Cruz;2307;Jardim 7 de Abril;Castelo;via Presidente Vargas
+Santa Cruz;2308;Cosmos;Carioca;
+Santa Cruz;2309;Urucania;Carioca;
+Santa Cruz;2310;Bangu;Carioca;
+Transcarioca;2329;Recreio;Castelo;
+Transcarioca;2330;Rodoviária;Barra da Tijuca;
+Santa Cruz;2331;Santa Cruz;Castelo;
+Santa Cruz;2332;Campo Grande;Castelo;
+Transcarioca;2333;Recreio;Castelo;
+Santa Cruz;2334;Campo Grande;Castelo;
+Santa Cruz;2335;Santa Cruz;Castelo;
+Santa Cruz;2336;Campo Grande;Castelo;
+Santa Cruz;2337;Santa Cruz;Castelo;
+Santa Cruz;2338;Campo Grande;Castelo;
+Internorte;2342;Castelo;Bananal;
+Internorte;2343;Castelo;Ribeira;
+Internorte;2344;Castelo;Bancários;
+Transcarioca;2345;Castelo;Vila Valqueire;
+Transcarioca;2345;Castelo;Vila Valqueire;
+Transcarioca;2346;Castelo;Vila Valqueire;
+Transcarioca;2346;Castelo;Vila Valqueire;
+Santa Cruz;2381;Pedra de Guaratiba;Castelo;
+Santa Cruz;2381;Pedra de Guaratiba;Castelo;
+Internorte;2483;Penha;General Osório;via Santa Bárbara
+Internorte;2483;Penha;General Osório;via Santa Bárbara
+Santa Cruz;2801;Campo Grande;Barra da Tijuca;via Magarça
+Santa Cruz;2802;Santa Cruz;Alvorada;
+Santa Cruz;2803;Vila Kennedy;Barra da Tijuca;
+Santa Cruz;2804;Bangu;Barra da Tijuca;
+Transcarioca;2918;AIRJ Galeão;Alvorada;via Linha Amarela
+BRT;355A;Vicente de Carvalho;Tiradentes;
+BRT;610A;Tanque;Del Castilho;
+BRT;618A;Madureira;Higienópolis;
+BRT;631A;Vicente;Bonsucesso;
+BRT;676A;Madureira;Méier;
+BRT;690A;Madureira;Méier;
+BRT;702A;Praça Seca;Madureira;circular
+BRT;766A;Madureira;Madureira Shopping;via Vila Kennedy
+BRT;800A;Curicica;Taquara;
+BRT;806A;Boiúna;Taquara;circular
+BRT;808A;Colônia;Recreio;via Piabas
+BRT;809A;Curicica;Recreio;
+BRT;815A;Teixeiras;Taquara;
+BRT;816A;Capela;Taquara;
+BRT;817A;Vargem Grande;Recreio;via Rio Morto
+BRT;818A;Vargem Grande;Recreio;via Estrada do Pontal
+BRT;820A;Gláucio Gil;Recreio Shopping;via Estrada do Pontal
+BRT;823A;Recreio;Vargem Grande;via Rio Morto
+BRT;827A;Vargem Grande;Recreio;via Rio Morto
+BRT;831A;Colônia;Taquara;
+BRT;832A;Colônia;Hospital Sarah;
+BRT;853A;Vila Kennedy;Mato Alto;
+BRT;854A;Campo Grande;Mato Alto;
+BRT;854AA;Barra de Guaratiba;Mato Alto;
+BRT;855A;Bangu;Magarça;
+BRT;856A;Curicica;Taquara;
+BRT;865A;Pau da Fome;Taquara;
+BRT;870A;Sepetiba;Santa Cruz;
+BRT;871A;Praia da Brisa;Cesarão;
+BRT;872A;Nova Sepetiba;Santa Cruz;
+BRT;873A;Jardim 7 de Abril;Paciencia;
+BRT;874A;Marambaia;Pontal;via Grota Funda
+BRT;875A;Chácara;Praça Seca;
+BRT;877A;Rio das Pedras;Tanque;
+BRT;879A;Campo Grande;Magarça;
+BRT;881A;Vilar Carioca;BRT;
+BRT;882A;Tanque;Alvorada;via Gabinal
+BRT;883A;Bangu;Mato Alto;
+BRT;888A;Alvorada;Praia da Barra;via Érico Veríssimo
+BRT;889A;Sulacap;Taquara;via Catonho
+BRT;890A;Tanque;Alvorada;via Edgard Werneck
+BRT;891A;Sepetiba;Mato Alto;
+BRT;896A;Mato Alto;Pingo D'Água;via Pedra
+BRT;897A;Alvorada;Via Parque;via Península
+BRT;899A;Alvorada;Joatinga;
+BRT;910A;Bananal;Fundão;
+BRT;912A;Vaz Lobo;Caracol;
+BRT;915A;Bonsucesso;Caracol;
+BRT;921A;Vila Cruzeiro;Penha;
+BRT;928A;Vicente;Ramos;
+BRT;931A;Curicica;Recreio;via Arroio Pavuna
+BRT;932A;Gardênia;Tanque;via Pau Ferro
+BRT;938A;Marechal;Madureira;
+BRT;939A;Gardênia Azul;Tanque;via Taquara
+BRT;953A;Taquara;Cidade de Deus;via Retiro
+BRT;954A;Curicica;Recreio;via Benvindo
+BRT;959A;Curicica;Recreio;via Salvador Allende
+BRT;963A;Santa Maria;Taquara;
+BRT;964A;Pau da Fome;Taquara;via Meringuava
+BRT;966A;Cardoso Fontes;Tanque;
+BRT;991A;Taquara;Alvorada;
+Transcarioca;INT1;Alvorada;Rio Sul;via Américas
+Transcarioca;INT2;Alvorada;Rio Sul;via Sernambetiba
+Intersul;INT3;Alvorada;Botafogo (Metrô);via Américas
+Transcarioca;INT6;Cidade de Deus;General Osório;
+Transcarioca;INT8;Recreio;Rio Sul;
+Transcarioca;INT9;Piabas x Rio Sul;Rio Sul;via Av. Benvindo de Novaes
+Transcarioca;LECD10;Projac;Rio Sul;via Riocentro
+BRT;LECD14;Paciência;Pingo d'Água;
+Transcarioca;LECD7;Recreio;Carioca;via Abelardo Bueno
+Santa Cruz;LECD8;Sepetiba;Carioca;via Padre G. Decaminada
+Intersul;SE474;Jacaré;Jardim de Alah;via Sta. Bárbara
+Transcarioca;SE614;Del Castilho;Alvorada;via Engenhao
+Santa Cruz;SN300;Sulacap;Candelária;
+Internorte;SN324;Ribeira;Castelo;via Aeroporto
+Internorte;SN326;Bancários;Castelo;via Aeroporto
+Transcarioca;SN346;Candelária;Gardênia Azul;via Clarimundo de Melo
+Santa Cruz;SN392;Bangu;Carioca;via Padre Miguel
+Santa Cruz;SN393;Bangu;Castelo;Seletiva
+Santa Cruz;SN397;Campo Grande;Carioca;via Bangu
+Santa Cruz;SN398;Campo Grande;Tiradentes;
+Transcarioca;SN550;Cidade de Deus;Gávea;
+Santa Cruz;SN689;Campo Grande;Méier;
+Internorte;SN696;Dende;Méier;via Cidade Universitária
+Santa Cruz;SN737;Santissimo;Marechal Hermes;
+Santa Cruz;SN741;Barata;Bangu;
+Santa Cruz;SN744;Realengo;Cascadura;
+Santa Cruz;SN745;Bangu;Cascadura;via Tibagi
+Santa Cruz;SN777;Padre Miguel;Madureira;via Rua do Governo
+Santa Cruz;SN786;Campo Grande;Marechal Hermes;
+Santa Cruz;SN803;Senador Camara;Alvorada;via Felipe Cardoso
+Santa Cruz;SN838;Jardim Maravilha;Campo Grande;
+Santa Cruz;SN839;Cesarão;Campo Grande;via Urucania
+Santa Cruz;SN840;Sao Fernando;Campo Grande;via Av. João XXIII
+Santa Cruz;SN841;Inhoaiba;Campo Grande;via Estrada Rio-SP
+Santa Cruz;SN846;Rio da Prata;Campo Grande;via Cabuçu
+Santa Cruz;SN850;Mendanha;Campo Grande;
+Santa Cruz;SN867;Barra de Guaratiba;Campo Grande;via Ilha de Guaratiba
+Santa Cruz;SN870;Sepetiba;Bangu;
+Santa Cruz;SN898;Sepetiba;Campo Grande;via Estrada do Campinho
+Internorte;SP265;Marechal Hermes;São Cristóvão;via Parque Madureira
+Internorte;SP292;Engenho da Rainha;Candelária;
+Internorte;SP311;Castelo;Del Castilho;via Democráticos
+Internorte;SP326;Portuguesa;Castelo;via Brasil
+Transcarioca;SP341;Freguesia;Candelária;via Serra
+Transcarioca;SP343;Rio das Pedras;Candelária;via Linha Amarela
+Internorte;SP350;Irajá;Candelária;
+Transcarioca;SP352;Riocentro;Saida 7;via Linha Amarela
+Transcarioca;SP363;Vila Valqueire;Candelária;via Méier
+Transcarioca;SP368;Riocentro;Cardoso Fontes;via Ituverava
+Santa Cruz;SP383;Jardim Novo (Realengo);Praça da República;
+Internorte;SP483;Olaria;Siqueira Campos;via Santa Barbara
+Santa Cruz;SP850;Sao Geraldo;Campo Grande;
+Transcarioca;SP878;Freguesia;Praia da Barra;via Rio das Pedras
+BRT;SP899A;Alvorada;Downtown;parador
+BRT;SP931A;Curicica;Riocentro;via Arroio Pavuna
+Transcarioca;SPINT8;Barra Sul;Rio Sul;
+Santa Cruz;SR300;Sulacap;Candelária;via Seletiva
+Internorte;SR335;Cordovil;Tiradentes;via Seletiva
+Internorte;SR342;Jardim América;Passeio;via Seletiva
+Internorte;SR349;Rocha Miranda;Praça XV;via Seletiva
+Internorte;SR350;Irajá;Passeio;via Seletiva
+Santa Cruz;SR358;Cosmos;Candelária;via Seletiva
+Internorte;SR362;Honório Gurgel;Castelo;via Seletiva
+Santa Cruz;SR367;Realengo;Candelária;via Seletiva
+Internorte;SR378;Marechal Hermes;Castelo;via Seletiva
+Santa Cruz;SR379;Catiri;Tiradentes;Seletiva
+Internorte;SR385;Castelo;Village Pavuna;via Seletiva
+Santa Cruz;SR389;Vila Aliança;Candelária;via Seletiva
+Santa Cruz;SR393;Bangu;Castelo;
+Santa Cruz;SR394;Vila Kennedy;Tiradentes;Parador
+Santa Cruz;SR395;Coqueiros;Tiradentes;Parador
+Santa Cruz;SR397;Campo Grande;Carioca;via Bangu
+Santa Cruz;SR398;Campo Grande;Tiradentes;
+Transcarioca;SR693;Méier;Alvorada;direto
+BRT;SR899A;Alvorada;Joatinga;direto
+Transcarioca;SV2333;Piabas;Castelo;via Orla
+Santa Cruz;SV2334;Campo Grande;Castelo;
+Santa Cruz;SV2336;Campo Grande;Castelo;
+Transcarioca;SV2345;Castelo;Vila Valqueire;
+Transcarioca;SV2345;Castelo;Vila Valqueire;
+Santa Cruz;SV2381;Pedra de Guaratiba;Castelo;
+Santa Cruz;SV2381;Pedra de Guaratiba;Castelo;
+Santa Cruz;SV300;Sulacap;Candelária;via Estrada do Fontinha
+Internorte;SV322;Ribeira;Castelo;via Cidade Universitária
+Internorte;SV324;Ribeira;Castelo;via Cidade Universitária
+Internorte;SV326;Bancários;Castelo;via Cidade Universitária
+Internorte;SV328;Bananal;Castelo;via Cidade Universitária
+Internorte;SV335;Brás de Pina;Tiradentes;via Seletiva
+Transcarioca;SV363;Praça Seca;Castelo;via Valqueire
+Internorte;SV376;Pavuna;Praça XV;via Parque Columbia
+Transcarioca;SV380;Curicica;Candelária;via Edgard Werneck
+Transcarioca;SV390;Curicica;Candelária;via Estrada do Pau Ferro
+Internorte;SV498;Circular da Penha;Largo do Machado;via Conj. Marcilio Dias
+Transcarioca;SV600;Taquara (Boiúna);Saens Peña;via Edgard Werneck
+Internorte;SV606;Rodoviária;Engenho de Dentro;via Boca do Mato
+Internorte;SV669;Pavuna;Cachambi;via Camboata
+Internorte;SV696;Méier;Praia do Dende;via Dona Clara
+Santa Cruz;SV745;Bangu;Cascadura;circular
+Santa Cruz;SV777;Padre Miguel;Madureira;via Estrada de Botafogo
+Internorte;SV779;Pavuna;Madureira;via Praça Seca
+Santa Cruz;SV790;Campo Grande;Cascadura;
+Santa Cruz;SV819;Jardim Bangu;Bangu;via Catiri
+Santa Cruz;SV841;Carvalho Ramos;Campo Grande;circular
+Santa Cruz;SV843;Boa Esperanca;Campo Grande;via Estrada da Cachamorra
+Santa Cruz;SV858;Campo Grande;Sta Cruz;via Cesarão/Conjunto Alvorada
+Santa Cruz;SV866;Cinco Marias;Campo Grande;circular
+Santa Cruz;SV870;Sepetiba;Bangu;via Cesarão
+BRT;SV874A;Ilha de Guaratiba;Barra de Guaratiba;
+Transcarioca;SV880;Rio das Pedras;Ilha Pura;
+Internorte;SV901;Bonsucesso;Bananal;via Cacuia
+Internorte;SV908;Bonsucesso;Guadalupe;
+Internorte;SV917;Realengo;Bonsucesso;via Rua Marina
+Internorte;SV920;Pavuna;Bonsucesso;via Shopping Via Brasil
+Internorte;SV942;Penha;Pavuna;via Shopping Via Brasil
+Internorte;SV944;Pavuna;Conjunto Engenheiro Rubens Paiva;via Rua Sargento A. Ernesto
+Internorte;SV956;Invernada;Penha;via Cidade Universitaria
+Internorte;SVA905;Bonsucesso;Irajá;via Amarelinho
+Internorte;SVB905;Irajá;Hospital das Clínicas;via Cidade Universitária
+Intersul;TRO1;Central;General Osório;via Aterro
+Intersul;TRO10;Pça. Cruz Vermelha;General Osório;via Catete
+Intersul;TRO3;Central;Leblon;via Aterro
+Intersul;TRO4;São Conrado;Rodoviária;via Niemeyer
+Intersul;TRO5;Central;Gávea;via Praia do Flamengo
+Intersul;TRO6;Rodoviária;Jardim de Alah;via Santa Bárbara
+Intersul;TRO7;Central;Cosme Velho;via Sta Bárbara
+Intersul;TRO8;Rodoviária;Cosme Velho;via Largo do Machado
+Intersul;TRO9;Central;São Conrado;via Santa Bárbara
